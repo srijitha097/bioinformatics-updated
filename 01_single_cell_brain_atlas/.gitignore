@@ -1,0 +1,7 @@
+.DS_Store
+data/
+
+results/brain_seurat_object.rds
+results/brain_seurat_annotated.rds
+results/cell_metadata.csv
+results/cell_metadata_annotated.csv

@@ -1,0 +1,13 @@
+.DS_Store
+
+data/raw/
+data/processed/
+
+*.tar
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+
+results/deseq2_all_genes.csv
+results/deseq2_normalized_counts.csv

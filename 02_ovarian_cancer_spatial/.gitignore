@@ -1,0 +1,6 @@
+.DS_Store
+data/raw/
+results/ovarian_spatial_seurat.rds
+results/spot_metadata.csv
+results/ovarian_spatial_annotated.rds
+results/spot_metadata_annotated.csv

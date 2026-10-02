@@ -1,0 +1,19 @@
+name: gbm-rnaseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.5
+  - bioconductor-deseq2
+  - bioconductor-geoquery
+  - bioconductor-clusterprofiler
+  - bioconductor-org.hs.eg.db
+  - r-ggplot2
+  - r-ggrepel
+  - r-pheatmap
+  - r-dplyr
+  - r-tibble
+  - r-readr
+  - r-stringr
+  - wget
+  - tar

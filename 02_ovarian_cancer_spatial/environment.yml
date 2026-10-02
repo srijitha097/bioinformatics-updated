@@ -1,0 +1,13 @@
+name: ovarian-spatial
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base
+  - r-seurat
+  - r-ggplot2
+  - r-dplyr
+  - r-patchwork
+  - r-matrix
+  - wget
+  - unzip
