@@ -1,0 +1,71 @@
+#!/usr/bin/env Rscript
+## Public LIBD data access, independent signature construction, memory-limited Visium export.
+suppressPackageStartupMessages({
+  library(spatialLIBD);library(SummarizedExperiment);library(HDF5Array)
+  library(SpatialExperiment);library(Matrix);library(S4Vectors)
+})
+scriptarg <- grep('^--file=', commandArgs(trailingOnly=FALSE), value=TRUE)
+root <- normalizePath(file.path(dirname(sub('^--file=', '', scriptarg[1])), '..'),mustWork=TRUE)
+set.seed(42)
+rawdir <- file.path(root,'data','raw'); dir.create(rawdir,showWarnings=FALSE,recursive=TRUE)
+out <- file.path(root,'data','processed');dir.create(out,showWarnings=FALSE,recursive=TRUE)
+cat('Fetching LIBD single-nucleus reference (cached on subsequent runs) ...\n')
+z <- spatialLIBD::fetch_data('spatialDLPFC_snRNAseq',destdir=rawdir)
+unzip(z,exdir=rawdir)
+all_dirs <- list.dirs(rawdir,recursive=TRUE,full.names=TRUE)
+poss <- all_dirs[basename(all_dirs)=='sce_DLPFC_annotated']
+if (!length(poss)) stop('Cannot find unzipped sce_DLPFC_annotated directory. Inspect data/raw.')
+sce <- HDF5Array::loadHDF5SummarizedExperiment(poss[1])
+cat('Single-nucleus object:',dim(sce),'\n')
+cat('Available nuclear metadata:',paste(colnames(colData(sce)),collapse=', '),'\n')
+ct_candidates <- c('cellType_broad','celltype_broad','cellType','cell_type','cellType_layer')
+ct_col <- intersect(ct_candidates,colnames(colData(sce)))
+if (!length(ct_col)) stop('No cell type metadata found: explicitly inspect colData(sce) and update ct_candidates')
+ct <- as.character(colData(sce)[[ct_col[1]]]);valid <- !is.na(ct)&nzchar(ct)
+# Keep top eight common broad categories to avoid fitting dozens of rare subtypes.
+major <- names(head(sort(table(ct[valid]),decreasing=TRUE),8))
+ct[!ct %in% major] <- NA_character_
+cell_ix <- unlist(lapply(major,function(g) {ix<-which(ct==g);sample(ix,min(350L,length(ix)))}),use.names=FALSE)
+cat('Selected nuclei for reference:',length(cell_ix),'across',length(major),'cell types.\n')
+cat('Fetching smaller 3-section Visium subset (real measured data) ...\n')
+spe <- spatialLIBD::fetch_data('spatialDLPFC_Visium_example_subset',destdir=rawdir)
+if (!'gene_name' %in% colnames(rowData(spe))) stop('Expected gene_name column absent from LIBD spatial dataset')
+symbols <- as.character(rowData(spe)$gene_name)
+common <- intersect(rownames(sce),symbols[!is.na(symbols)])
+if (length(common)<100) stop('Gene symbols could not be harmonized between SCE and SPE')
+# Rank reference genes by published deviance score, then choose a compact matrix.
+score <- if ('binomial_deviance' %in% colnames(rowData(sce))) as.numeric(rowData(sce)$binomial_deviance) else rep(0,nrow(sce))
+score[!is.finite(score)] <- -Inf
+names(score) <- rownames(sce)
+ranked <- names(sort(score[common],decreasing=TRUE))
+markers <- c('SLC17A7','SATB2','GAD1','GAD2','GFAP','AQP4','MBP','PLP1','P2RY12','CX3CR1','SNAP25','SYN1','GRIN2A','NRXN1')
+chosen <- unique(c(intersect(markers,common),head(ranked,2200)))
+# Gene name mapping: remove duplicated symbols rather than arbitrarily merging genes.
+sidx <- match(chosen,symbols);nidx <- match(chosen,rownames(sce))
+valid <- !is.na(sidx)&!is.na(nidx);chosen<-chosen[valid];sidx<-sidx[valid];nidx<-nidx[valid]
+cat('Harmonized genes:',length(chosen),'\n')
+ref <- matrix(0,nrow=length(chosen),ncol=length(major),dimnames=list(chosen,major))
+for(k in seq_along(major)) {
+   ci<-cell_ix[ct[cell_ix]==major[k]]
+   mat<-as(assay(sce,'counts')[nidx,ci,drop=FALSE],'dgCMatrix')
+   ss<-Matrix::rowSums(mat);ref[,k]<-1e6*ss/max(sum(ss),1)
+}
+write.csv(data.frame(gene=rownames(ref),ref,check.names=FALSE),file.path(out,'reference_signatures.csv'),row.names=FALSE,quote=TRUE)
+spmeta <- as.data.frame(colData(spe))
+if (!'sample_id' %in% names(spmeta)) stop('Expected sample_id missing in Visium colData')
+spix <- unlist(lapply(split(seq_len(ncol(spe)),spmeta$sample_id),function(ix)sample(ix,min(800L,length(ix)))),use.names=FALSE)
+spix<-sort(unique(spix))
+spots <- as(assay(spe,'counts')[sidx,spix,drop=FALSE],'dgCMatrix')
+Matrix::writeMM(spots,file.path(out,'spots.mtx'))
+write.csv(data.frame(gene=chosen),file.path(out,'genes.csv'),row.names=FALSE)
+coords<-SpatialExperiment::spatialCoords(spe)[spix,,drop=FALSE]
+sm<-data.frame(spot_id=paste0(spmeta$sample_id[spix],'__',colnames(spe)[spix]), sample_id=spmeta$sample_id[spix], x=coords[,1],y=coords[,2])
+for (candidate in c('layer_annotation','layer_guess','spatialLIBD','layer')) {
+ if (candidate %in% colnames(spmeta)) {sm$layer<-as.character(spmeta[[candidate]][spix]);break}
+}
+write.csv(sm,file.path(out,'spots.csv'),row.names=FALSE)
+writeLines(c('source=LIBD spatialDLPFC processed snRNA-seq + Visium example subset',
+  sprintf('snRNAseq reference nuclei=%d',length(cell_ix)),sprintf('Visium spots=%d',length(spix)),
+  sprintf('genes=%d',length(chosen)),paste('celltype_annotation_column=',ct_col[1])),file.path(out,'real_data_provenance.txt'))
+unlink(file.path(out,'SYNTHETIC_DATA_DO_NOT_REPORT_AS_DISCOVERY.txt'))
+cat('Prepared real data in',out,'\n')

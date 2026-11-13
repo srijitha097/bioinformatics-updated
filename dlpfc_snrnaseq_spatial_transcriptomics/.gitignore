@@ -1,0 +1,24 @@
+# No raw human donor information, large caches or analysis intermediates
+/data/raw/*
+/data/processed/*
+/results/*
+!.gitkeep
+__pycache__/
+*.pyc
+.pytest_cache/
+.Rhistory
+.RData
+*.h5ad
+*.h5ad.gz
+*.h5
+*.rds
+*.rda
+*.mtx
+*.npz
+.DS_Store
+
+# Avoid accidentally publishing donor-level or simulated outputs
+/results_backup_*/
+/output/
+/plots/
+*.log
