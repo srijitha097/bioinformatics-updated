@@ -1,0 +1,9 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>HapMap QC/GWAS</title>
+<style>body{font:16px system-ui;max-width:980px;margin:2em auto;padding:1em}img{max-width:100%}td,th{border:1px solid #ddd;padding:9px}table{border-collapse:collapse;width:100%}.note{background:#fff3d4;padding:1em}</style>
+</head><body><h1>Genotyping QC, population PCA and GWAS</h1>
+<p class="note"><strong>Demo only.</strong> HapMap genotypes are real; phenotype was SIMULATED. Only 89 participants; not powered for disease inference.</p>
+<h2>QC & retained data</h2><table><tr><td>before_samples</td><td>89</td></tr><tr><td>after_samples</td><td>89</td></tr><tr><td>before_variants</td><td>83534</td></tr><tr><td>after_variants</td><td>64651</td></tr><tr><td>mean_sample_missingness</td><td>0.005590157303370787</td></tr><tr><td>mean_snp_missingness</td><td>0.005590587425479445</td></tr><tr><td>unadjusted_tested_snps</td><td>64651</td></tr><tr><td>adjusted_tested_snps</td><td>63465</td></tr><tr><td>unadjusted_smallest_p</td><td>5.586e-06</td></tr><tr><td>adjusted_smallest_p</td><td>3.544e-05</td></tr><tr><td>phenotype</td><td>SIMULATED tutorial binary disease status; not a real phenotype</td></tr></table><h2>Manhattan — unadjusted</h2><img src="manhattan.png">
+<h2>QQ — unadjusted</h2><img src="qq.png">
+<h2>Manhattan — PCA-adjusted</h2><img src="manhattan_adjusted.png">
+<h2>QQ — PCA-adjusted</h2><img src="qq_adjusted.png"><h2>PCA</h2><img src="pca.png">
+<p>Review full adjusted results at <code>gwas_adjusted.assoc.logistic</code>. PLINK HWE and frequency filters are for teaching, not universally appropriate QC thresholds.</p></body></html>
