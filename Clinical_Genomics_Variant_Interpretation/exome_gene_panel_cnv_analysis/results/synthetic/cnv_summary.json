@@ -1,0 +1,14 @@
+{
+  "synthetic_only": true,
+  "seed": 42,
+  "target_level": true,
+  "controls": 16,
+  "samples": 12,
+  "targets_per_sample": 100,
+  "tp": 36,
+  "fp": 30,
+  "fn": 10,
+  "precision": 0.5454545454545454,
+  "recall": 0.782608695652174,
+  "limitation": "Independent simulated copy-neutral control samples estimate per-target baselines. Shared capture efficiencies and independent log-normal noise simplify real assays. Five-target smoothing can miss short gains or losses. This is a target-level exercise."
+}

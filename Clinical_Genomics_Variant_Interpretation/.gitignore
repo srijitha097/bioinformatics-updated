@@ -1,0 +1,22 @@
+__pycache__/
+.venv/
+**/data/
+.DS_Store
+*.bam
+*.bai
+*.fastq.gz
+*.vcf.gz
+*.vcf.gz.tbi
+**/results/depth.tsv
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.credentials/
+# Local row-level join contains values from the legacy CCLE segment file.
+comparative_genomics/sequencing/orthogonal_array.tsv

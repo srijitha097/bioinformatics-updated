@@ -1,0 +1,13 @@
+{
+  "research_only": true,
+  "accepted_tiered_assertions": 124,
+  "accepted_without_tier": 40,
+  "unique_diseases": 85,
+  "tiers": {
+    "Tier I - Level A": 120,
+    "Tier II - Level C": 4
+  },
+  "source_sha256": "ed1e000cdc99b872497b31b37ba48d1d844f5c13af790dc5118ff16e9a97f5f6",
+  "accepted_only_export": true,
+  "limitation": "Imported source tiers, not independently assigned AMP tiers. Molecular profiles may contain multiple variants."
+}

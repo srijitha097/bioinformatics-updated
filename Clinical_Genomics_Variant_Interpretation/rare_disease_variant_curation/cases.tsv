@@ -1,0 +1,4 @@
+case_id	hpo_ids	description
+CF-like	HP:0002110;HP:0001738	Synthetic scenario with bronchiectasis and exocrine pancreatic insufficiency
+Hearing-loss	HP:0000407	Synthetic sensorineural hearing impairment scenario
+Cardiac	HP:0001639	Synthetic hypertrophic cardiomyopathy scenario

@@ -1,0 +1,24 @@
+aid	profile	disease	therapy	context	significance	pmid	eid
+5	EGFR L858R	Lung Non-small Cell Carcinoma	Erlotinib	Predictive	Sensitivity/Response	21132006	4285
+8	v::NTRK1 Fusion	Solid Tumor	Larotrectinib	Predictive	Sensitivity/Response	26216294	2955
+10	BRAF V600E	Melanoma	Vemurafenib,Cobimetinib	Predictive	Sensitivity/Response	25037139	6966
+11	BRAF V600K	Melanoma	Vemurafenib,Cobimetinib	Predictive	Sensitivity/Response	27480103	6044
+20	BRAF V600E	Colorectal Cancer		Prognostic	Poor Outcome	27404270	1552
+21	HEY1::NCOA2 Fusion	Mesenchymal Chondrosarcoma		Diagnostic	Positive	23252872	7124
+24	DNAJB1::PRKACA Fusion	Fibrolamellar Carcinoma		Diagnostic	Positive	24578576	405
+33	FLT3 D835	Acute Myeloid Leukemia	Gilteritinib	Predictive	Sensitivity/Response	28516360	8106
+34	v::ALK Fusion	Lung Non-small Cell Carcinoma	Alectinib	Predictive	Sensitivity/Response	23639470	1272
+38	FLT3 ITD	Acute Myeloid Leukemia	Gilteritinib	Predictive	Sensitivity/Response	31665578	7728
+43	SNX2::ABL1 Fusion	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like		Diagnostic	Positive	25207766	9178
+51	KANK1::NTRK2 Fusion	Solid Tumor	Larotrectinib	Predictive	Sensitivity/Response	34651095	10360
+52	EML4::NTRK3 Fusion	Solid Tumor	Entrectinib	Predictive	Sensitivity/Response	28183697	2949
+56	ETV6::NTRK3 Fusion	Congenital Fibrosarcoma	Larotrectinib	Predictive	Sensitivity/Response	27093299	6473
+76	EWSR1::WT1 Fusion	Desmoplastic Small Round Cell Tumor		Diagnostic	Positive	7862627	11406
+79	CIC::DUX4 Fusion	CIC-rearranged Sarcoma		Diagnostic	Positive	22072439	11595
+80	BCOR ITD	Kidney Clear Cell Sarcoma		Diagnostic	Positive	26573325	10801
+85	KIT D816V	Systemic Mastocytosis	Imatinib	Predictive	Resistance	19193436	11160
+87	ZFTA::v Fusion	Supratentorial Ependymoma, ZFTA Fusion–positive		Diagnostic	Positive	34389065	11429
+93	FOXR2 Rearrangement	CNS Neuroblastoma With FOXR2 Activation		Diagnostic	Positive	36895035	12521
+97	EWSR1::FLI1 Fusion	Ewing Sarcoma		Diagnostic	Positive	16258512	1754
+98	EWSR1::ERG Fusion	Ewing Sarcoma		Diagnostic	Positive	23706910	475
+99	LMNA::NTRK1 Fusion	Lipofibromatosis-like Neural Tumor		Diagnostic	Positive	32299759	11650

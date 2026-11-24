@@ -1,0 +1,271 @@
+gene	condition	method	best	worst	top1	top5	top10	rr
+DMD	original	phenotype	1	2	0.5	1	1	0.75
+DMD	original	frequency	17	30	0	0	0	0.043875581263671276
+DMD	original	combined	2	2	0	1	1	0.5
+DMD	half missing	phenotype	3	5	0	1	1	0.2611111111111111
+DMD	half missing	frequency	17	30	0	0	0	0.043875581263671276
+DMD	half missing	combined	5	5	0	1	1	0.2
+DMD	three added	phenotype	1	3	0.3333333333333333	1	1	0.6111111111111112
+DMD	three added	frequency	17	30	0	0	0	0.043875581263671276
+DMD	three added	combined	2	3	0	1	1	0.41666666666666663
+VRK1	original	phenotype	1	1	1	1	1	1.0
+VRK1	original	frequency	16	16	0	0	0	0.0625
+VRK1	original	combined	1	1	1	1	1	1.0
+VRK1	half missing	phenotype	1	2	0.5	1	1	0.75
+VRK1	half missing	frequency	16	16	0	0	0	0.0625
+VRK1	half missing	combined	1	1	1	1	1	1.0
+VRK1	three added	phenotype	1	1	1	1	1	1.0
+VRK1	three added	frequency	16	16	0	0	0	0.0625
+VRK1	three added	combined	1	1	1	1	1	1.0
+WDR83OS	original	phenotype	1	1	1	1	1	1.0
+WDR83OS	original	frequency	17	30	0	0	0	0.043875581263671276
+WDR83OS	original	combined	1	1	1	1	1	1.0
+WDR83OS	half missing	phenotype	1	1	1	1	1	1.0
+WDR83OS	half missing	frequency	17	30	0	0	0	0.043875581263671276
+WDR83OS	half missing	combined	1	1	1	1	1	1.0
+WDR83OS	three added	phenotype	1	1	1	1	1	1.0
+WDR83OS	three added	frequency	17	30	0	0	0	0.043875581263671276
+WDR83OS	three added	combined	1	1	1	1	1	1.0
+DAP3	original	phenotype	1	1	1	1	1	1.0
+DAP3	original	frequency	6	6	0	0	1	0.16666666666666666
+DAP3	original	combined	1	1	1	1	1	1.0
+DAP3	half missing	phenotype	1	1	1	1	1	1.0
+DAP3	half missing	frequency	6	6	0	0	1	0.16666666666666666
+DAP3	half missing	combined	1	1	1	1	1	1.0
+DAP3	three added	phenotype	1	1	1	1	1	1.0
+DAP3	three added	frequency	6	6	0	0	1	0.16666666666666666
+DAP3	three added	combined	1	1	1	1	1	1.0
+LDB3	original	phenotype	1	1	1	1	1	1.0
+LDB3	original	frequency	10	10	0	0	1	0.1
+LDB3	original	combined	1	1	1	1	1	1.0
+LDB3	half missing	phenotype	1	1	1	1	1	1.0
+LDB3	half missing	frequency	10	10	0	0	1	0.1
+LDB3	half missing	combined	1	1	1	1	1	1.0
+LDB3	three added	phenotype	1	1	1	1	1	1.0
+LDB3	three added	frequency	10	10	0	0	1	0.1
+LDB3	three added	combined	1	1	1	1	1	1.0
+COL3A1	original	phenotype	1	1	1	1	1	1.0
+COL3A1	original	frequency	3	3	0	1	1	0.3333333333333333
+COL3A1	original	combined	1	1	1	1	1	1.0
+COL3A1	half missing	phenotype	1	2	0.5	1	1	0.75
+COL3A1	half missing	frequency	3	3	0	1	1	0.3333333333333333
+COL3A1	half missing	combined	1	1	1	1	1	1.0
+COL3A1	three added	phenotype	1	2	0.5	1	1	0.75
+COL3A1	three added	frequency	3	3	0	1	1	0.3333333333333333
+COL3A1	three added	combined	1	1	1	1	1	1.0
+ADAMTS10	original	phenotype	1	1	1	1	1	1.0
+ADAMTS10	original	frequency	4	4	0	1	1	0.25
+ADAMTS10	original	combined	1	1	1	1	1	1.0
+ADAMTS10	half missing	phenotype	1	1	1	1	1	1.0
+ADAMTS10	half missing	frequency	4	4	0	1	1	0.25
+ADAMTS10	half missing	combined	1	1	1	1	1	1.0
+ADAMTS10	three added	phenotype	1	1	1	1	1	1.0
+ADAMTS10	three added	frequency	4	4	0	1	1	0.25
+ADAMTS10	three added	combined	1	1	1	1	1	1.0
+MOCS3	original	phenotype	1	1	1	1	1	1.0
+MOCS3	original	frequency	17	30	0	0	0	0.043875581263671276
+MOCS3	original	combined	1	1	1	1	1	1.0
+MOCS3	half missing	phenotype	1	1	1	1	1	1.0
+MOCS3	half missing	frequency	17	30	0	0	0	0.043875581263671276
+MOCS3	half missing	combined	1	1	1	1	1	1.0
+MOCS3	three added	phenotype	1	1	1	1	1	1.0
+MOCS3	three added	frequency	17	30	0	0	0	0.043875581263671276
+MOCS3	three added	combined	1	1	1	1	1	1.0
+ABCB7	original	phenotype	1	1	1	1	1	1.0
+ABCB7	original	frequency	17	30	0	0	0	0.043875581263671276
+ABCB7	original	combined	1	1	1	1	1	1.0
+ABCB7	half missing	phenotype	1	1	1	1	1	1.0
+ABCB7	half missing	frequency	17	30	0	0	0	0.043875581263671276
+ABCB7	half missing	combined	1	1	1	1	1	1.0
+ABCB7	three added	phenotype	1	1	1	1	1	1.0
+ABCB7	three added	frequency	17	30	0	0	0	0.043875581263671276
+ABCB7	three added	combined	1	1	1	1	1	1.0
+NSD1	original	phenotype	1	1	1	1	1	1.0
+NSD1	original	frequency	17	30	0	0	0	0.043875581263671276
+NSD1	original	combined	1	1	1	1	1	1.0
+NSD1	half missing	phenotype	1	1	1	1	1	1.0
+NSD1	half missing	frequency	17	30	0	0	0	0.043875581263671276
+NSD1	half missing	combined	1	1	1	1	1	1.0
+NSD1	three added	phenotype	1	1	1	1	1	1.0
+NSD1	three added	frequency	17	30	0	0	0	0.043875581263671276
+NSD1	three added	combined	1	1	1	1	1	1.0
+AXIN1	original	phenotype	1	1	1	1	1	1.0
+AXIN1	original	frequency	17	30	0	0	0	0.043875581263671276
+AXIN1	original	combined	1	1	1	1	1	1.0
+AXIN1	half missing	phenotype	1	1	1	1	1	1.0
+AXIN1	half missing	frequency	17	30	0	0	0	0.043875581263671276
+AXIN1	half missing	combined	1	1	1	1	1	1.0
+AXIN1	three added	phenotype	1	1	1	1	1	1.0
+AXIN1	three added	frequency	17	30	0	0	0	0.043875581263671276
+AXIN1	three added	combined	1	1	1	1	1	1.0
+EFEMP1	original	phenotype	1	1	1	1	1	1.0
+EFEMP1	original	frequency	12	12	0	0	0	0.08333333333333333
+EFEMP1	original	combined	1	1	1	1	1	1.0
+EFEMP1	half missing	phenotype	1	1	1	1	1	1.0
+EFEMP1	half missing	frequency	12	12	0	0	0	0.08333333333333333
+EFEMP1	half missing	combined	1	1	1	1	1	1.0
+EFEMP1	three added	phenotype	1	1	1	1	1	1.0
+EFEMP1	three added	frequency	12	12	0	0	0	0.08333333333333333
+EFEMP1	three added	combined	1	1	1	1	1	1.0
+COQ7	original	phenotype	1	1	1	1	1	1.0
+COQ7	original	frequency	7	7	0	0	1	0.14285714285714285
+COQ7	original	combined	1	1	1	1	1	1.0
+COQ7	half missing	phenotype	1	1	1	1	1	1.0
+COQ7	half missing	frequency	7	7	0	0	1	0.14285714285714285
+COQ7	half missing	combined	1	1	1	1	1	1.0
+COQ7	three added	phenotype	1	1	1	1	1	1.0
+COQ7	three added	frequency	7	7	0	0	1	0.14285714285714285
+COQ7	three added	combined	1	1	1	1	1	1.0
+PMP22	original	phenotype	1	1	1	1	1	1.0
+PMP22	original	frequency	17	30	0	0	0	0.043875581263671276
+PMP22	original	combined	1	1	1	1	1	1.0
+PMP22	half missing	phenotype	1	1	1	1	1	1.0
+PMP22	half missing	frequency	17	30	0	0	0	0.043875581263671276
+PMP22	half missing	combined	1	1	1	1	1	1.0
+PMP22	three added	phenotype	1	5	0.2	1	1	0.45666666666666667
+PMP22	three added	frequency	17	30	0	0	0	0.043875581263671276
+PMP22	three added	combined	1	5	0.2	1	1	0.45666666666666667
+LZTR1	original	phenotype	1	1	1	1	1	1.0
+LZTR1	original	frequency	11	11	0	0	0	0.09090909090909091
+LZTR1	original	combined	1	1	1	1	1	1.0
+LZTR1	half missing	phenotype	1	1	1	1	1	1.0
+LZTR1	half missing	frequency	11	11	0	0	0	0.09090909090909091
+LZTR1	half missing	combined	1	1	1	1	1	1.0
+LZTR1	three added	phenotype	1	1	1	1	1	1.0
+LZTR1	three added	frequency	11	11	0	0	0	0.09090909090909091
+LZTR1	three added	combined	1	1	1	1	1	1.0
+LAMB3	original	phenotype	1	1	1	1	1	1.0
+LAMB3	original	frequency	17	30	0	0	0	0.043875581263671276
+LAMB3	original	combined	1	1	1	1	1	1.0
+LAMB3	half missing	phenotype	1	1	1	1	1	1.0
+LAMB3	half missing	frequency	17	30	0	0	0	0.043875581263671276
+LAMB3	half missing	combined	1	1	1	1	1	1.0
+LAMB3	three added	phenotype	1	1	1	1	1	1.0
+LAMB3	three added	frequency	17	30	0	0	0	0.043875581263671276
+LAMB3	three added	combined	1	1	1	1	1	1.0
+CACHD1	original	phenotype	1	1	1	1	1	1.0
+CACHD1	original	frequency	2	2	0	1	1	0.5
+CACHD1	original	combined	1	1	1	1	1	1.0
+CACHD1	half missing	phenotype	1	1	1	1	1	1.0
+CACHD1	half missing	frequency	2	2	0	1	1	0.5
+CACHD1	half missing	combined	1	1	1	1	1	1.0
+CACHD1	three added	phenotype	1	1	1	1	1	1.0
+CACHD1	three added	frequency	2	2	0	1	1	0.5
+CACHD1	three added	combined	1	1	1	1	1	1.0
+CAD	original	phenotype	1	1	1	1	1	1.0
+CAD	original	frequency	17	30	0	0	0	0.043875581263671276
+CAD	original	combined	1	1	1	1	1	1.0
+CAD	half missing	phenotype	1	2	0.5	1	1	0.75
+CAD	half missing	frequency	17	30	0	0	0	0.043875581263671276
+CAD	half missing	combined	2	2	0	1	1	0.5
+CAD	three added	phenotype	1	2	0.5	1	1	0.75
+CAD	three added	frequency	17	30	0	0	0	0.043875581263671276
+CAD	three added	combined	1	2	0.5	1	1	0.75
+HMGCS2	original	phenotype	1	1	1	1	1	1.0
+HMGCS2	original	frequency	14	14	0	0	0	0.07142857142857142
+HMGCS2	original	combined	1	1	1	1	1	1.0
+HMGCS2	half missing	phenotype	1	16	0.0625	0.3125	0.625	0.21129556207681208
+HMGCS2	half missing	frequency	14	14	0	0	0	0.07142857142857142
+HMGCS2	half missing	combined	6	6	0	0	1	0.16666666666666666
+HMGCS2	three added	phenotype	1	1	1	1	1	1.0
+HMGCS2	three added	frequency	14	14	0	0	0	0.07142857142857142
+HMGCS2	three added	combined	1	1	1	1	1	1.0
+ARHGEF15	original	phenotype	1	1	1	1	1	1.0
+ARHGEF15	original	frequency	8	8	0	0	1	0.125
+ARHGEF15	original	combined	1	1	1	1	1	1.0
+ARHGEF15	half missing	phenotype	1	1	1	1	1	1.0
+ARHGEF15	half missing	frequency	8	8	0	0	1	0.125
+ARHGEF15	half missing	combined	1	1	1	1	1	1.0
+ARHGEF15	three added	phenotype	1	1	1	1	1	1.0
+ARHGEF15	three added	frequency	8	8	0	0	1	0.125
+ARHGEF15	three added	combined	1	1	1	1	1	1.0
+CCIN	original	phenotype	1	1	1	1	1	1.0
+CCIN	original	frequency	15	15	0	0	0	0.06666666666666667
+CCIN	original	combined	1	1	1	1	1	1.0
+CCIN	half missing	phenotype	1	2	0.5	1	1	0.75
+CCIN	half missing	frequency	15	15	0	0	0	0.06666666666666667
+CCIN	half missing	combined	1	1	1	1	1	1.0
+CCIN	three added	phenotype	1	1	1	1	1	1.0
+CCIN	three added	frequency	15	15	0	0	0	0.06666666666666667
+CCIN	three added	combined	1	1	1	1	1	1.0
+POLR1D	original	phenotype	1	1	1	1	1	1.0
+POLR1D	original	frequency	17	30	0	0	0	0.043875581263671276
+POLR1D	original	combined	1	1	1	1	1	1.0
+POLR1D	half missing	phenotype	1	1	1	1	1	1.0
+POLR1D	half missing	frequency	17	30	0	0	0	0.043875581263671276
+POLR1D	half missing	combined	1	1	1	1	1	1.0
+POLR1D	three added	phenotype	1	1	1	1	1	1.0
+POLR1D	three added	frequency	17	30	0	0	0	0.043875581263671276
+POLR1D	three added	combined	1	1	1	1	1	1.0
+MARK2	original	phenotype	1	1	1	1	1	1.0
+MARK2	original	frequency	17	30	0	0	0	0.043875581263671276
+MARK2	original	combined	1	1	1	1	1	1.0
+MARK2	half missing	phenotype	1	1	1	1	1	1.0
+MARK2	half missing	frequency	17	30	0	0	0	0.043875581263671276
+MARK2	half missing	combined	1	1	1	1	1	1.0
+MARK2	three added	phenotype	1	1	1	1	1	1.0
+MARK2	three added	frequency	17	30	0	0	0	0.043875581263671276
+MARK2	three added	combined	1	1	1	1	1	1.0
+ABCA4	original	phenotype	1	1	1	1	1	1.0
+ABCA4	original	frequency	13	13	0	0	0	0.07692307692307693
+ABCA4	original	combined	1	1	1	1	1	1.0
+ABCA4	half missing	phenotype	1	4	0.25	1	1	0.5208333333333334
+ABCA4	half missing	frequency	13	13	0	0	0	0.07692307692307693
+ABCA4	half missing	combined	3	3	0	1	1	0.3333333333333333
+ABCA4	three added	phenotype	1	5	0.2	1	1	0.45666666666666667
+ABCA4	three added	frequency	13	13	0	0	0	0.07692307692307693
+ABCA4	three added	combined	3	3	0	1	1	0.3333333333333333
+GNAS	original	phenotype	1	1	1	1	1	1.0
+GNAS	original	frequency	17	30	0	0	0	0.043875581263671276
+GNAS	original	combined	1	1	1	1	1	1.0
+GNAS	half missing	phenotype	1	4	0.25	1	1	0.5208333333333334
+GNAS	half missing	frequency	17	30	0	0	0	0.043875581263671276
+GNAS	half missing	combined	3	4	0	1	1	0.29166666666666663
+GNAS	three added	phenotype	1	1	1	1	1	1.0
+GNAS	three added	frequency	17	30	0	0	0	0.043875581263671276
+GNAS	three added	combined	1	1	1	1	1	1.0
+KCNQ1	original	phenotype	1	1	1	1	1	1.0
+KCNQ1	original	frequency	9	9	0	0	1	0.1111111111111111
+KCNQ1	original	combined	1	1	1	1	1	1.0
+KCNQ1	half missing	phenotype	1	2	0.5	1	1	0.75
+KCNQ1	half missing	frequency	9	9	0	0	1	0.1111111111111111
+KCNQ1	half missing	combined	1	1	1	1	1	1.0
+KCNQ1	three added	phenotype	1	3	0.3333333333333333	1	1	0.6111111111111112
+KCNQ1	three added	frequency	9	9	0	0	1	0.1111111111111111
+KCNQ1	three added	combined	2	2	0	1	1	0.5
+GSN	original	phenotype	2	5	0	1	1	0.3208333333333333
+GSN	original	frequency	1	1	1	1	1	1.0
+GSN	original	combined	2	2	0	1	1	0.5
+GSN	half missing	phenotype	2	30	0	0.13793103448275862	0.3103448275862069	0.10327541830759969
+GSN	half missing	frequency	1	1	1	1	1	1.0
+GSN	half missing	combined	2	2	0	1	1	0.5
+GSN	three added	phenotype	2	8	0	0.5714285714285714	1	0.24540816326530612
+GSN	three added	frequency	1	1	1	1	1	1.0
+GSN	three added	combined	2	2	0	1	1	0.5
+RAI1	original	phenotype	1	1	1	1	1	1.0
+RAI1	original	frequency	5	5	0	1	1	0.2
+RAI1	original	combined	1	1	1	1	1	1.0
+RAI1	half missing	phenotype	1	1	1	1	1	1.0
+RAI1	half missing	frequency	5	5	0	1	1	0.2
+RAI1	half missing	combined	1	1	1	1	1	1.0
+RAI1	three added	phenotype	1	1	1	1	1	1.0
+RAI1	three added	frequency	5	5	0	1	1	0.2
+RAI1	three added	combined	1	1	1	1	1	1.0
+OFD1	original	phenotype	1	1	1	1	1	1.0
+OFD1	original	frequency	17	30	0	0	0	0.043875581263671276
+OFD1	original	combined	1	1	1	1	1	1.0
+OFD1	half missing	phenotype	1	1	1	1	1	1.0
+OFD1	half missing	frequency	17	30	0	0	0	0.043875581263671276
+OFD1	half missing	combined	1	1	1	1	1	1.0
+OFD1	three added	phenotype	1	1	1	1	1	1.0
+OFD1	three added	frequency	17	30	0	0	0	0.043875581263671276
+OFD1	three added	combined	1	1	1	1	1	1.0
+HNF1B	original	phenotype	1	1	1	1	1	1.0
+HNF1B	original	frequency	17	30	0	0	0	0.043875581263671276
+HNF1B	original	combined	1	1	1	1	1	1.0
+HNF1B	half missing	phenotype	1	1	1	1	1	1.0
+HNF1B	half missing	frequency	17	30	0	0	0	0.043875581263671276
+HNF1B	half missing	combined	1	1	1	1	1	1.0
+HNF1B	three added	phenotype	1	1	1	1	1	1.0
+HNF1B	three added	frequency	17	30	0	0	0	0.043875581263671276
+HNF1B	three added	combined	1	1	1	1	1	1.0

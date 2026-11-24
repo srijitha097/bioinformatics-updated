@@ -1,0 +1,31 @@
+assertion_id	molecular_profile	disease	assertion_type	source_url	reviewed_pmids	evidence_summary	research_tier	reviewer	review_date
+2	ERBB2 Amplification	HER2 Positive Breast Cancer	Predictive	https://civicdb.org/links/assertions/2					
+3	v::ALK Fusion	Lung Non-small Cell Carcinoma	Predictive	https://civicdb.org/links/assertions/3					
+5	EGFR L858R	Lung Non-small Cell Carcinoma	Predictive	https://civicdb.org/links/assertions/5					
+6	EGFR L858R	Lung Non-small Cell Carcinoma	Predictive	https://civicdb.org/links/assertions/6					
+7	BRAF V600E	Melanoma	Predictive	https://civicdb.org/links/assertions/7					
+8	v::NTRK1 Fusion	Solid Tumor	Predictive	https://civicdb.org/links/assertions/8					
+9	ACVR1 G328V	Diffuse Midline Glioma, H3 K27-altered	Diagnostic	https://civicdb.org/links/assertions/9					
+10	BRAF V600E	Melanoma	Predictive	https://civicdb.org/links/assertions/10					
+11	BRAF V600K	Melanoma	Predictive	https://civicdb.org/links/assertions/11					
+13	BRAF V600K	Melanoma	Predictive	https://civicdb.org/links/assertions/13					
+20	BRAF V600E	Colorectal Cancer	Prognostic	https://civicdb.org/links/assertions/20					
+21	HEY1::NCOA2 Fusion	Mesenchymal Chondrosarcoma	Diagnostic	https://civicdb.org/links/assertions/21					
+24	DNAJB1::PRKACA Fusion	Fibrolamellar Carcinoma	Diagnostic	https://civicdb.org/links/assertions/24					
+33	FLT3 D835	Acute Myeloid Leukemia	Predictive	https://civicdb.org/links/assertions/33					
+34	v::ALK Fusion	Lung Non-small Cell Carcinoma	Predictive	https://civicdb.org/links/assertions/34					
+38	FLT3 ITD	Acute Myeloid Leukemia	Predictive	https://civicdb.org/links/assertions/38					
+39	ETV6::NTRK3 Fusion	B-lymphoblastic Leukemia/lymphoma	Predictive	https://civicdb.org/links/assertions/39					
+43	SNX2::ABL1 Fusion	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Diagnostic	https://civicdb.org/links/assertions/43					
+51	KANK1::NTRK2 Fusion	Solid Tumor	Predictive	https://civicdb.org/links/assertions/51					
+52	EML4::NTRK3 Fusion	Solid Tumor	Predictive	https://civicdb.org/links/assertions/52					
+56	ETV6::NTRK3 Fusion	Congenital Fibrosarcoma	Predictive	https://civicdb.org/links/assertions/56					
+58	EML4::NTRK3 Fusion	Congenital Fibrosarcoma	Diagnostic	https://civicdb.org/links/assertions/58					
+59	ETV6::NTRK3 Fusion	Congenital Fibrosarcoma	Diagnostic	https://civicdb.org/links/assertions/59					
+61	ETV6::NTRK3 Fusion	Congenital Mesoblastic Nephroma	Predictive	https://civicdb.org/links/assertions/61					
+71	ETV6::NTRK3 Fusion	Congenital Mesoblastic Nephroma	Diagnostic	https://civicdb.org/links/assertions/71					
+74	ETV6::NTRK3 Fusion	Breast Secretory Carcinoma	Diagnostic	https://civicdb.org/links/assertions/74					
+76	EWSR1::WT1 Fusion	Desmoplastic Small Round Cell Tumor	Diagnostic	https://civicdb.org/links/assertions/76					
+79	CIC::DUX4 Fusion	CIC-rearranged Sarcoma	Diagnostic	https://civicdb.org/links/assertions/79					
+80	BCOR ITD	Kidney Clear Cell Sarcoma	Diagnostic	https://civicdb.org/links/assertions/80					
+85	KIT D816V	Systemic Mastocytosis	Predictive	https://civicdb.org/links/assertions/85					

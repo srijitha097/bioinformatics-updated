@@ -1,0 +1,6 @@
+[W::bcf_hdr_check_sanity] GL should be declared as Number=G
+[W::bcf_hdr_check_sanity] GQ should be declared as Type=Integer
+[W::bcf_hdr_check_sanity] MQ should be declared as Number=1
+[W::bcf_hdr_check_sanity] MQ should be declared as Type=Integer
+Lines   total/split/joined/realigned/mismatch_removed/dup_removed/skipped:	24004/0/0/0/0/0/0
+Records with case changed:	0

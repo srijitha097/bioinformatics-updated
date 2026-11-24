@@ -1,0 +1,24 @@
+{
+  "research_only": true,
+  "method": "Exact biallelic PASS diploid SNV and genotype match; no indel or haplotype equivalence",
+  "target_bases": 34479984,
+  "confident_target_bases": 31561021,
+  "autosomes_only": true,
+  "truth_snvs": 20008,
+  "query_snvs": 18635,
+  "true_positive": 18435,
+  "false_positive": 200,
+  "false_negative": 1573,
+  "shared_allele_genotype_disagreements": 77,
+  "precision": 0.9892675073785887,
+  "recall": 0.9213814474210316,
+  "f1": 0.9541184690629609,
+  "skipped_truth_records": 822,
+  "skipped_query_records": 862,
+  "input_sha256": {
+    "exome_gene_panel_cnv_analysis/data/GIAB_v3.3.2_NA12878-decomposed-normalized.vcf.gz": "bb309b7fb484594cb18f3e0600c3f388db31ca44bb692403849448ddd60b7397",
+    "exome_gene_panel_cnv_analysis/data/converted_ARUP_NA12878_Exome-decomposed-normalized.vcf.gz": "82929087f809d499f992c8347072fcc627872769eb3fce9d85c75eb254c79726",
+    "exome_gene_panel_cnv_analysis/data/ARUP_SeqCap_EZ_Exome.bed": "0d7bd28b8e593f6222607556b4420e660983001ddfd705f0b18f53938bc4e230",
+    "exome_gene_panel_cnv_analysis/data/GIAB_v3.3.2_NA12878_HC_regions.bed": "6c1fa15faece8584a084967dd2034d886b11548f631842f2458c973d649dac02"
+  }
+}

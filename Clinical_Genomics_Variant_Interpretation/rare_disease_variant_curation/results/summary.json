@@ -1,0 +1,21 @@
+{
+  "research_only": true,
+  "case_type": "synthetic phenotype scenarios, not patient genomes",
+  "hpo_zero_frequency_rows_excluded": 3083,
+  "eligible_expert_reviewed_snvs": 6739,
+  "reference_class_counts": {
+    "Pathogenic": 2275,
+    "Likely pathogenic": 797,
+    "Benign": 1560,
+    "Uncertain significance": 715,
+    "Likely benign": 1392
+  },
+  "candidate_case_pairs": 200,
+  "unique_candidate_variants": 130,
+  "input_sha256": {
+    "rare_disease_variant_curation/data/variant_summary.txt.gz": "1d910abfb5b576d92abcf042e118dd7ae1c6cf9e91382931093ae5555816206a",
+    "rare_disease_variant_curation/data/genes_to_phenotype.txt": "507a17bff9c49e6329fbd88b1f91734fa7e9fdea5c06304044c0892eb6ab248c",
+    "rare_disease_variant_curation/cases.tsv": "2d617f8c908f8efef0341dec83bc40cfc73ab8772d6a88d6dc89ccdc5ea5202f"
+  },
+  "limitation": "Best exact HPO overlap within a single annotated disease per gene; not variant-level phenotype association or independent ACMG classification."
+}

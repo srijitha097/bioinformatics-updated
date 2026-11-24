@@ -1,0 +1,8 @@
+{
+  "target_bases": 18986,
+  "observed_positions": 18986,
+  "mean_depth": 28.5162224797219,
+  "fraction_20x": 0.5718424101969872,
+  "fraction_30x": 0.3985568313494154,
+  "missing_positions_treated_as_zero": 0
+}

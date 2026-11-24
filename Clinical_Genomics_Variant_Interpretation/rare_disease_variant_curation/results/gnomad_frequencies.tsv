@@ -1,0 +1,9 @@
+variation_id	variant_id	dataset	group	ac	an	af	api_dataset	retrieved	raw_sha256	url
+17000	13-20189481-A-G	exome	all	18002	1461676	0.01231599889441983	gnomad_r4	2026-11-24	01003a14c686eda97303e4cf5b89f4a93bcc722c7f830a7ba126c06751df373c	https://gnomad.broadinstitute.org/variant/13-20189481-A-G?dataset=gnomad_r4
+17000	13-20189481-A-G	exome	nfe	15604	1111826	0.014034570157560626	gnomad_r4	2026-11-24	01003a14c686eda97303e4cf5b89f4a93bcc722c7f830a7ba126c06751df373c	https://gnomad.broadinstitute.org/variant/13-20189481-A-G?dataset=gnomad_r4
+17000	13-20189481-A-G	genome	all	1433	152352	0.009405849611426171	gnomad_r4	2026-11-24	01003a14c686eda97303e4cf5b89f4a93bcc722c7f830a7ba126c06751df373c	https://gnomad.broadinstitute.org/variant/13-20189481-A-G?dataset=gnomad_r4
+17000	13-20189481-A-G	genome	nfe	942	68036	0.013845611147039803	gnomad_r4	2026-11-24	01003a14c686eda97303e4cf5b89f4a93bcc722c7f830a7ba126c06751df373c	https://gnomad.broadinstitute.org/variant/13-20189481-A-G?dataset=gnomad_r4
+17023	13-20189473-C-T	exome	all	3462	1461390	0.002368977480344056	gnomad_r4	2026-11-24	acb23101fe246fdd262368a042db5897bcc718fb18dfd3822e063e28bd20c9b3	https://gnomad.broadinstitute.org/variant/13-20189473-C-T?dataset=gnomad_r4
+17023	13-20189473-C-T	exome	eas	1648	39686	0.0415259789346369	gnomad_r4	2026-11-24	acb23101fe246fdd262368a042db5897bcc718fb18dfd3822e063e28bd20c9b3	https://gnomad.broadinstitute.org/variant/13-20189473-C-T?dataset=gnomad_r4
+17023	13-20189473-C-T	genome	all	609	152296	0.003998791826443242	gnomad_r4	2026-11-24	acb23101fe246fdd262368a042db5897bcc718fb18dfd3822e063e28bd20c9b3	https://gnomad.broadinstitute.org/variant/13-20189473-C-T?dataset=gnomad_r4
+17023	13-20189473-C-T	genome	eas	365	5166	0.07065427797135114	gnomad_r4	2026-11-24	acb23101fe246fdd262368a042db5897bcc718fb18dfd3822e063e28bd20c9b3	https://gnomad.broadinstitute.org/variant/13-20189473-C-T?dataset=gnomad_r4

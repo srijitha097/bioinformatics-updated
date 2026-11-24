@@ -1,0 +1,5 @@
+{
+  "research_only": true,
+  "reviewed": 2,
+  "limitation": "Agreement against ClinVar is descriptive, not independent validation. Reviewers must evaluate disease-specific evidence and document any use of reference assertions."
+}

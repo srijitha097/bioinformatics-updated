@@ -1,0 +1,9 @@
+# Regulatory evidence after the reference comparison
+
+The initial 23 assessments are retained in assessments.tsv. The references below expand the literature scope after that comparison and must be excluded from any blinded agreement calculation.
+
+- **FLT3 D835 and ITD in AML, assertions 33 and 38.** Both support Tier I, Level A for gilteritinib in adults with relapsed or refractory AML and a qualifying FDA-test result. The registration population included D835, I836 and ITD. The earlier D835 assessment had considered a mouse study and the ITD assessment had considered a randomized trial. [FDA approval](https://www.fda.gov/drugs/fda-approves-gilteritinib-relapsed-or-refractory-acute-myeloid-leukemia-aml-flt3-mutation)
+- **NTRK fusions in solid tumors, assertions 8, 51 and 56.** Larotrectinib supports Tier I, Level A at the qualifying fusion-class level. This requires a solid tumor with a confirmed qualifying fusion without a known acquired resistance mutation, metastatic disease or severe expected morbidity from resection, and progression or lack of satisfactory alternatives. The class-level evidence does not estimate a response rate for each rare fusion partner. [FDA approval](https://www.fda.gov/drugs/fda-approves-larotrectinib-solid-tumors-ntrk-gene-fusions)
+- **EML4::NTRK3 and entrectinib, assertion 52.** For a confirmed qualifying fusion in a solid tumor meeting the age, disease extent and prior-treatment conditions, the regulatory evidence supports Tier I, Level A. The phase I abstract alone lacked a partner-specific result. [US prescribing information](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c7c71b0c-2549-4495-86b6-c2807fa54908)
+
+BRAF V600E illustrates why the unit of review matters. The melanoma evidence addresses susceptibility to combined BRAF/MEK inhibition. The colorectal cohort examines survival according to mutation status. Its survival contrast supplies no estimate of benefit from the melanoma regimen.

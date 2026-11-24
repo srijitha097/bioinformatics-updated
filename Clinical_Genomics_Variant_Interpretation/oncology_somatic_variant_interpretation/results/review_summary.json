@@ -1,0 +1,6 @@
+{
+  "research_only": true,
+  "reviewed": 6,
+  "evidence_sha256": "cd0a120b3d1e31bc2237733efa0cb58c4bb9302c34817f926b2caf595aeb615c",
+  "limitation": "Compare source and research tiers manually; source tier notation may include evidence level. No clinical validation."
+}

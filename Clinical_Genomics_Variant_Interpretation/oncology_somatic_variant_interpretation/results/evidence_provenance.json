@@ -1,0 +1,5 @@
+{
+  "source": "oncology_somatic_variant_interpretation/data/01-Nov-2026-AcceptedClinicalEvidenceSummaries.tsv",
+  "sha256": "cd0a120b3d1e31bc2237733efa0cb58c4bb9302c34817f926b2caf595aeb615c",
+  "reviewed_assertions": 6
+}

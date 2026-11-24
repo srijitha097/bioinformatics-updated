@@ -1,0 +1,13 @@
+{
+  "synthetic_only": true,
+  "seed": 42,
+  "target_level": true,
+  "samples": 12,
+  "targets_per_sample": 100,
+  "tp": 80,
+  "fp": 0,
+  "fn": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "limitation": "Known synthetic GC baseline; idealized depth ratios. Not real exome data, clinical CNV validation or breakpoint accuracy."
+}

@@ -1,0 +1,20 @@
+{
+  "data_type": "real public downsampled HCC1143 exome alignment slices",
+  "samtools": "samtools 1.25",
+  "minimum_base_quality": 20,
+  "minimum_mapping_quality": 20,
+  "target_mean_depth_floor_both_samples": 10,
+  "targets": 93,
+  "retained_targets": 79,
+  "median_raw_log2_ratio": 0.23346129045044697,
+  "range_centered_log2_ratio": [
+    -0.7358939004079932,
+    0.7486440511813925
+  ],
+  "input_sha256": {
+    "ice_targets_sample-chr20.interval_list": "8148fa780e51cfb8ee9a9817180f1a58d2629a153d834addaa5da642cf263000",
+    "SM-74NEG-v1-chr20-downsampled.deduplicated.bam": "bea07c23ac385c47079cdc4b990cc3e2400ab1ec1b114ac0f84a878a30f78a72",
+    "SM-74P4M-v1-chr20-downsampled.deduplicated.bam": "5ed3c18347c3633dd31c40e5732a3f4d073e0a5d1289aa3f76a5fe31a0b22b2d"
+  },
+  "limitations": "Relative tumor/normal ratios only. Centering can remove regional shifts. No segmentation, purity/ploidy adjustment, or independent CNV truth for the slice."
+}

@@ -1,0 +1,24 @@
+{
+  "research_only": true,
+  "method": "Exact biallelic PASS diploid SNV and genotype match; no indel or haplotype equivalence",
+  "target_bases": 44260,
+  "confident_target_bases": 41713,
+  "autosomes_only": true,
+  "truth_snvs": 18,
+  "query_snvs": 17,
+  "true_positive": 17,
+  "false_positive": 0,
+  "false_negative": 1,
+  "shared_allele_genotype_disagreements": 0,
+  "precision": 1.0,
+  "recall": 0.9444444444444444,
+  "f1": 0.9714285714285714,
+  "skipped_truth_records": 0,
+  "skipped_query_records": 0,
+  "input_sha256": {
+    "exome_gene_panel_cnv_analysis/data/GIAB_v3.3.2_NA12878-decomposed-normalized.vcf.gz": "bb309b7fb484594cb18f3e0600c3f388db31ca44bb692403849448ddd60b7397",
+    "exome_gene_panel_cnv_analysis/data/converted_ARUP_NA12878_Exome-decomposed-normalized.vcf.gz": "82929087f809d499f992c8347072fcc627872769eb3fce9d85c75eb254c79726",
+    "exome_gene_panel_cnv_analysis/results/hereditary_cancer_panel.bed": "868e16bc76d1f0b3bf95d81f4a6521bdb34fec88af5deafdb197b6574e2085c7",
+    "exome_gene_panel_cnv_analysis/data/GIAB_v3.3.2_NA12878_HC_regions.bed": "6c1fa15faece8584a084967dd2034d886b11548f631842f2458c973d649dac02"
+  }
+}

@@ -1,0 +1,5 @@
+scope	kind	confident_bases	tp	fp	fn
+exome	SNV	31561021	18435	200	1573
+exome	indel	31561021	544	104	225
+expanded panel	SNV	96565	34	0	2
+expanded panel	indel	96565	0	1	0

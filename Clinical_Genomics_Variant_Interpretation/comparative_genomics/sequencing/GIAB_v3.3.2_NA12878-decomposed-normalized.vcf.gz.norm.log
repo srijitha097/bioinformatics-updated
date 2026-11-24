@@ -1,0 +1,3 @@
+[W::bcf_hdr_check_sanity] PS should be declared as Type=Integer
+Lines   total/split/joined/realigned/mismatch_removed/dup_removed/skipped:	20964/0/0/0/0/0/0
+Records with case changed:	0

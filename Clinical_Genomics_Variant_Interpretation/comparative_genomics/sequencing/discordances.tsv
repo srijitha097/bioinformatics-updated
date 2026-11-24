@@ -1,0 +1,2003 @@
+chrom	pos	ref	alt	kind	reason	truth_dosage	query_dosage	query_record
+1	877831	T	C	SNV	absent eligible query	2		
+1	909419	C	T	SNV	absent eligible query	1		
+1	935222	C	A	SNV	absent eligible query	1		
+1	981931	A	G	SNV	absent eligible query	1		
+1	990280	C	T	SNV	absent eligible query	2		
+1	1262966	C	T	SNV	absent eligible query	2		
+1	1290276	C	G	SNV	absent eligible query	1		
+1	1551927	T	C	SNV	genotype mismatch	2	1	(1, 'PASS', 19.0, 5.64)
+1	1650787	T	C	SNV	absent eligible truth		1	(1, 'PASS', 151.0, 99.0)
+1	1650797	A	G	SNV	absent eligible truth		1	(1, 'PASS', 146.0, 99.0)
+1	1650801	T	C	SNV	absent eligible truth		1	(1, 'PASS', 147.0, 99.0)
+1	1650807	T	C	SNV	genotype mismatch	2	1	(1, 'PASS', 144.0, 99.0)
+1	1650832	A	G	SNV	absent eligible truth		1	(1, 'PASS', 144.0, 99.0)
+1	1650845	G	A	SNV	genotype mismatch	2	1	(1, 'PASS', 151.0, 99.0)
+1	1666175	C	T	SNV	absent eligible truth		1	(1, 'PASS', 162.0, 99.0)
+1	1887019	A	G	SNV	absent eligible query	2		
+1	2340073	C	G	SNV	absent eligible query	1		
+1	2560882	G	A	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+1	2560903	T	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+1	3328659	C	T	SNV	absent eligible query	1		
+1	3511934	A	G	SNV	query filtered	1		(1, 'LowQual', 6.0, 56.65)
+1	6184092	A	G	SNV	genotype mismatch	2	1	(1, 'PASS', 42.0, 33.95)
+1	6269340	A	G	SNV	absent eligible query	1		
+1	6614391	A	C	SNV	absent eligible query	2		
+1	6614415	A	G	SNV	absent eligible query	2		
+1	6614535	G	A	SNV	absent eligible query	2		
+1	7887248	G	A	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+1	8421203	T	C	SNV	absent eligible query	1		
+1	9599823	A	G	SNV	absent eligible query	1		
+1	10713765	T	C	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+1	10725498	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 5.0, 9.03)
+1	11119899	T	C	SNV	absent eligible query	2		
+1	11561593	G	A	SNV	absent eligible query	1		
+1	11714368	T	G	SNV	absent eligible query	1		
+1	16533444	T	C	SNV	absent eligible query	1		
+1	17287414	T	C	SNV	absent eligible query	1		
+1	18023509	T	C	SNV	absent eligible query	2		
+1	18023690	A	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+1	18808526	A	C	SNV	absent eligible query	1		
+1	20960230	C	T	SNV	absent eligible query	2		
+1	21904131	T	C	SNV	absent eligible query	1		
+1	22109370	G	A	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+1	22141206	A	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+1	22191454	G	A	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+1	26487940	A	G	SNV	absent eligible query	1		
+1	26488019	G	A	SNV	absent eligible query	1		
+1	26496651	T	C	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+1	26708095	G	C	SNV	query filtered	1		(1, 'LowQual', 15.0, 48.82)
+1	26856462	T	G	SNV	absent eligible query	2		
+1	27339103	G	T	SNV	absent eligible query	1		
+1	27876482	C	A	SNV	query filtered	1		(1, 'LowQual', 8.0, 57.38)
+1	29138975	G	T	SNV	absent eligible query	1		
+1	31886163	C	T	SNV	absent eligible query	1		
+1	32193647	T	C	SNV	absent eligible query	2		
+1	32196647	C	G	SNV	absent eligible query	1		
+1	33430102	T	G	SNV	absent eligible query	2		
+1	33502357	C	T	SNV	absent eligible truth		1	(1, 'PASS', 12.0, 99.0)
+1	33502376	G	A	SNV	absent eligible truth		1	(1, 'PASS', 23.0, 99.0)
+1	35093800	A	G	SNV	absent eligible query	1		
+1	35093801	A	C	SNV	absent eligible query	1		
+1	36642420	T	C	SNV	absent eligible query	2		
+1	41976328	T	C	SNV	absent eligible query	2		
+1	41976345	T	C	SNV	absent eligible query	1		
+1	41979156	A	G	SNV	absent eligible query	2		
+1	45250007	C	G	SNV	absent eligible query	1		
+1	45271828	T	C	SNV	absent eligible query	1		
+1	45271912	G	A	SNV	absent eligible query	1		
+1	45476663	G	A	SNV	absent eligible query	1		
+1	45671966	A	G	SNV	absent eligible query	2		
+1	47685455	T	C	SNV	absent eligible query	2		
+1	47882497	C	T	SNV	absent eligible query	1		
+1	47904909	G	C	SNV	absent eligible query	2		
+1	48937691	A	T	SNV	absent eligible query	2		
+1	53158524	A	C	SNV	absent eligible truth		1	(1, 'PASS', 101.0, 99.0)
+1	53544597	T	C	SNV	absent eligible query	2		
+1	53742506	A	G	SNV	absent eligible query	2		
+1	53793511	T	C	SNV	absent eligible query	1		
+1	54060016	G	C	SNV	absent eligible query	1		
+1	54060248	T	C	SNV	query filtered	1		(1, 'LowQual', 16.0, 47.7)
+1	55446697	G	A	SNV	absent eligible query	2		
+1	59042388	C	G	SNV	absent eligible query	1		
+1	62061245	C	T	SNV	absent eligible truth		1	(1, 'PASS', 95.0, 99.0)
+1	62445198	A	G	SNV	absent eligible query	1		
+1	62449514	A	G	SNV	absent eligible query	1		
+1	62449562	C	T	SNV	absent eligible query	1		
+1	62449624	G	A	SNV	absent eligible query	1		
+1	65886398	T	C	SNV	absent eligible query	2		
+1	65886448	T	C	SNV	absent eligible query	2		
+1	87598117	T	G	SNV	absent eligible query	2		
+1	92946479	G	A	SNV	absent eligible query	2		
+1	93646207	T	C	SNV	absent eligible query	2		
+1	111783982	C	T	SNV	absent eligible truth		2	(2, 'PASS', 102.0, 99.0)
+1	112298829	T	C	SNV	absent eligible query	2		
+1	120165826	C	T	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+1	120166453	G	C	SNV	absent eligible query	1		
+1	145075854	G	C	SNV	absent eligible query	1		
+1	146714392	G	C	SNV	absent eligible query	1		
+1	146714427	G	C	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+1	149871905	G	C	SNV	genotype mismatch	1	2	(2, 'PASS', 4.0, 9.03)
+1	150122493	T	C	SNV	absent eligible query	2		
+1	151105076	G	A	SNV	absent eligible query	1		
+1	151105824	C	G	SNV	absent eligible query	1		
+1	151811226	G	A	SNV	absent eligible query	2		
+1	151881885	A	C	SNV	absent eligible query	2		
+1	152487979	C	T	SNV	absent eligible query	2		
+1	153233510	A	G	SNV	absent eligible query	1		
+1	155178782	A	T	SNV	absent eligible query	1		
+1	155294274	A	G	SNV	absent eligible query	2		
+1	155733245	C	T	SNV	absent eligible truth		1	(1, 'PASS', 132.0, 99.0)
+1	155733257	T	C	SNV	absent eligible truth		1	(1, 'PASS', 141.0, 99.0)
+1	156561651	G	C	SNV	absent eligible query	2		
+1	156622252	G	A	SNV	genotype mismatch	2	1	(1, 'PASS', 16.0, 11.53)
+1	156646668	A	G	SNV	absent eligible query	2		
+1	156830779	G	A	SNV	absent eligible query	1		
+1	156878531	T	C	SNV	absent eligible query	1		
+1	159898100	A	G	SNV	absent eligible query	1		
+1	161228800	C	T	SNV	absent eligible query	1		
+1	161696782	G	C	SNV	absent eligible query	1		
+1	172502340	T	C	SNV	absent eligible query	1		
+1	179051300	T	C	SNV	absent eligible query	2		
+1	179544898	T	C	SNV	absent eligible query	2		
+1	180124288	G	C	SNV	absent eligible query	1		
+1	181058313	G	A	SNV	absent eligible query	1		
+1	181058618	C	G	SNV	absent eligible query	1		
+1	181058643	A	G	SNV	absent eligible query	2		
+1	183155482	C	A	SNV	absent eligible query	1		
+1	184020945	G	A	SNV	absent eligible query	2		
+1	185137461	A	T	SNV	absent eligible query	1		
+1	186276394	T	G	SNV	absent eligible truth		1	(1, 'PASS', 38.0, 62.25)
+1	200842341	T	C	SNV	absent eligible query	1		
+1	201017805	A	C	SNV	absent eligible truth		1	(1, 'PASS', 84.0, 76.03)
+1	202183308	C	T	SNV	absent eligible query	1		
+1	204120952	G	T	SNV	absent eligible query	2		
+1	204159787	G	C	SNV	absent eligible query	1		
+1	205031116	C	T	SNV	absent eligible query	1		
+1	205238530	C	T	SNV	absent eligible query	2		
+1	206680983	A	C	SNV	absent eligible query	2		
+1	208272313	A	C	SNV	absent eligible truth		1	(1, 'PASS', 92.0, 99.0)
+1	221053545	T	C	SNV	query filtered	1		(1, 'LowQual', 14.0, 42.4)
+1	227923081	G	A	SNV	absent eligible query	2		
+1	228113163	A	G	SNV	absent eligible query	2		
+1	228353651	G	C	SNV	absent eligible query	1		
+1	228399766	T	C	SNV	absent eligible query	1		
+1	228452016	G	C	SNV	query filtered	1		(1, 'LowQual', 10.0, 50.28)
+1	228464248	T	G	SNV	absent eligible query	1		
+1	228504472	T	C	SNV	absent eligible query	1		
+1	228504670	C	T	SNV	absent eligible query	1		
+1	228871693	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 8.0, 12.04)
+1	231114465	C	G	SNV	absent eligible query	1		
+1	234744413	C	A	SNV	absent eligible query	1		
+1	234744480	G	A	SNV	absent eligible query	1		
+1	234745009	A	G	SNV	absent eligible query	2		
+1	240255203	G	T	SNV	absent eligible query	1		
+1	240256822	C	A	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+1	242284944	A	G	SNV	absent eligible query	2		
+1	247094670	C	T	SNV	absent eligible query	1		
+1	248020556	G	C	SNV	absent eligible query	2		
+1	248084464	T	C	SNV	genotype mismatch	2	1	(1, 'PASS', 155.0, 99.0)
+1	248084511	T	C	SNV	absent eligible truth		1	(1, 'PASS', 152.0, 99.0)
+1	248084825	C	T	SNV	absent eligible truth		1	(1, 'PASS', 92.0, 99.0)
+1	248084854	A	G	SNV	absent eligible query	2		
+1	248084909	T	G	SNV	absent eligible query	2		
+1	248112763	G	A	SNV	genotype mismatch	2	1	(1, 'PASS', 65.0, 14.35)
+10	5855168	G	A	SNV	absent eligible query	1		
+10	11784633	C	T	SNV	absent eligible query	1		
+10	11912228	G	A	SNV	absent eligible query	1		
+10	17659131	C	A	SNV	absent eligible query	2		
+10	17659149	C	T	SNV	absent eligible query	2		
+10	18430167	G	C	SNV	genotype mismatch	1	2	(2, 'PASS', 16.0, 42.13)
+10	25273311	G	A	SNV	absent eligible truth		1	(1, 'PASS', 94.0, 99.0)
+10	28937346	A	G	SNV	absent eligible query	1		
+10	46998995	C	G	SNV	absent eligible query	1		
+10	46999019	G	A	SNV	absent eligible query	1		
+10	46999030	C	T	SNV	absent eligible query	1		
+10	46999151	T	C	SNV	genotype mismatch	1	2	(2, 'PASS', 5.0, 15.01)
+10	46999178	A	C	SNV	absent eligible query	1		
+10	46999189	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 6.0, 9.0)
+10	46999863	C	G	SNV	absent eligible query	1		
+10	47000239	C	T	SNV	absent eligible query	1		
+10	50534599	G	A	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+10	70166913	T	G	SNV	absent eligible query	2		
+10	71332204	A	G	SNV	absent eligible query	2		
+10	71905569	C	A	SNV	absent eligible query	2		
+10	71906150	T	C	SNV	absent eligible query	2		
+10	72014863	G	A	SNV	absent eligible query	1		
+10	72015573	T	G	SNV	query filtered	1		(1, 'LowQual', 9.0, 56.67)
+10	73767859	G	A	SNV	absent eligible query	1		
+10	81317292	G	A	SNV	absent eligible query	1		
+10	81373542	C	T	SNV	absent eligible truth		1	(1, 'PASS', 111.0, 99.0)
+10	85997250	G	A	SNV	absent eligible query	1		
+10	88702390	G	A	SNV	absent eligible query	1		
+10	93999850	A	G	SNV	absent eligible query	1		
+10	94822686	C	T	SNV	absent eligible query	2		
+10	96163039	C	G	SNV	absent eligible query	1		
+10	96305729	T	C	SNV	absent eligible query	1		
+10	98469693	C	T	SNV	query filtered	1		(1, 'LowQual', 9.0, 54.69)
+10	102766574	A	G	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+10	104159196	A	G	SNV	absent eligible query	2		
+10	104678350	G	A	SNV	absent eligible query	1		
+10	105218252	A	G	SNV	genotype mismatch	2	1	(1, 'PASS', 6.0, 13.51)
+10	105344451	G	A	SNV	absent eligible query	1		
+10	105344756	T	C	SNV	absent eligible query	1		
+10	108924150	G	C	SNV	absent eligible query	1		
+10	115805056	G	C	SNV	absent eligible query	2		
+10	118387282	A	G	SNV	absent eligible query	1		
+10	123970021	C	A	SNV	absent eligible truth		1	(1, 'PASS', 96.0, 99.0)
+10	126480381	C	T	SNV	absent eligible query	1		
+10	126715154	A	G	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+10	127462525	A	G	SNV	absent eligible query	2		
+10	127462833	C	T	SNV	absent eligible query	1		
+10	133109602	G	A	SNV	absent eligible query	1		
+10	134017295	A	G	SNV	absent eligible query	1		
+10	134902396	C	G	SNV	absent eligible query	1		
+10	134902398	C	T	SNV	absent eligible query	1		
+10	134942166	A	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+10	134942319	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+10	135012162	T	C	SNV	absent eligible query	1		
+10	135012429	T	A	SNV	absent eligible query	1		
+10	135012430	T	C	SNV	absent eligible query	1		
+10	135012652	T	C	SNV	absent eligible query	1		
+10	135205009	C	G	SNV	absent eligible query	2		
+11	280464	C	G	SNV	absent eligible query	1		
+11	280673	C	T	SNV	absent eligible query	2		
+11	396915	C	T	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+11	568211	G	A	SNV	absent eligible query	2		
+11	726178	G	C	SNV	absent eligible query	2		
+11	823729	C	T	SNV	absent eligible query	1		
+11	824789	T	C	SNV	absent eligible query	1		
+11	830044	G	A	SNV	absent eligible query	1		
+11	830120	A	G	SNV	absent eligible query	1		
+11	1858572	C	T	SNV	absent eligible query	1		
+11	2435946	A	G	SNV	absent eligible query	2		
+11	2435956	C	T	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+11	2906165	A	G	SNV	absent eligible query	1		
+11	6239344	G	A	SNV	absent eligible query	1		
+11	6340525	A	T	SNV	absent eligible query	1		
+11	6340706	A	G	SNV	absent eligible query	1		
+11	6341684	C	G	SNV	absent eligible query	2		
+11	6651810	A	G	SNV	absent eligible query	1		
+11	7110751	A	G	SNV	absent eligible query	2		
+11	7847466	A	G	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+11	7847472	C	T	SNV	absent eligible query	2		
+11	8103104	G	T	SNV	absent eligible query	2		
+11	9595732	C	G	SNV	absent eligible query	2		
+11	10830996	A	G	SNV	absent eligible query	2		
+11	10832671	G	A	SNV	absent eligible query	1		
+11	13031288	C	T	SNV	absent eligible query	1		
+11	13032055	C	A	SNV	absent eligible query	1		
+11	17035718	A	G	SNV	absent eligible query	2		
+11	20622975	G	A	SNV	absent eligible query	2		
+11	34937931	G	A	SNV	absent eligible query	2		
+11	43964569	C	T	SNV	absent eligible query	1		
+11	44331309	G	A	SNV	absent eligible query	1		
+11	48346729	G	C	SNV	absent eligible truth		1	(1, 'PASS', 150.0, 99.0)
+11	48346843	C	T	SNV	absent eligible truth		1	(1, 'PASS', 157.0, 99.0)
+11	48346916	G	C	SNV	absent eligible truth		1	(1, 'PASS', 153.0, 83.93)
+11	48347267	T	C	SNV	absent eligible truth		1	(1, 'PASS', 160.0, 99.0)
+11	48347306	G	T	SNV	absent eligible truth		1	(1, 'PASS', 164.0, 65.69)
+11	48347419	A	G	SNV	absent eligible truth		1	(1, 'PASS', 94.0, 73.64)
+11	48367133	C	A	SNV	absent eligible truth		1	(1, 'PASS', 101.0, 99.0)
+11	48367136	C	T	SNV	absent eligible truth		1	(1, 'PASS', 102.0, 77.33)
+11	48367155	T	A	SNV	absent eligible truth		1	(1, 'PASS', 96.0, 95.95)
+11	48367159	C	T	SNV	absent eligible truth		1	(1, 'PASS', 97.0, 80.69)
+11	48367163	A	G	SNV	absent eligible truth		1	(1, 'PASS', 94.0, 99.0)
+11	48367170	G	A	SNV	absent eligible truth		1	(1, 'PASS', 88.0, 99.0)
+11	48367190	A	T	SNV	absent eligible truth		1	(1, 'PASS', 80.0, 83.8)
+11	48367195	C	T	SNV	absent eligible truth		1	(1, 'PASS', 77.0, 63.44)
+11	48373885	A	G	SNV	absent eligible truth		1	(1, 'PASS', 128.0, 99.0)
+11	48373900	A	G	SNV	absent eligible truth		1	(1, 'PASS', 133.0, 99.0)
+11	48373936	A	G	SNV	absent eligible truth		1	(1, 'PASS', 136.0, 99.0)
+11	55579182	A	G	SNV	absent eligible truth		1	(1, 'PASS', 165.0, 99.0)
+11	60673868	T	C	SNV	absent eligible query	1		
+11	60701136	C	G	SNV	genotype mismatch	1	2	(2, 'PASS', 5.0, 9.03)
+11	60701987	G	A	SNV	absent eligible query	1		
+11	61658800	C	T	SNV	absent eligible query	2		
+11	62378660	G	A	SNV	absent eligible query	1		
+11	64026639	G	A	SNV	absent eligible query	1		
+11	64026685	C	T	SNV	absent eligible query	1		
+11	64066859	G	A	SNV	absent eligible query	2		
+11	64127744	A	G	SNV	absent eligible query	1		
+11	64138805	T	C	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+11	64138905	T	G	SNV	absent eligible query	1		
+11	64480641	G	A	SNV	absent eligible query	2		
+11	64677293	G	C	SNV	absent eligible query	2		
+11	64809090	T	G	SNV	absent eligible query	2		
+11	64809133	T	G	SNV	absent eligible query	2		
+11	64809167	A	G	SNV	absent eligible query	2		
+11	64880090	G	C	SNV	absent eligible query	2		
+11	65386523	G	A	SNV	absent eligible query	1		
+11	65415028	T	G	SNV	absent eligible query	2		
+11	65547455	C	A	SNV	absent eligible query	1		
+11	65667796	G	A	SNV	absent eligible query	2		
+11	65810209	C	T	SNV	absent eligible query	2		
+11	66206169	C	T	SNV	absent eligible query	1		
+11	66472274	T	C	SNV	absent eligible query	2		
+11	67034266	C	A	SNV	absent eligible query	2		
+11	68201295	C	T	SNV	absent eligible query	1		
+11	68671419	C	T	SNV	absent eligible query	1		
+11	68671477	T	C	SNV	absent eligible query	2		
+11	70666765	C	T	SNV	absent eligible query	1		
+11	72415329	G	A	SNV	query filtered	1		(1, 'LowQual', 13.0, 53.73)
+11	72532708	C	T	SNV	absent eligible query	2		
+11	72946308	T	A	SNV	absent eligible query	2		
+11	74204727	A	G	SNV	absent eligible query	2		
+11	75277628	A	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+11	75277757	C	G	SNV	query filtered	1		(1, 'LowQual', 9.0, 47.0)
+11	75277992	C	T	SNV	absent eligible query	1		
+11	75378674	A	C	SNV	absent eligible query	1		
+11	77734209	T	C	SNV	absent eligible query	2		
+11	82443672	C	G	SNV	absent eligible query	1		
+11	82444216	C	G	SNV	absent eligible query	1		
+11	82444226	C	A	SNV	absent eligible query	1		
+11	92702962	G	A	SNV	absent eligible query	1		
+11	95657111	T	G	SNV	absent eligible query	1		
+11	100999253	T	C	SNV	absent eligible query	1		
+11	101454192	G	A	SNV	absent eligible query	1		
+11	106888608	G	A	SNV	absent eligible query	2		
+11	124791314	T	C	SNV	absent eligible query	1		
+11	129801109	T	G	SNV	absent eligible truth		1	(1, 'PASS', 122.0, 99.0)
+11	130029880	G	A	SNV	absent eligible query	1		
+11	130297748	G	C	SNV	absent eligible query	1		
+11	130297957	T	C	SNV	absent eligible query	2		
+12	235022	C	T	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+12	247900	G	A	SNV	absent eligible query	1		
+12	248202	C	G	SNV	absent eligible query	2		
+12	6884651	A	C	SNV	absent eligible truth		1	(1, 'PASS', 80.0, 99.0)
+12	7047143	C	A	SNV	absent eligible query	1		
+12	7294674	A	T	SNV	absent eligible truth		1	(1, 'PASS', 64.0, 60.86)
+12	9083336	A	G	SNV	genotype mismatch	2	1	(1, 'PASS', 11.0, 1.97)
+12	9085452	C	A	SNV	absent eligible query	1		
+12	10532111	T	G	SNV	genotype mismatch	2	1	(1, 'PASS', 18.0, 2.59)
+12	10875488	T	C	SNV	absent eligible query	2		
+12	14720583	T	C	SNV	absent eligible query	2		
+12	20522252	G	A	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+12	27485974	G	C	SNV	absent eligible query	1		
+12	41582590	G	C	SNV	absent eligible query	2		
+12	41582603	G	C	SNV	absent eligible query	2		
+12	42512910	T	A	SNV	absent eligible truth		1	(1, 'PASS', 138.0, 89.16)
+12	52215102	T	G	SNV	absent eligible query	1		
+12	52627215	A	G	SNV	absent eligible query	2		
+12	52708565	A	G	SNV	absent eligible query	1		
+12	53085089	T	C	SNV	absent eligible query	2		
+12	53693532	A	G	SNV	absent eligible query	2		
+12	53693533	A	C	SNV	absent eligible query	2		
+12	54394497	C	T	SNV	absent eligible query	2		
+12	54448106	A	G	SNV	absent eligible query	1		
+12	56320843	G	C	SNV	absent eligible truth		1	(1, 'PASS', 17.0, 78.54)
+12	57619209	C	G	SNV	absent eligible query	2		
+12	58149446	C	T	SNV	absent eligible query	2		
+12	65563712	C	T	SNV	absent eligible query	1		
+12	95044161	A	C	SNV	absent eligible query	2		
+12	96184102	G	A	SNV	absent eligible query	1		
+12	96337183	A	G	SNV	absent eligible query	1		
+12	108956417	T	G	SNV	absent eligible query	1		
+12	108956418	T	G	SNV	absent eligible query	1		
+12	108956433	C	T	SNV	absent eligible query	1		
+12	110011229	G	T	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 9.03)
+12	110011230	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 9.03)
+12	112036929	G	A	SNV	absent eligible query	1		
+12	117349014	C	G	SNV	absent eligible query	2		
+12	121437382	A	G	SNV	absent eligible query	2		
+12	122845698	C	A	SNV	absent eligible truth		1	(1, 'PASS', 108.0, 99.0)
+12	123470586	C	T	SNV	absent eligible query	1		
+12	124829234	C	T	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+12	124829255	A	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+12	132547090	A	G	SNV	absent eligible truth		1	(1, 'PASS', 81.0, 99.0)
+12	132547096	G	A	SNV	absent eligible truth		1	(1, 'PASS', 80.0, 99.0)
+12	132624695	C	G	SNV	absent eligible query	1		
+12	132625884	C	T	SNV	absent eligible query	1		
+12	132628281	C	T	SNV	absent eligible query	1		
+12	132628285	G	A	SNV	absent eligible query	1		
+12	133159846	C	T	SNV	absent eligible query	2		
+12	133160082	C	T	SNV	absent eligible query	1		
+12	133160238	G	C	SNV	absent eligible query	2		
+13	20716411	C	T	SNV	absent eligible query	1		
+13	21562948	G	A	SNV	absent eligible query	2		
+13	21750538	G	A	SNV	absent eligible truth		2	(2, 'PASS', 3.0, 9.03)
+13	22178258	C	T	SNV	absent eligible query	1		
+13	25946418	C	G	SNV	absent eligible query	1		
+13	26625047	G	A	SNV	absent eligible query	1		
+13	28367061	A	G	SNV	absent eligible query	2		
+13	31480827	A	G	SNV	absent eligible query	2		
+13	32885654	T	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+13	33590851	T	C	SNV	absent eligible query	2		
+13	40229891	G	A	SNV	absent eligible query	1		
+13	42032572	T	C	SNV	absent eligible query	1		
+13	43148565	T	C	SNV	absent eligible query	1		
+13	46288145	A	G	SNV	absent eligible query	1		
+13	52343391	C	T	SNV	absent eligible query	1		
+13	73301728	T	C	SNV	absent eligible query	2		
+13	95363884	G	C	SNV	absent eligible query	1		
+13	102106276	G	C	SNV	absent eligible query	1		
+13	110435231	C	T	SNV	absent eligible query	1		
+13	110435914	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 9.03)
+13	110435953	A	G	SNV	absent eligible query	1		
+13	110436232	G	A	SNV	absent eligible query	1		
+13	111368164	T	G	SNV	absent eligible query	2		
+13	111368316	C	T	SNV	absent eligible query	1		
+13	111806245	A	G	SNV	absent eligible query	1		
+13	113140349	A	G	SNV	absent eligible query	1		
+13	113656216	C	T	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+14	21549893	G	C	SNV	absent eligible query	2		
+14	21769193	C	A	SNV	absent eligible query	1		
+14	23306048	C	T	SNV	absent eligible query	2		
+14	23467664	G	A	SNV	absent eligible query	1		
+14	24785784	C	T	SNV	absent eligible query	1		
+14	31495346	C	T	SNV	absent eligible query	1		
+14	36004075	A	G	SNV	absent eligible query	2		
+14	53019944	A	G	SNV	absent eligible query	1		
+14	53619463	G	A	SNV	absent eligible query	1		
+14	55605036	A	C	SNV	genotype mismatch	1	2	(2, 'PASS', 7.0, 12.03)
+14	59931840	G	T	SNV	absent eligible query	1		
+14	59931931	T	G	SNV	absent eligible query	1		
+14	59950690	A	C	SNV	absent eligible query	1		
+14	61747644	A	G	SNV	absent eligible query	1		
+14	71109153	C	G	SNV	absent eligible query	2		
+14	74058832	C	T	SNV	absent eligible query	1		
+14	74060515	T	A	SNV	absent eligible query	1		
+14	74060516	T	A	SNV	absent eligible query	1		
+14	77843363	A	G	SNV	absent eligible query	1		
+14	91739081	A	G	SNV	absent eligible query	2		
+14	91883967	G	T	SNV	absent eligible query	1		
+14	92588002	T	G	SNV	absent eligible query	1		
+14	93315379	A	C	SNV	absent eligible truth		1	(1, 'PASS', 115.0, 73.5)
+14	93399081	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+14	94405871	G	C	SNV	absent eligible query	2		
+14	99640905	G	A	SNV	absent eligible query	1		
+14	99642360	C	G	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+14	100069742	G	A	SNV	absent eligible query	2		
+14	100141689	T	C	SNV	absent eligible query	1		
+14	100759277	C	T	SNV	absent eligible query	1		
+14	100795139	G	T	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+14	101005236	A	G	SNV	absent eligible query	1		
+14	103388999	T	C	SNV	absent eligible query	1		
+14	103568614	T	A	SNV	absent eligible query	1		
+14	103568729	A	G	SNV	absent eligible query	1		
+14	103568981	A	C	SNV	absent eligible query	1		
+14	103988180	G	T	SNV	absent eligible query	1		
+14	104029378	C	G	SNV	absent eligible query	1		
+14	104643409	A	G	SNV	absent eligible query	1		
+14	104643421	T	C	SNV	absent eligible query	1		
+14	104643721	C	A	SNV	absent eligible query	1		
+14	104643859	A	G	SNV	absent eligible query	1		
+14	105054934	A	G	SNV	absent eligible query	1		
+14	105070791	G	T	SNV	absent eligible query	1		
+14	105267579	A	G	SNV	absent eligible query	2		
+14	105349527	C	T	SNV	absent eligible truth		1	(1, 'PASS', 9.0, 85.6)
+14	105354293	A	G	SNV	absent eligible query	2		
+14	105609335	A	G	SNV	absent eligible query	2		
+14	105611282	A	G	SNV	absent eligible query	2		
+15	22490019	T	C	SNV	absent eligible truth		1	(1, 'PASS', 143.0, 99.0)
+15	22490035	A	G	SNV	absent eligible truth		1	(1, 'PASS', 141.0, 99.0)
+15	27018797	G	A	SNV	absent eligible query	1		
+15	27216746	C	T	SNV	absent eligible query	1		
+15	31619442	C	T	SNV	absent eligible query	1		
+15	31776004	C	G	SNV	absent eligible query	2		
+15	31776021	T	C	SNV	absent eligible query	2		
+15	40226495	T	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+15	40544520	G	C	SNV	absent eligible query	1		
+15	40544617	G	A	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+15	40583560	G	T	SNV	absent eligible query	1		
+15	41245676	G	A	SNV	absent eligible query	1		
+15	42159290	C	T	SNV	absent eligible query	1		
+15	42371752	A	T	SNV	absent eligible query	1		
+15	45695445	C	G	SNV	absent eligible query	1		
+15	59981515	A	G	SNV	absent eligible query	1		
+15	59981590	G	A	SNV	absent eligible query	1		
+15	60690089	A	G	SNV	absent eligible query	1		
+15	60884594	G	T	SNV	absent eligible query	1		
+15	62456358	A	C	SNV	absent eligible query	2		
+15	63414083	A	C	SNV	absent eligible query	2		
+15	65116328	A	G	SNV	absent eligible query	2		
+15	65369395	C	T	SNV	absent eligible query	1		
+15	65369531	G	T	SNV	absent eligible query	1		
+15	65369951	A	G	SNV	absent eligible query	2		
+15	65370350	C	T	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+15	65370353	T	C	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+15	65715171	G	A	SNV	absent eligible query	2		
+15	66274690	T	C	SNV	absent eligible query	2		
+15	74219546	G	T	SNV	absent eligible query	1		
+15	74277795	T	C	SNV	absent eligible query	1		
+15	80987812	T	C	SNV	absent eligible query	2		
+15	85177297	G	A	SNV	absent eligible query	1		
+15	85401259	C	T	SNV	absent eligible query	2		
+15	89422286	C	T	SNV	absent eligible query	1		
+15	89456544	G	T	SNV	absent eligible query	1		
+15	89456554	G	A	SNV	absent eligible query	1		
+15	90191827	T	C	SNV	absent eligible query	2		
+15	90293776	A	C	SNV	absent eligible query	2		
+15	90293794	G	C	SNV	absent eligible query	2		
+15	90294306	C	G	SNV	absent eligible query	2		
+15	93198784	A	G	SNV	absent eligible query	2		
+15	93588264	G	C	SNV	absent eligible query	1		
+15	93588289	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 6.02)
+15	93595610	C	T	SNV	absent eligible query	1		
+15	98504100	G	C	SNV	absent eligible query	2		
+15	98504322	C	T	SNV	absent eligible query	1		
+15	98504326	A	G	SNV	absent eligible query	2		
+15	102029597	C	G	SNV	absent eligible query	1		
+16	111247	C	T	SNV	absent eligible query	1		
+16	230578	A	G	SNV	absent eligible query	1		
+16	322934	C	T	SNV	absent eligible query	1		
+16	330678	G	A	SNV	absent eligible query	2		
+16	334732	C	T	SNV	absent eligible query	1		
+16	476096	A	G	SNV	absent eligible query	2		
+16	570233	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 4.0, 12.03)
+16	614763	T	C	SNV	absent eligible query	1		
+16	632138	C	T	SNV	absent eligible query	2		
+16	632283	G	A	SNV	absent eligible query	1		
+16	681280	G	T	SNV	absent eligible query	1		
+16	681284	C	T	SNV	absent eligible query	1		
+16	681325	A	G	SNV	absent eligible query	1		
+16	699456	A	G	SNV	absent eligible query	1		
+16	705360	T	C	SNV	absent eligible query	1		
+16	706534	G	A	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+16	718514	C	G	SNV	absent eligible query	1		
+16	720986	G	A	SNV	absent eligible query	1		
+16	771286	C	T	SNV	absent eligible query	1		
+16	820944	T	A	SNV	query filtered	1		(1, 'LowQual', 10.0, 51.89)
+16	839084	A	C	SNV	absent eligible query	1		
+16	842450	C	T	SNV	absent eligible query	1		
+16	1034954	T	C	SNV	absent eligible query	1		
+16	1129912	A	G	SNV	absent eligible query	2		
+16	1252118	C	T	SNV	absent eligible query	1		
+16	1252259	A	G	SNV	absent eligible query	1		
+16	1252369	C	T	SNV	absent eligible query	1		
+16	1270162	G	A	SNV	absent eligible query	2		
+16	1270349	T	C	SNV	absent eligible query	2		
+16	1273490	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+16	1397815	C	T	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+16	1524850	A	G	SNV	absent eligible query	1		
+16	1664931	T	C	SNV	absent eligible query	1		
+16	1820992	T	A	SNV	absent eligible query	2		
+16	1822947	C	G	SNV	absent eligible query	1		
+16	1823444	C	G	SNV	absent eligible query	1		
+16	1836796	C	A	SNV	absent eligible query	1		
+16	1843672	T	C	SNV	absent eligible query	1		
+16	1877494	T	C	SNV	absent eligible query	1		
+16	1961674	G	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+16	2014528	G	A	SNV	absent eligible query	1		
+16	2014591	C	T	SNV	absent eligible query	1		
+16	2049640	A	G	SNV	absent eligible query	2		
+16	2049849	T	C	SNV	query filtered	1		(1, 'LowQual', 13.0, 49.92)
+16	2050192	G	T	SNV	absent eligible query	1		
+16	2059674	T	C	SNV	absent eligible query	2		
+16	2059698	T	G	SNV	absent eligible query	2		
+16	2059708	T	G	SNV	absent eligible query	2		
+16	2059710	T	G	SNV	absent eligible query	2		
+16	2139875	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 5.0, 15.05)
+16	2987279	G	T	SNV	absent eligible query	1		
+16	3079685	T	C	SNV	absent eligible query	1		
+16	3119167	T	C	SNV	absent eligible truth		1	(1, 'PASS', 134.0, 99.0)
+16	3119304	A	G	SNV	absent eligible truth		1	(1, 'PASS', 115.0, 99.0)
+16	3140616	T	C	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+16	3304626	C	G	SNV	absent eligible query	1		
+16	3613150	A	G	SNV	absent eligible query	1		
+16	11001743	G	A	SNV	absent eligible query	2		
+16	11439496	G	A	SNV	absent eligible query	1		
+16	11836398	C	G	SNV	absent eligible query	2		
+16	11836508	G	A	SNV	absent eligible query	2		
+16	12009279	A	G	SNV	absent eligible query	2		
+16	20360101	G	A	SNV	absent eligible query	2		
+16	25704145	A	G	SNV	absent eligible query	2		
+16	29675928	C	T	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+16	30381303	C	G	SNV	absent eligible query	1		
+16	31072909	G	A	SNV	absent eligible query	1		
+16	31154146	G	A	SNV	absent eligible query	2		
+16	46655210	A	G	SNV	absent eligible query	2		
+16	46744689	C	A	SNV	absent eligible truth		1	(1, 'PASS', 75.0, 73.75)
+16	50059279	C	A	SNV	absent eligible query	2		
+16	50187896	G	A	SNV	absent eligible query	1		
+16	54318528	A	G	SNV	absent eligible query	2		
+16	54967096	C	A	SNV	absent eligible query	1		
+16	57562804	G	A	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+16	58032026	G	A	SNV	absent eligible query	2		
+16	58549932	T	C	SNV	absent eligible query	2		
+16	67327788	T	G	SNV	absent eligible truth		1	(1, 'PASS', 108.0, 72.32)
+16	68057096	T	C	SNV	absent eligible query	2		
+16	68771372	C	T	SNV	absent eligible query	2		
+16	69143577	A	G	SNV	absent eligible query	1		
+16	69364030	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 4.0, 6.02)
+16	69364443	A	G	SNV	absent eligible query	1		
+16	69373414	T	C	SNV	absent eligible query	1		
+16	70698094	G	A	SNV	absent eligible query	1		
+16	72821625	C	T	SNV	absent eligible query	1		
+16	74120660	A	G	SNV	absent eligible query	2		
+16	74120668	A	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+16	77246218	G	A	SNV	absent eligible query	2		
+16	77246517	C	A	SNV	query filtered	1		(2, 'LowQual', 2.0, 6.0)
+16	77246795	C	G	SNV	absent eligible query	2		
+16	77334230	T	G	SNV	absent eligible truth		1	(1, 'PASS', 127.0, 84.33)
+16	81129822	G	A	SNV	absent eligible query	2		
+16	82203711	G	T	SNV	absent eligible query	2		
+16	82203742	T	C	SNV	absent eligible query	2		
+16	82203758	C	T	SNV	absent eligible query	2		
+16	82203768	G	T	SNV	absent eligible query	2		
+16	82203786	C	G	SNV	absent eligible query	1		
+16	83932780	A	G	SNV	absent eligible query	1		
+16	84213434	A	T	SNV	absent eligible query	1		
+16	84224967	G	A	SNV	absent eligible query	1		
+16	84225236	C	A	SNV	absent eligible truth		2	(2, 'PASS', 2.0, 6.02)
+16	84229436	G	A	SNV	absent eligible query	1		
+16	84229559	T	C	SNV	absent eligible query	1		
+16	84229580	C	T	SNV	absent eligible query	1		
+16	84691044	C	T	SNV	absent eligible query	1		
+16	84691433	C	T	SNV	absent eligible query	1		
+16	84695490	C	T	SNV	absent eligible query	1		
+16	87426028	T	C	SNV	absent eligible query	2		
+16	87678165	G	A	SNV	query filtered	1		(1, 'LowQual', 10.0, 50.17)
+16	87723838	T	C	SNV	absent eligible query	1		
+16	88105725	G	A	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+16	88494947	T	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+16	88495367	G	A	SNV	absent eligible query	1		
+16	88495407	G	C	SNV	absent eligible query	2		
+16	88495654	A	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+16	88496008	T	C	SNV	absent eligible query	2		
+16	88497031	T	C	SNV	absent eligible query	2		
+16	88497400	G	A	SNV	absent eligible query	2		
+16	88600079	C	G	SNV	absent eligible query	2		
+16	88709828	A	G	SNV	absent eligible query	2		
+16	88878048	G	A	SNV	absent eligible query	1		
+16	89167094	T	C	SNV	absent eligible query	2		
+16	89167138	G	C	SNV	absent eligible query	1		
+16	89167140	G	C	SNV	absent eligible query	2		
+16	89238310	C	G	SNV	absent eligible query	1		
+16	89245955	C	T	SNV	absent eligible query	1		
+16	89346163	G	A	SNV	absent eligible query	1		
+16	89346883	C	G	SNV	absent eligible query	1		
+17	1359363	T	G	SNV	absent eligible query	2		
+17	1733399	A	G	SNV	absent eligible query	2		
+17	4046101	A	G	SNV	absent eligible query	2		
+17	6899559	C	G	SNV	absent eligible query	2		
+17	6946357	C	A	SNV	absent eligible query	1		
+17	7197633	A	G	SNV	absent eligible query	1		
+17	7197794	C	A	SNV	absent eligible query	1		
+17	7907189	C	T	SNV	query filtered	1		(1, 'LowQual', 10.0, 54.82)
+17	7942901	C	G	SNV	absent eligible query	1		
+17	8092694	T	G	SNV	absent eligible query	2		
+17	8296383	C	T	SNV	absent eligible query	1		
+17	8296440	G	A	SNV	absent eligible query	2		
+17	17062241	C	G	SNV	genotype mismatch	2	1	(1, 'PASS', 23.0, 2.08)
+17	26684449	G	C	SNV	absent eligible query	2		
+17	26699121	G	C	SNV	absent eligible query	2		
+17	26708550	T	C	SNV	absent eligible query	2		
+17	26708551	C	G	SNV	absent eligible query	2		
+17	26732985	G	A	SNV	absent eligible truth		1	(1, 'PASS', 8.0, 64.51)
+17	27085564	A	G	SNV	absent eligible query	1		
+17	33469279	G	C	SNV	absent eligible query	2		
+17	33478185	C	G	SNV	genotype mismatch	1	2	(2, 'PASS', 4.0, 6.02)
+17	34958598	G	C	SNV	absent eligible query	1		
+17	36508385	T	C	SNV	absent eligible query	1		
+17	36666551	T	C	SNV	absent eligible query	2		
+17	36667022	C	T	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+17	38137364	G	A	SNV	absent eligible query	1		
+17	38480006	G	C	SNV	query filtered	1		(1, 'LowQual', 13.0, 55.74)
+17	38519291	C	G	SNV	absent eligible query	2		
+17	38600092	G	A	SNV	absent eligible query	1		
+17	39155969	A	G	SNV	absent eligible query	1		
+17	39684321	G	C	SNV	absent eligible query	2		
+17	39684410	G	A	SNV	absent eligible query	2		
+17	39890715	A	T	SNV	absent eligible query	2		
+17	40021498	G	A	SNV	absent eligible query	1		
+17	40822308	C	A	SNV	absent eligible query	2		
+17	40913366	C	T	SNV	absent eligible query	2		
+17	41133071	T	C	SNV	absent eligible query	2		
+17	41174025	A	C	SNV	absent eligible query	1		
+17	42254281	A	G	SNV	absent eligible query	1		
+17	42254417	A	G	SNV	absent eligible query	1		
+17	42254527	T	G	SNV	absent eligible query	1		
+17	43226887	A	G	SNV	absent eligible query	1		
+17	45234420	T	G	SNV	absent eligible truth		1	(1, 'PASS', 88.0, 99.0)
+17	46629593	G	T	SNV	genotype mismatch	1	2	(2, 'PASS', 6.0, 15.04)
+17	47297297	T	C	SNV	absent eligible query	2		
+17	48226811	C	T	SNV	absent eligible query	1		
+17	48431197	C	T	SNV	absent eligible query	2		
+17	49338257	C	T	SNV	query filtered	1		(1, 'LowQual', 7.0, 57.44)
+17	56774108	T	G	SNV	absent eligible truth		1	(1, 'PASS', 136.0, 99.0)
+17	56833454	G	A	SNV	absent eligible truth		1	(1, 'PASS', 10.0, 79.48)
+17	56833457	G	C	SNV	absent eligible truth		1	(1, 'PASS', 8.0, 92.83)
+17	58499989	C	A	SNV	absent eligible truth		1	(1, 'PASS', 57.0, 82.95)
+17	59489893	T	C	SNV	absent eligible query	2		
+17	68846612	C	T	SNV	absent eligible query	1		
+17	72350412	G	A	SNV	absent eligible query	1		
+17	72869078	A	G	SNV	absent eligible query	1		
+17	73127683	T	C	SNV	absent eligible query	2		
+17	73498483	T	C	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+17	73512653	G	T	SNV	absent eligible query	1		
+17	73512884	T	G	SNV	absent eligible query	1		
+17	73518328	A	C	SNV	absent eligible query	1		
+17	73625430	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+17	74133974	C	T	SNV	absent eligible query	1		
+17	74261677	T	C	SNV	absent eligible query	2		
+17	74381567	G	A	SNV	absent eligible query	1		
+17	75369578	T	C	SNV	absent eligible query	1		
+17	76374763	C	T	SNV	absent eligible query	1		
+17	77071040	C	A	SNV	absent eligible query	1		
+17	78082504	G	A	SNV	genotype mismatch	2	1	(1, 'PASS', 22.0, 5.54)
+17	79093822	A	G	SNV	absent eligible query	1		
+17	79095629	C	A	SNV	absent eligible query	1		
+17	79096115	C	T	SNV	absent eligible query	1		
+17	79220224	G	C	SNV	absent eligible query	1		
+17	79225330	C	A	SNV	absent eligible query	1		
+17	79409309	A	G	SNV	absent eligible query	2		
+17	79409434	A	G	SNV	absent eligible query	1		
+17	79414307	A	G	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+17	79504083	G	A	SNV	absent eligible query	1		
+17	79612397	A	G	SNV	absent eligible query	2		
+17	79615225	G	T	SNV	absent eligible query	2		
+17	79615309	G	A	SNV	absent eligible query	2		
+17	79650828	T	G	SNV	absent eligible query	1		
+17	79663880	T	C	SNV	absent eligible query	1		
+17	79663931	T	C	SNV	absent eligible query	1		
+17	79899272	A	G	SNV	absent eligible query	2		
+17	79899495	G	A	SNV	query filtered	2		(1, 'LowQual', 3.0, 1.76)
+17	79977215	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+17	79980756	C	A	SNV	absent eligible query	1		
+17	80009156	T	G	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 6.02)
+17	81009595	C	T	SNV	absent eligible query	2		
+18	334994	A	G	SNV	absent eligible query	1		
+18	907675	G	A	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+18	12308273	G	T	SNV	absent eligible query	1		
+18	29598847	C	T	SNV	absent eligible query	1		
+18	30050356	C	T	SNV	absent eligible query	1		
+18	34647323	T	G	SNV	absent eligible truth		2	(2, 'PASS', 121.0, 99.0)
+18	45555829	T	C	SNV	query filtered	1		(1, 'LowQual', 11.0, 55.41)
+18	47339798	G	A	SNV	absent eligible query	1		
+18	48723217	C	T	SNV	absent eligible query	2		
+18	70209321	C	A	SNV	absent eligible query	1		
+18	72124378	G	T	SNV	absent eligible query	1		
+18	76752978	G	A	SNV	absent eligible query	1		
+18	76753588	A	G	SNV	absent eligible query	1		
+18	76753768	C	G	SNV	absent eligible query	1		
+18	76754466	C	T	SNV	absent eligible query	1		
+18	76754549	T	C	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 6.02)
+18	76754757	G	C	SNV	absent eligible query	1		
+18	77096644	G	C	SNV	absent eligible truth		1	(1, 'PASS', 67.0, 99.0)
+18	77171061	T	G	SNV	absent eligible query	2		
+18	77246406	T	G	SNV	query filtered	1		(1, 'LowQual', 7.0, 56.51)
+18	77440128	T	G	SNV	absent eligible query	1		
+18	77724726	A	C	SNV	absent eligible query	1		
+19	407900	A	G	SNV	absent eligible query	2		
+19	460668	C	G	SNV	absent eligible query	2		
+19	460729	G	A	SNV	absent eligible query	1		
+19	464310	A	G	SNV	absent eligible query	2		
+19	498524	A	G	SNV	absent eligible query	1		
+19	590172	G	A	SNV	absent eligible query	2		
+19	622336	T	G	SNV	absent eligible query	2		
+19	632915	G	A	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+19	646854	C	T	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+19	813220	T	C	SNV	absent eligible query	1		
+19	871222	G	A	SNV	absent eligible query	1		
+19	920642	T	A	SNV	absent eligible query	2		
+19	929678	G	A	SNV	absent eligible query	1		
+19	929753	A	G	SNV	absent eligible query	1		
+19	991968	T	C	SNV	absent eligible query	1		
+19	1000799	G	C	SNV	absent eligible query	1		
+19	1003158	C	T	SNV	absent eligible query	1		
+19	1003221	C	A	SNV	absent eligible query	1		
+19	1003374	G	A	SNV	absent eligible query	1		
+19	1003439	G	A	SNV	absent eligible query	1		
+19	1009365	T	A	SNV	absent eligible query	2		
+19	1009485	C	G	SNV	absent eligible query	2		
+19	1009585	C	G	SNV	absent eligible query	1		
+19	1010406	G	A	SNV	absent eligible query	1		
+19	1010691	A	G	SNV	absent eligible query	2		
+19	1011810	C	T	SNV	absent eligible query	1		
+19	1014398	A	G	SNV	genotype mismatch	2	1	(1, 'PASS', 14.0, 14.68)
+19	1047002	A	G	SNV	absent eligible query	1		
+19	1065018	G	T	SNV	absent eligible query	1		
+19	1065044	C	T	SNV	absent eligible query	1		
+19	1081617	A	G	SNV	absent eligible query	1		
+19	1085966	A	G	SNV	absent eligible query	1		
+19	1109595	G	T	SNV	absent eligible query	1		
+19	1122731	G	A	SNV	absent eligible query	1		
+19	1467684	A	C	SNV	absent eligible query	2		
+19	1490285	G	A	SNV	absent eligible query	1		
+19	1510661	A	G	SNV	absent eligible query	2		
+19	1619333	G	A	SNV	absent eligible query	1		
+19	1619339	T	C	SNV	absent eligible query	1		
+19	1848243	A	G	SNV	absent eligible query	2		
+19	2226676	G	A	SNV	absent eligible query	1		
+19	2226772	G	C	SNV	absent eligible query	1		
+19	2248464	A	C	SNV	absent eligible truth		1	(1, 'PASS', 32.0, 99.0)
+19	2251512	T	A	SNV	absent eligible query	2		
+19	2251817	T	C	SNV	absent eligible query	2		
+19	2252990	C	G	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+19	2291059	C	T	SNV	absent eligible query	1		
+19	2732986	T	C	SNV	absent eligible query	2		
+19	2820105	G	A	SNV	absent eligible query	1		
+19	3613346	G	A	SNV	absent eligible query	1		
+19	3753874	G	A	SNV	absent eligible query	1		
+19	4175104	C	T	SNV	absent eligible query	1		
+19	4304774	G	A	SNV	absent eligible query	1		
+19	4400314	C	T	SNV	absent eligible query	1		
+19	4524016	G	A	SNV	absent eligible query	1		
+19	4525046	A	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+19	4558431	C	G	SNV	absent eligible query	1		
+19	5455796	A	G	SNV	absent eligible query	1		
+19	5512017	C	G	SNV	absent eligible query	1		
+19	5512032	G	A	SNV	absent eligible query	1		
+19	5789565	T	C	SNV	absent eligible query	1		
+19	5866840	T	C	SNV	query filtered	2		(2, 'LowQual', 39.0, 6.0)
+19	6535014	C	A	SNV	query filtered	1		(1, 'LowQual', 10.0, 49.33)
+19	6737481	T	C	SNV	absent eligible query	1		
+19	6737509	G	A	SNV	absent eligible query	1		
+19	6737516	C	T	SNV	absent eligible query	1		
+19	7293898	G	C	SNV	absent eligible query	2		
+19	7528734	A	G	SNV	absent eligible query	1		
+19	7532252	G	C	SNV	absent eligible query	1		
+19	7533850	A	G	SNV	absent eligible query	1		
+19	7928462	T	C	SNV	absent eligible query	2		
+19	8008484	C	T	SNV	absent eligible query	1		
+19	8399628	A	G	SNV	absent eligible query	2		
+19	8399635	C	T	SNV	absent eligible query	1		
+19	8399709	C	A	SNV	absent eligible query	1		
+19	8399799	G	A	SNV	absent eligible query	1		
+19	8399849	C	A	SNV	absent eligible query	1		
+19	8563456	C	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+19	8669931	G	C	SNV	absent eligible query	1		
+19	10407169	G	C	SNV	absent eligible query	1		
+19	10426422	A	C	SNV	absent eligible query	2		
+19	10431799	G	T	SNV	absent eligible query	1		
+19	10446568	T	C	SNV	absent eligible query	1		
+19	10676423	G	A	SNV	absent eligible query	1		
+19	10676681	T	C	SNV	absent eligible query	1		
+19	10679240	C	G	SNV	absent eligible query	2		
+19	11598483	T	C	SNV	absent eligible query	1		
+19	12405552	T	C	SNV	query filtered	1		(1, 'LowQual', 10.0, 54.36)
+19	12985576	A	G	SNV	absent eligible query	1		
+19	12996740	A	G	SNV	absent eligible query	1		
+19	13397560	C	T	SNV	absent eligible query	1		
+19	15083693	C	A	SNV	absent eligible query	2		
+19	15220850	G	A	SNV	absent eligible query	1		
+19	15580658	G	A	SNV	absent eligible query	1		
+19	15918201	A	G	SNV	absent eligible truth		1	(1, 'PASS', 130.0, 99.0)
+19	16436262	T	C	SNV	absent eligible query	2		
+19	16582785	G	T	SNV	absent eligible query	2		
+19	17306031	T	C	SNV	absent eligible query	1		
+19	17393015	C	T	SNV	absent eligible query	1		
+19	17393504	G	C	SNV	absent eligible query	1		
+19	17434587	T	G	SNV	absent eligible query	2		
+19	17448961	A	C	SNV	absent eligible query	2		
+19	17566634	T	A	SNV	absent eligible query	1		
+19	17622512	G	A	SNV	absent eligible query	1		
+19	17622614	C	T	SNV	absent eligible query	2		
+19	17651370	A	G	SNV	absent eligible query	2		
+19	17666636	C	T	SNV	absent eligible query	2		
+19	17837090	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+19	17837425	C	G	SNV	absent eligible query	1		
+19	17837512	G	A	SNV	absent eligible query	1		
+19	17837981	A	G	SNV	absent eligible query	1		
+19	17919024	A	T	SNV	absent eligible query	1		
+19	17932138	T	C	SNV	absent eligible query	2		
+19	17932190	T	C	SNV	absent eligible query	1		
+19	17932289	C	T	SNV	absent eligible query	1		
+19	18272190	A	C	SNV	absent eligible query	2		
+19	18368810	G	T	SNV	query filtered	1		(1, 'LowQual', 5.0, 46.02)
+19	18375882	G	C	SNV	absent eligible query	1		
+19	18392236	C	A	SNV	absent eligible query	1		
+19	18499151	C	T	SNV	absent eligible query	1		
+19	18499238	G	T	SNV	absent eligible query	1		
+19	19006648	A	G	SNV	absent eligible query	1		
+19	19006666	G	C	SNV	absent eligible query	1		
+19	19040312	G	C	SNV	absent eligible query	2		
+19	19625547	A	G	SNV	absent eligible query	1		
+19	19737686	C	T	SNV	absent eligible query	1		
+19	29704002	T	C	SNV	absent eligible query	2		
+19	29704010	A	C	SNV	absent eligible query	2		
+19	30021023	G	C	SNV	absent eligible query	1		
+19	33167455	G	T	SNV	absent eligible query	2		
+19	33183352	G	C	SNV	absent eligible query	1		
+19	33444556	T	C	SNV	absent eligible truth		1	(1, 'PASS', 146.0, 99.0)
+19	33696708	T	C	SNV	absent eligible query	2		
+19	33696897	C	T	SNV	absent eligible query	1		
+19	33698291	T	C	SNV	absent eligible query	2		
+19	33792631	C	A	SNV	absent eligible query	1		
+19	34972892	A	C	SNV	absent eligible query	2		
+19	34973413	T	C	SNV	absent eligible query	2		
+19	34973476	G	A	SNV	absent eligible query	2		
+19	35454574	T	C	SNV	absent eligible query	1		
+19	35521779	G	T	SNV	absent eligible query	1		
+19	35617639	C	G	SNV	absent eligible query	1		
+19	36278470	C	G	SNV	absent eligible query	2		
+19	36486445	G	C	SNV	absent eligible query	2		
+19	38572894	C	T	SNV	absent eligible query	1		
+19	38573139	G	T	SNV	absent eligible query	1		
+19	39360720	G	A	SNV	absent eligible query	1		
+19	39915758	C	G	SNV	absent eligible query	1		
+19	39993560	T	G	SNV	absent eligible query	1		
+19	39993591	C	G	SNV	absent eligible query	1		
+19	40023308	A	G	SNV	absent eligible query	1		
+19	40366362	G	C	SNV	absent eligible query	1		
+19	40366374	G	C	SNV	absent eligible query	1		
+19	40421612	T	C	SNV	absent eligible query	1		
+19	40720079	C	T	SNV	absent eligible query	1		
+19	40901647	A	G	SNV	absent eligible truth		1	(1, 'PASS', 32.0, 92.29)
+19	41697653	G	A	SNV	absent eligible query	1		
+19	41858921	G	A	SNV	absent eligible query	2		
+19	42596244	C	A	SNV	absent eligible truth		1	(1, 'PASS', 27.0, 63.38)
+19	42906024	G	A	SNV	absent eligible query	1		
+19	43983740	T	C	SNV	absent eligible query	1		
+19	44098963	C	G	SNV	query filtered	1		(1, 'LowQual', 9.0, 44.86)
+19	44351107	G	A	SNV	absent eligible query	1		
+19	45682920	C	T	SNV	absent eligible query	1		
+19	45801018	T	C	SNV	absent eligible query	2		
+19	46269076	G	A	SNV	absent eligible query	1		
+19	46443739	T	G	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+19	46443886	C	A	SNV	absent eligible query	1		
+19	46520026	A	G	SNV	absent eligible query	1		
+19	47152813	G	A	SNV	absent eligible query	1		
+19	47548678	G	A	SNV	absent eligible query	2		
+19	47549454	C	T	SNV	absent eligible query	2		
+19	47768128	G	C	SNV	absent eligible query	1		
+19	47778221	A	C	SNV	absent eligible query	1		
+19	48182946	T	C	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+19	48183114	A	G	SNV	absent eligible query	2		
+19	48219929	G	A	SNV	absent eligible query	1		
+19	48258717	A	G	SNV	absent eligible query	2		
+19	48258772	G	A	SNV	absent eligible query	2		
+19	48800751	C	A	SNV	genotype mismatch	1	2	(2, 'PASS', 5.0, 15.05)
+19	48945880	T	C	SNV	absent eligible query	2		
+19	48946325	T	C	SNV	absent eligible query	2		
+19	48946405	A	G	SNV	absent eligible query	2		
+19	49106995	G	A	SNV	absent eligible query	1		
+19	49116555	A	G	SNV	absent eligible query	2		
+19	49132634	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 9.03)
+19	49164952	A	G	SNV	absent eligible query	1		
+19	49232226	G	A	SNV	absent eligible query	1		
+19	49378994	A	G	SNV	absent eligible query	1		
+19	49611319	C	T	SNV	absent eligible query	1		
+19	49617706	T	C	SNV	absent eligible query	1		
+19	49661112	G	A	SNV	absent eligible query	1		
+19	50093248	A	T	SNV	absent eligible query	1		
+19	50154904	A	C	SNV	absent eligible query	2		
+19	50832152	T	C	SNV	absent eligible query	2		
+19	51015404	T	C	SNV	absent eligible query	2		
+19	51021057	A	G	SNV	absent eligible query	1		
+19	51170706	A	G	SNV	absent eligible query	1		
+19	51171188	G	A	SNV	absent eligible query	1		
+19	51228634	G	A	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+19	51520487	A	C	SNV	absent eligible query	2		
+19	51843808	C	T	SNV	absent eligible query	2		
+19	51871195	G	A	SNV	absent eligible query	2		
+19	52223121	A	G	SNV	absent eligible query	1		
+19	52562237	G	C	SNV	query filtered	1		(1, 'LowQual', 28.0, 56.91)
+19	54307322	G	A	SNV	absent eligible truth		2	(2, 'PASS', 131.0, 99.0)
+19	54652203	T	C	SNV	absent eligible query	1		
+19	54677759	T	C	SNV	absent eligible query	2		
+19	55667647	C	A	SNV	genotype mismatch	1	2	(2, 'PASS', 8.0, 12.04)
+19	55738746	G	A	SNV	absent eligible query	1		
+19	55993260	A	G	SNV	absent eligible query	2		
+19	55993790	A	G	SNV	absent eligible query	2		
+19	55993876	T	C	SNV	absent eligible query	2		
+19	55994240	C	T	SNV	absent eligible query	1		
+19	55998262	C	T	SNV	absent eligible query	1		
+19	56029554	C	T	SNV	absent eligible truth		1	(1, 'PASS', 47.0, 99.0)
+19	56041232	C	T	SNV	absent eligible query	1		
+19	56041255	C	G	SNV	absent eligible query	2		
+19	56104136	T	C	SNV	absent eligible query	2		
+19	56114045	C	T	SNV	absent eligible query	1		
+19	56114237	G	A	SNV	absent eligible query	2		
+19	58549366	C	G	SNV	absent eligible query	2		
+19	58596449	C	T	SNV	absent eligible query	1		
+19	58600105	C	G	SNV	absent eligible truth		1	(1, 'PASS', 41.0, 99.0)
+19	58879965	A	G	SNV	absent eligible query	2		
+19	58879976	C	T	SNV	absent eligible query	2		
+2	45895	A	G	SNV	absent eligible query	2		
+2	1481155	G	T	SNV	absent eligible query	2		
+2	1481231	G	C	SNV	absent eligible query	2		
+2	1481355	G	A	SNV	absent eligible query	1		
+2	3391826	C	T	SNV	absent eligible query	2		
+2	3392295	A	G	SNV	absent eligible query	2		
+2	7005369	A	G	SNV	absent eligible query	2		
+2	9983716	A	C	SNV	absent eligible query	2		
+2	10262920	T	G	SNV	absent eligible query	1		
+2	10952790	T	C	SNV	absent eligible query	2		
+2	11053020	A	G	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+2	11810095	G	A	SNV	absent eligible query	2		
+2	23785333	G	A	SNV	absent eligible query	1		
+2	24149439	G	A	SNV	absent eligible query	2		
+2	26408064	T	C	SNV	absent eligible query	2		
+2	27435165	G	A	SNV	absent eligible query	1		
+2	38302177	C	A	SNV	absent eligible query	1		
+2	38302390	G	C	SNV	absent eligible query	1		
+2	38604351	A	G	SNV	absent eligible query	1		
+2	39187190	T	C	SNV	absent eligible query	2		
+2	39187519	A	G	SNV	absent eligible query	2		
+2	42275726	C	G	SNV	absent eligible query	1		
+2	43452183	A	G	SNV	absent eligible query	1		
+2	44223023	G	C	SNV	absent eligible query	1		
+2	47748292	A	G	SNV	absent eligible query	1		
+2	48010488	G	A	SNV	absent eligible query	1		
+2	54197829	C	A	SNV	query filtered	1		(1, 'LowQual', 11.0, 59.79)
+2	56411817	C	T	SNV	absent eligible query	2		
+2	69614161	A	G	SNV	absent eligible query	1		
+2	70485306	G	T	SNV	absent eligible truth		1	(1, 'PASS', 6.0, 72.74)
+2	71206267	G	A	SNV	absent eligible query	1		
+2	71221822	A	G	SNV	absent eligible query	1		
+2	75185856	G	T	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+2	75937801	C	T	SNV	absent eligible query	1		
+2	85981761	T	C	SNV	absent eligible query	2		
+2	96688929	G	A	SNV	absent eligible truth		1	(1, 'PASS', 51.0, 99.0)
+2	98611994	G	T	SNV	absent eligible query	2		
+2	100218080	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 9.01)
+2	101925026	T	C	SNV	absent eligible query	2		
+2	110372192	A	G	SNV	absent eligible query	2		
+2	112656372	A	T	SNV	absent eligible query	1		
+2	112656392	G	A	SNV	absent eligible query	1		
+2	113956371	G	C	SNV	absent eligible query	1		
+2	114035923	A	G	SNV	absent eligible query	1		
+2	119915509	G	T	SNV	absent eligible query	2		
+2	121746956	G	T	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+2	128633661	A	G	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 6.02)
+2	129075877	G	T	SNV	absent eligible truth		1	(1, 'PASS', 50.0, 96.09)
+2	129075961	T	C	SNV	absent eligible query	1		
+2	158485075	G	T	SNV	absent eligible query	1		
+2	170218847	C	G	SNV	absent eligible query	2		
+2	170684224	C	T	SNV	absent eligible query	2		
+2	171572940	G	A	SNV	absent eligible query	1		
+2	171573185	G	T	SNV	absent eligible query	1		
+2	174910355	A	G	SNV	absent eligible query	2		
+2	176965086	G	A	SNV	absent eligible query	1		
+2	177036754	T	C	SNV	absent eligible query	2		
+2	187558960	G	A	SNV	absent eligible query	1		
+2	198363501	C	T	SNV	absent eligible truth		1	(1, 'PASS', 99.0, 99.0)
+2	198669871	G	C	SNV	absent eligible query	1		
+2	208633413	T	C	SNV	absent eligible query	2		
+2	215674224	G	A	SNV	absent eligible query	1		
+2	219216328	T	C	SNV	absent eligible query	2		
+2	220283259	A	G	SNV	absent eligible query	2		
+2	220283277	T	C	SNV	absent eligible query	2		
+2	220309685	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+2	220417266	C	T	SNV	absent eligible query	2		
+2	220422686	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 6.02)
+2	220435034	A	G	SNV	absent eligible query	2		
+2	220435375	G	A	SNV	absent eligible query	1		
+2	223289516	G	T	SNV	absent eligible query	1		
+2	226447735	C	T	SNV	absent eligible query	1		
+2	231902316	T	C	SNV	absent eligible query	1		
+2	231902471	C	G	SNV	absent eligible query	1		
+2	232260537	T	G	SNV	absent eligible query	2		
+2	237123384	C	A	SNV	absent eligible query	1		
+2	239009336	G	A	SNV	absent eligible query	1		
+2	239010719	T	C	SNV	absent eligible query	1		
+2	239039057	A	G	SNV	absent eligible query	1		
+2	239039075	G	T	SNV	absent eligible query	1		
+2	239039637	T	C	SNV	absent eligible query	1		
+2	239039841	A	G	SNV	absent eligible query	1		
+2	239050033	C	T	SNV	absent eligible query	1		
+2	239229372	C	A	SNV	absent eligible query	1		
+2	241536126	A	G	SNV	absent eligible query	1		
+2	241569849	C	T	SNV	absent eligible query	1		
+2	241828012	T	C	SNV	absent eligible query	2		
+2	241828034	A	G	SNV	absent eligible query	2		
+2	241835379	G	A	SNV	absent eligible query	2		
+2	242041728	G	A	SNV	absent eligible query	1		
+2	242157241	G	A	SNV	absent eligible query	1		
+2	242757411	C	T	SNV	absent eligible query	1		
+2	242757597	G	A	SNV	absent eligible query	1		
+2	242758203	T	C	SNV	absent eligible query	1		
+2	242758326	G	A	SNV	absent eligible query	1		
+2	242814009	G	A	SNV	absent eligible query	1		
+20	278515	T	C	SNV	absent eligible query	2		
+20	377226	C	T	SNV	absent eligible query	1		
+20	590542	C	G	SNV	absent eligible query	2		
+20	590543	G	C	SNV	absent eligible query	2		
+20	741847	A	G	SNV	absent eligible query	1		
+20	3732633	C	T	SNV	absent eligible query	1		
+20	3870124	G	C	SNV	absent eligible query	2		
+20	4229514	T	C	SNV	absent eligible query	1		
+20	20033242	A	T	SNV	absent eligible query	1		
+20	20033319	A	G	SNV	query filtered	1		(1, 'LowQual', 7.0, 48.39)
+20	20033367	C	G	SNV	query filtered	1		(1, 'LowQual', 9.0, 51.37)
+20	23618488	G	A	SNV	absent eligible query	1		
+20	25457022	T	C	SNV	absent eligible query	1		
+20	32664866	G	A	SNV	absent eligible truth		2	(2, 'PASS', 2.0, 6.02)
+20	35491551	A	G	SNV	absent eligible query	2		
+20	37377139	C	T	SNV	absent eligible query	1		
+20	41818289	C	G	SNV	absent eligible query	2		
+20	42744587	G	C	SNV	absent eligible query	1		
+20	42939750	T	C	SNV	absent eligible query	2		
+20	43379264	A	C	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+20	43379454	T	C	SNV	absent eligible query	1		
+20	43727155	C	T	SNV	absent eligible query	1		
+20	43933021	G	T	SNV	absent eligible query	1		
+20	44420682	T	C	SNV	absent eligible query	1		
+20	44642833	A	C	SNV	absent eligible query	2		
+20	48429508	G	C	SNV	absent eligible query	1		
+20	48429509	G	C	SNV	query filtered	1		(1, 'LowQual', 3.0, 33.63)
+20	48729677	C	G	SNV	absent eligible query	1		
+20	48770159	T	C	SNV	absent eligible query	2		
+20	49621149	T	C	SNV	absent eligible query	1		
+20	60509209	C	T	SNV	absent eligible query	1		
+20	60639883	T	C	SNV	absent eligible query	2		
+20	60639898	C	A	SNV	absent eligible query	1		
+20	60791404	C	T	SNV	genotype mismatch	2	1	(1, 'PASS', 22.0, 19.79)
+20	60893639	G	C	SNV	absent eligible query	1		
+20	60897721	C	T	SNV	absent eligible query	1		
+20	60903419	C	T	SNV	absent eligible truth		1	(1, 'PASS', 10.0, 60.01)
+20	60905878	A	G	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+20	60982024	C	T	SNV	absent eligible query	1		
+20	61162267	T	C	SNV	absent eligible query	2		
+20	61460338	C	T	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+20	61460340	G	C	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+20	61512606	T	C	SNV	absent eligible query	2		
+20	61951489	G	C	SNV	absent eligible query	2		
+20	62194103	A	G	SNV	absent eligible query	2		
+20	62194713	A	C	SNV	absent eligible query	2		
+20	62195220	C	T	SNV	absent eligible query	2		
+20	62221610	T	C	SNV	absent eligible query	2		
+20	62322288	T	C	SNV	absent eligible query	1		
+20	62328267	C	T	SNV	absent eligible query	1		
+20	62328453	T	C	SNV	absent eligible query	1		
+21	28216692	G	T	SNV	absent eligible query	1		
+21	28217178	T	G	SNV	absent eligible query	1		
+21	36041978	A	G	SNV	absent eligible query	2		
+21	36042203	G	C	SNV	absent eligible query	2		
+21	37507501	G	A	SNV	absent eligible query	1		
+21	38593461	G	T	SNV	absent eligible query	1		
+21	40684975	C	T	SNV	absent eligible query	1		
+21	42845383	A	G	SNV	absent eligible query	1		
+21	42879909	C	A	SNV	absent eligible query	1		
+21	43531403	C	G	SNV	absent eligible query	2		
+21	44480616	G	A	SNV	absent eligible query	1		
+21	45107562	T	C	SNV	genotype mismatch	1	2	(2, 'PASS', 5.0, 15.05)
+21	45527291	G	A	SNV	absent eligible query	1		
+21	46067184	C	T	SNV	absent eligible query	1		
+21	46387078	G	T	SNV	absent eligible query	1		
+21	46876083	A	G	SNV	absent eligible query	1		
+21	46876173	C	T	SNV	absent eligible query	1		
+21	46876580	C	T	SNV	absent eligible query	1		
+21	46929467	G	A	SNV	absent eligible query	1		
+21	47552103	G	T	SNV	absent eligible query	1		
+21	47552130	A	G	SNV	absent eligible query	1		
+21	47602719	G	A	SNV	absent eligible query	1		
+21	47635627	C	G	SNV	genotype mismatch	2	1	(1, 'PASS', 52.0, 19.94)
+21	47783796	T	C	SNV	absent eligible query	2		
+21	47811272	C	T	SNV	absent eligible query	2		
+22	17601748	C	T	SNV	absent eligible query	1		
+22	18300594	G	A	SNV	absent eligible query	1		
+22	18301693	T	C	SNV	absent eligible query	1		
+22	19137658	G	A	SNV	absent eligible query	1		
+22	19511925	G	A	SNV	absent eligible query	1		
+22	19753449	A	G	SNV	absent eligible query	1		
+22	19754091	A	C	SNV	absent eligible query	1		
+22	19968971	G	A	SNV	absent eligible query	1		
+22	19969075	A	G	SNV	absent eligible query	1		
+22	19969106	A	G	SNV	absent eligible query	1		
+22	20161030	C	T	SNV	absent eligible query	1		
+22	20779768	G	C	SNV	absent eligible query	2		
+22	20779946	C	G	SNV	absent eligible query	2		
+22	20779947	G	C	SNV	absent eligible query	2		
+22	20780091	C	G	SNV	absent eligible query	2		
+22	20780097	G	C	SNV	absent eligible query	2		
+22	21213416	A	G	SNV	absent eligible query	1		
+22	21800444	T	C	SNV	absent eligible query	2		
+22	21982892	C	T	SNV	absent eligible query	1		
+22	23523630	C	A	SNV	absent eligible query	1		
+22	24109774	T	G	SNV	absent eligible query	2		
+22	24224655	G	A	SNV	absent eligible query	1		
+22	24224659	C	A	SNV	absent eligible query	1		
+22	24628928	G	A	SNV	absent eligible query	1		
+22	24837301	T	C	SNV	absent eligible query	1		
+22	24981938	C	T	SNV	absent eligible query	1		
+22	29469130	A	C	SNV	absent eligible query	2		
+22	31032881	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 8.0, 21.07)
+22	31032920	A	G	SNV	absent eligible query	2		
+22	36424450	A	C	SNV	absent eligible query	2		
+22	38122448	C	T	SNV	absent eligible query	1		
+22	38122462	A	G	SNV	absent eligible query	2		
+22	38220964	T	C	SNV	absent eligible query	1		
+22	38221032	C	T	SNV	absent eligible query	1		
+22	38485540	A	G	SNV	absent eligible query	2		
+22	40054948	T	C	SNV	absent eligible query	1		
+22	40058186	A	G	SNV	absent eligible query	1		
+22	40814636	C	T	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+22	43539120	G	C	SNV	absent eligible query	1		
+22	43576904	G	A	SNV	query filtered	1		(1, 'LowQual', 7.0, 56.74)
+22	46658719	G	A	SNV	absent eligible query	1		
+22	46658725	G	C	SNV	absent eligible query	1		
+22	46658978	T	C	SNV	absent eligible query	1		
+22	46659143	A	G	SNV	absent eligible query	1		
+22	46931793	G	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+22	50616806	A	G	SNV	absent eligible query	1		
+22	50639473	T	C	SNV	absent eligible query	2		
+22	50639528	T	C	SNV	absent eligible query	2		
+22	50639636	C	G	SNV	absent eligible query	2		
+22	50639778	T	C	SNV	absent eligible query	2		
+22	50639965	C	A	SNV	absent eligible query	2		
+22	50699668	A	G	SNV	absent eligible query	1		
+22	50716167	G	A	SNV	query filtered	1		(1, 'LowQual', 22.0, 56.88)
+22	50722408	T	C	SNV	absent eligible query	1		
+22	50725553	T	C	SNV	absent eligible query	1		
+22	50895458	G	C	SNV	absent eligible query	1		
+22	50964236	G	A	SNV	absent eligible query	1		
+22	50964862	G	A	SNV	absent eligible query	1		
+22	50987287	A	G	SNV	absent eligible query	1		
+22	50988193	A	G	SNV	absent eligible query	1		
+22	51043278	G	A	SNV	absent eligible query	2		
+3	5229643	C	T	SNV	absent eligible query	1		
+3	9975247	C	G	SNV	absent eligible query	2		
+3	10121104	G	T	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 9.0)
+3	14563258	A	G	SNV	absent eligible query	1		
+3	45267058	G	A	SNV	absent eligible query	1		
+3	45267310	C	T	SNV	absent eligible query	2		
+3	45267321	C	T	SNV	absent eligible query	2		
+3	48694147	G	A	SNV	absent eligible query	2		
+3	50329826	A	G	SNV	absent eligible query	1		
+3	51990119	A	C	SNV	absent eligible query	2		
+3	51990315	A	G	SNV	absent eligible query	2		
+3	53857803	A	C	SNV	query filtered	1		(1, 'LowQual', 4.0, 58.44)
+3	57261947	G	C	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+3	57438710	C	A	SNV	absent eligible truth		1	(1, 'PASS', 58.0, 99.0)
+3	66550756	G	C	SNV	absent eligible query	2		
+3	66550762	G	C	SNV	absent eligible query	2		
+3	73673578	G	C	SNV	absent eligible query	2		
+3	112052103	G	T	SNV	genotype mismatch	1	2	(2, 'PASS', 4.0, 6.02)
+3	113524266	G	C	SNV	absent eligible truth		1	(1, 'PASS', 131.0, 94.63)
+3	120067797	G	A	SNV	absent eligible query	2		
+3	122631896	A	T	SNV	absent eligible query	2		
+3	123167249	G	A	SNV	absent eligible query	2		
+3	126194357	G	C	SNV	absent eligible query	2		
+3	126260608	G	T	SNV	absent eligible query	1		
+3	126261202	G	A	SNV	absent eligible query	1		
+3	126261207	C	T	SNV	absent eligible query	1		
+3	126261345	G	A	SNV	absent eligible query	1		
+3	126733053	C	T	SNV	absent eligible query	1		
+3	128205860	G	C	SNV	absent eligible query	1		
+3	128720487	A	G	SNV	absent eligible query	2		
+3	129293183	T	C	SNV	absent eligible query	2		
+3	129324193	A	G	SNV	absent eligible query	2		
+3	133465283	A	G	SNV	absent eligible query	2		
+3	133969352	G	A	SNV	absent eligible query	1		
+3	140785175	C	A	SNV	absent eligible query	1		
+3	147108756	C	G	SNV	absent eligible query	1		
+3	149374873	G	T	SNV	absent eligible query	1		
+3	150128392	G	A	SNV	absent eligible query	1		
+3	158362441	T	C	SNV	query filtered	1		(1, 'LowQual', 9.0, 47.0)
+3	158449965	T	C	SNV	absent eligible query	2		
+3	158450178	A	G	SNV	absent eligible query	1		
+3	158520011	C	T	SNV	absent eligible query	1		
+3	183543291	G	A	SNV	absent eligible query	2		
+3	183951135	C	T	SNV	absent eligible query	1		
+3	183959508	A	C	SNV	absent eligible query	1		
+3	184098193	A	C	SNV	absent eligible query	2		
+3	184099378	C	A	SNV	absent eligible query	1		
+3	191179129	A	C	SNV	absent eligible truth		1	(1, 'PASS', 68.0, 99.0)
+3	192661865	A	G	SNV	absent eligible query	2		
+3	194118874	T	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+3	194408704	A	G	SNV	absent eligible query	1		
+3	195594950	G	A	SNV	absent eligible query	1		
+3	197807195	G	A	SNV	absent eligible query	1		
+4	843695	A	G	SNV	absent eligible query	1		
+4	980896	C	A	SNV	absent eligible query	1		
+4	980932	G	A	SNV	absent eligible query	1		
+4	980971	T	G	SNV	absent eligible query	1		
+4	982852	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 9.03)
+4	1006333	G	A	SNV	absent eligible query	2		
+4	1165130	G	T	SNV	absent eligible query	2		
+4	1720346	A	G	SNV	absent eligible query	2		
+4	2044128	C	T	SNV	absent eligible query	2		
+4	2306871	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 6.02)
+4	3257593	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 6.02)
+4	3494826	A	C	SNV	absent eligible query	1		
+4	3494847	G	A	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+4	4861745	C	G	SNV	absent eligible query	1		
+4	7044357	A	G	SNV	absent eligible query	2		
+4	7044380	C	T	SNV	absent eligible query	1		
+4	8230070	T	C	SNV	absent eligible query	2		
+4	8230235	T	C	SNV	absent eligible query	2		
+4	8583312	A	C	SNV	absent eligible query	1		
+4	8594574	T	C	SNV	absent eligible query	2		
+4	8869587	T	C	SNV	absent eligible query	2		
+4	13545792	G	T	SNV	absent eligible query	2		
+4	17643848	G	A	SNV	absent eligible query	2		
+4	24801315	G	A	SNV	absent eligible query	2		
+4	25236017	T	C	SNV	absent eligible query	2		
+4	38016395	T	G	SNV	absent eligible query	1		
+4	39448542	C	G	SNV	absent eligible query	2		
+4	48492434	G	C	SNV	absent eligible query	2		
+4	48492769	A	T	SNV	absent eligible query	1		
+4	48493237	G	A	SNV	absent eligible query	1		
+4	48988450	C	A	SNV	absent eligible query	1		
+4	54966667	C	T	SNV	absent eligible query	2		
+4	54966919	T	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+4	56262374	A	G	SNV	absent eligible query	2		
+4	57180616	G	C	SNV	absent eligible query	1		
+4	57843320	A	G	SNV	absent eligible query	2		
+4	71705262	A	G	SNV	absent eligible query	2		
+4	74735244	A	G	SNV	absent eligible query	1		
+4	77662248	G	A	SNV	absent eligible query	2		
+4	77662309	C	T	SNV	absent eligible query	2		
+4	84205872	C	A	SNV	absent eligible query	2		
+4	99850126	A	G	SNV	absent eligible query	1		
+4	106395181	G	A	SNV	absent eligible query	1		
+4	113066831	G	A	SNV	absent eligible query	2		
+4	113436044	T	G	SNV	absent eligible query	2		
+4	119273712	C	G	SNV	query filtered	1		(1, 'LowQual', 10.0, 52.89)
+4	122872719	G	A	SNV	absent eligible query	2		
+4	123748086	C	T	SNV	absent eligible query	1		
+4	123843716	T	C	SNV	absent eligible query	1		
+4	144621779	A	G	SNV	absent eligible query	1		
+4	155411649	G	A	SNV	absent eligible query	1		
+4	169799448	A	G	SNV	absent eligible query	1		
+4	183720850	C	T	SNV	absent eligible query	1		
+4	185655192	G	C	SNV	absent eligible query	1		
+4	187113041	C	G	SNV	absent eligible query	1		
+5	163205	G	C	SNV	query filtered	1		(1, 'LowQual', 8.0, 46.28)
+5	163266	C	G	SNV	query filtered	1		(1, 'LowQual', 8.0, 43.64)
+5	191992	G	A	SNV	absent eligible query	1		
+5	1882129	T	G	SNV	absent eligible query	1		
+5	3600334	T	C	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+5	5140632	T	C	SNV	absent eligible query	1		
+5	6633042	C	T	SNV	absent eligible query	2		
+5	6633779	C	G	SNV	absent eligible query	2		
+5	10564846	C	T	SNV	absent eligible query	2		
+5	10649784	G	A	SNV	absent eligible query	1		
+5	10761182	A	G	SNV	absent eligible query	2		
+5	34008100	C	T	SNV	absent eligible query	1		
+5	42836865	C	T	SNV	query filtered	1		(1, 'LowQual', 5.0, 30.99)
+5	43613188	T	G	SNV	absent eligible truth		1	(1, 'PASS', 87.0, 99.0)
+5	50057729	G	A	SNV	absent eligible truth		2	(2, 'PASS', 48.0, 69.21)
+5	50685505	A	G	SNV	absent eligible query	1		
+5	53814052	T	C	SNV	absent eligible query	2		
+5	53814394	T	C	SNV	absent eligible query	2		
+5	54830380	A	G	SNV	absent eligible query	2		
+5	56111751	G	C	SNV	absent eligible query	2		
+5	60241142	G	A	SNV	genotype mismatch	2	1	(1, 'PASS', 135.0, 99.0)
+5	65892594	C	T	SNV	absent eligible query	1		
+5	66459878	G	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+5	72743214	C	T	SNV	absent eligible query	1		
+5	73205697	C	G	SNV	absent eligible query	1		
+5	73205717	C	T	SNV	absent eligible query	1		
+5	76373240	A	G	SNV	absent eligible query	1		
+5	76373241	G	C	SNV	absent eligible query	1		
+5	76926578	T	C	SNV	absent eligible query	2		
+5	115298475	T	C	SNV	absent eligible query	2		
+5	115298518	A	G	SNV	absent eligible query	2		
+5	115298977	C	T	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+5	122425832	G	T	SNV	absent eligible query	1		
+5	131705949	T	C	SNV	absent eligible query	1		
+5	132149684	G	C	SNV	absent eligible query	2		
+5	132150024	C	G	SNV	absent eligible query	2		
+5	132150132	C	A	SNV	absent eligible query	2		
+5	132159134	C	T	SNV	absent eligible query	1		
+5	132161294	G	A	SNV	absent eligible query	1		
+5	134364996	G	T	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+5	137503739	G	A	SNV	absent eligible truth		1	(1, 'PASS', 68.0, 99.0)
+5	138728483	A	G	SNV	absent eligible query	2		
+5	138728533	C	T	SNV	absent eligible query	1		
+5	138730037	T	C	SNV	absent eligible query	1		
+5	140187048	G	C	SNV	genotype mismatch	2	1	(1, 'PASS', 11.0, 1.52)
+5	140346468	T	A	SNV	absent eligible query	2		
+5	140720516	C	G	SNV	absent eligible query	2		
+5	149776355	G	C	SNV	absent eligible query	1		
+5	150925477	A	C	SNV	absent eligible truth		1	(1, 'PASS', 115.0, 99.0)
+5	154135386	G	A	SNV	absent eligible query	1		
+5	172274665	G	A	SNV	absent eligible query	1		
+5	175792605	G	C	SNV	absent eligible query	2		
+5	176734648	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 2.0, 6.02)
+5	176734855	G	C	SNV	absent eligible query	1		
+5	176916516	C	T	SNV	absent eligible query	2		
+5	178421770	T	G	SNV	absent eligible query	2		
+5	178770981	A	G	SNV	absent eligible query	1		
+5	179498595	C	T	SNV	absent eligible query	2		
+5	179498658	G	T	SNV	absent eligible query	2		
+5	180486247	G	T	SNV	absent eligible query	2		
+5	180486841	C	T	SNV	absent eligible query	2		
+6	1313117	A	C	SNV	absent eligible query	2		
+6	1313121	A	C	SNV	absent eligible query	2		
+6	1313952	A	G	SNV	absent eligible query	1		
+6	1313980	C	G	SNV	absent eligible query	1		
+6	2766144	T	C	SNV	absent eligible query	2		
+6	2766465	T	C	SNV	absent eligible query	2		
+6	5086070	A	G	SNV	absent eligible query	2		
+6	5086211	G	C	SNV	absent eligible query	2		
+6	7230680	G	T	SNV	absent eligible query	1		
+6	7542253	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 5.0, 9.02)
+6	10756728	C	T	SNV	absent eligible truth		1	(1, 'PASS', 166.0, 87.41)
+6	12290906	G	T	SNV	absent eligible truth		1	(1, 'PASS', 141.0, 62.83)
+6	13814338	G	A	SNV	absent eligible query	1		
+6	13814340	T	C	SNV	absent eligible query	2		
+6	22570189	T	C	SNV	absent eligible query	2		
+6	22570245	G	A	SNV	absent eligible query	2		
+6	25834428	T	A	SNV	absent eligible query	1		
+6	25834548	A	G	SNV	absent eligible query	1		
+6	25834658	T	C	SNV	absent eligible query	1		
+6	25834895	A	G	SNV	absent eligible query	1		
+6	26406255	G	A	SNV	genotype mismatch	2	1	(1, 'PASS', 53.0, 1.9)
+6	27114425	G	A	SNV	absent eligible truth		1	(1, 'PASS', 149.0, 99.0)
+6	27114461	G	A	SNV	absent eligible truth		1	(1, 'PASS', 137.0, 99.0)
+6	28219661	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 6.0, 12.04)
+6	28891176	T	C	SNV	absent eligible query	1		
+6	28983048	T	C	SNV	absent eligible query	1		
+6	31079440	C	T	SNV	absent eligible query	1		
+6	31079643	T	C	SNV	absent eligible query	2		
+6	31079644	G	A	SNV	absent eligible query	1		
+6	31085200	A	G	SNV	absent eligible query	2		
+6	31085269	A	G	SNV	absent eligible query	2		
+6	32064661	G	A	SNV	absent eligible truth		2	(2, 'PASS', 2.0, 6.02)
+6	32064663	C	T	SNV	absent eligible truth		2	(2, 'PASS', 2.0, 6.02)
+6	32064682	G	A	SNV	absent eligible truth		2	(2, 'PASS', 2.0, 6.02)
+6	33053968	T	A	SNV	absent eligible query	1		
+6	33053971	T	C	SNV	absent eligible query	1		
+6	33053982	G	C	SNV	absent eligible query	1		
+6	33054046	T	G	SNV	absent eligible query	1		
+6	35479574	G	C	SNV	absent eligible query	1		
+6	39016636	C	T	SNV	absent eligible query	1		
+6	39282036	T	C	SNV	absent eligible query	1		
+6	42344764	C	T	SNV	absent eligible query	1		
+6	42946490	C	A	SNV	absent eligible query	1		
+6	43252029	T	C	SNV	absent eligible query	1		
+6	43336771	C	T	SNV	absent eligible query	2		
+6	44243559	A	G	SNV	absent eligible query	2		
+6	72892383	G	A	SNV	absent eligible query	1		
+6	73332040	C	G	SNV	absent eligible query	1		
+6	73332121	C	T	SNV	absent eligible query	1		
+6	74161503	A	G	SNV	absent eligible query	2		
+6	82461520	A	G	SNV	absent eligible query	1		
+6	88182704	G	C	SNV	absent eligible query	1		
+6	99283376	T	G	SNV	absent eligible query	2		
+6	105307435	G	A	SNV	absent eligible query	1		
+6	110679413	A	G	SNV	absent eligible query	2		
+6	116600774	C	G	SNV	absent eligible query	1		
+6	116600810	G	A	SNV	absent eligible query	1		
+6	116783390	A	G	SNV	absent eligible query	1		
+6	132271980	T	G	SNV	absent eligible query	2		
+6	132722527	G	A	SNV	absent eligible query	1		
+6	136589425	G	T	SNV	absent eligible truth		1	(1, 'PASS', 118.0, 99.0)
+6	136590613	T	C	SNV	absent eligible truth		1	(1, 'PASS', 134.0, 99.0)
+6	136590640	A	C	SNV	absent eligible truth		1	(1, 'PASS', 155.0, 99.0)
+6	136590698	C	T	SNV	absent eligible truth		1	(1, 'PASS', 138.0, 99.0)
+6	136590712	C	T	SNV	absent eligible truth		1	(1, 'PASS', 120.0, 99.0)
+6	136682172	G	A	SNV	absent eligible query	2		
+6	137113137	G	A	SNV	absent eligible query	2		
+6	139456761	T	C	SNV	absent eligible query	2		
+6	146056476	G	C	SNV	absent eligible query	2		
+6	146755842	C	A	SNV	absent eligible query	1		
+6	149795522	G	A	SNV	absent eligible query	1		
+6	150184882	G	C	SNV	absent eligible query	2		
+6	153323709	T	C	SNV	absent eligible query	1		
+6	153323806	A	G	SNV	absent eligible query	1		
+6	159654994	A	C	SNV	absent eligible query	2		
+6	159655326	T	C	SNV	absent eligible query	2		
+6	160769811	C	T	SNV	absent eligible query	2		
+6	166720806	G	C	SNV	absent eligible query	1		
+6	166721211	G	T	SNV	absent eligible query	1		
+6	166721224	C	G	SNV	absent eligible query	1		
+6	166755975	T	C	SNV	absent eligible query	2		
+6	166755979	A	C	SNV	absent eligible query	2		
+6	168708751	A	G	SNV	absent eligible query	1		
+6	168708793	C	G	SNV	absent eligible query	1		
+6	168708816	T	G	SNV	absent eligible query	1		
+7	1028448	C	T	SNV	absent eligible query	1		
+7	1543981	C	A	SNV	absent eligible query	2		
+7	2281754	C	T	SNV	absent eligible query	1		
+7	2752059	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 8.0, 18.06)
+7	4841470	T	C	SNV	absent eligible query	2		
+7	5372406	G	T	SNV	absent eligible query	2		
+7	6193521	G	C	SNV	absent eligible query	1		
+7	6193752	G	A	SNV	absent eligible query	1		
+7	6194383	C	T	SNV	absent eligible query	1		
+7	6566322	T	G	SNV	absent eligible query	2		
+7	6590693	G	A	SNV	absent eligible query	2		
+7	6647738	T	C	SNV	absent eligible query	2		
+7	8009077	C	A	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+7	16460893	T	G	SNV	absent eligible query	1		
+7	27169934	A	G	SNV	absent eligible query	2		
+7	27170145	T	G	SNV	absent eligible query	2		
+7	28996220	G	A	SNV	absent eligible query	2		
+7	29605975	C	G	SNV	absent eligible query	2		
+7	30634661	C	G	SNV	absent eligible query	1		
+7	39379325	C	T	SNV	absent eligible query	1		
+7	42951515	G	A	SNV	absent eligible query	2		
+7	43966161	C	A	SNV	absent eligible query	1		
+7	44259706	G	A	SNV	absent eligible query	1		
+7	44924627	A	C	SNV	absent eligible query	2		
+7	45125466	G	C	SNV	genotype mismatch	1	2	(2, 'PASS', 4.0, 6.02)
+7	45125665	G	A	SNV	absent eligible query	1		
+7	45197433	G	A	SNV	absent eligible query	1		
+7	45960323	C	A	SNV	absent eligible query	1		
+7	45960645	G	C	SNV	absent eligible query	1		
+7	49815390	C	G	SNV	absent eligible query	1		
+7	55433880	G	C	SNV	absent eligible query	1		
+7	55433884	A	C	SNV	absent eligible query	1		
+7	72848499	G	C	SNV	absent eligible query	1		
+7	73153071	G	T	SNV	absent eligible truth		1	(1, 'PASS', 5.0, 61.94)
+7	73753250	T	C	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+7	74489486	T	C	SNV	absent eligible query	1		
+7	75677504	C	T	SNV	absent eligible query	1		
+7	87564497	C	G	SNV	absent eligible query	2		
+7	95064268	C	T	SNV	absent eligible query	1		
+7	100228635	T	C	SNV	absent eligible truth		1	(1, 'PASS', 66.0, 99.0)
+7	100731505	C	G	SNV	absent eligible query	1		
+7	100732321	C	T	SNV	absent eligible query	1		
+7	100806448	C	G	SNV	absent eligible query	1		
+7	101006376	C	T	SNV	absent eligible query	1		
+7	101006382	C	T	SNV	absent eligible query	1		
+7	102112980	G	A	SNV	absent eligible query	1		
+7	127670327	C	G	SNV	absent eligible truth		1	(1, 'PASS', 109.0, 99.0)
+7	127991133	G	A	SNV	absent eligible query	1		
+7	127992437	C	G	SNV	absent eligible query	1		
+7	128531072	T	A	SNV	absent eligible query	1		
+7	139138950	C	G	SNV	query filtered	1		(1, 'LowQual', 9.0, 48.01)
+7	139167934	T	G	SNV	absent eligible query	1		
+7	139168063	G	A	SNV	absent eligible query	1		
+7	142498813	G	A	SNV	absent eligible truth		1	(1, 'PASS', 80.0, 99.0)
+7	142498897	A	G	SNV	absent eligible truth		1	(1, 'PASS', 105.0, 99.0)
+7	143042837	C	T	SNV	absent eligible query	1		
+7	148921732	G	A	SNV	absent eligible query	1		
+7	148936878	G	T	SNV	absent eligible query	1		
+7	148979323	C	T	SNV	absent eligible query	1		
+7	149509419	C	T	SNV	absent eligible query	1		
+7	149513560	T	C	SNV	absent eligible query	1		
+7	149515754	A	G	SNV	absent eligible query	1		
+7	149516486	A	G	SNV	absent eligible query	1		
+7	149518148	A	G	SNV	absent eligible query	1		
+7	149571219	T	C	SNV	absent eligible query	1		
+7	150094853	G	A	SNV	absent eligible query	2		
+7	150498809	G	A	SNV	absent eligible query	1		
+7	150695726	T	C	SNV	query filtered	1		(1, 'LowQual', 6.0, 58.88)
+7	150715817	A	G	SNV	absent eligible query	2		
+7	150763655	T	A	SNV	absent eligible query	1		
+7	151078735	A	G	SNV	absent eligible query	2		
+7	155251433	C	T	SNV	absent eligible query	1		
+7	155532510	C	A	SNV	absent eligible truth		1	(1, 'PASS', 14.0, 71.35)
+7	155532522	C	A	SNV	absent eligible truth		2	(2, 'PASS', 8.0, 15.04)
+7	155532534	C	T	SNV	absent eligible truth		1	(1, 'PASS', 7.0, 60.62)
+7	155532537	A	G	SNV	absent eligible truth		1	(1, 'PASS', 6.0, 27.28)
+7	155532539	C	A	SNV	absent eligible truth		1	(1, 'PASS', 7.0, 69.36)
+7	155532545	A	C	SNV	absent eligible truth		1	(1, 'PASS', 6.0, 61.17)
+8	6692968	C	T	SNV	absent eligible query	2		
+8	8560151	G	A	SNV	absent eligible query	1		
+8	8750467	A	G	SNV	absent eligible query	1		
+8	10470068	C	T	SNV	genotype mismatch	2	1	(1, 'PASS', 8.0, 6.64)
+8	16859398	C	G	SNV	absent eligible query	2		
+8	17270759	C	T	SNV	absent eligible query	1		
+8	17270770	T	C	SNV	absent eligible query	1		
+8	17270818	C	T	SNV	absent eligible query	1		
+8	17930727	G	A	SNV	absent eligible query	1		
+8	17930734	C	A	SNV	absent eligible query	1		
+8	17930772	C	T	SNV	absent eligible query	1		
+8	21984650	A	G	SNV	absent eligible query	1		
+8	22428658	T	C	SNV	absent eligible query	2		
+8	22428708	A	G	SNV	absent eligible query	1		
+8	27779545	C	T	SNV	absent eligible query	2		
+8	37823798	A	G	SNV	absent eligible query	1		
+8	41583294	C	T	SNV	absent eligible query	1		
+8	63161612	C	G	SNV	absent eligible query	2		
+8	63951312	A	G	SNV	absent eligible query	1		
+8	86089787	C	G	SNV	absent eligible query	1		
+8	98656966	G	T	SNV	absent eligible query	1		
+8	101225559	C	G	SNV	absent eligible query	2		
+8	110455176	T	G	SNV	absent eligible truth		1	(1, 'PASS', 132.0, 83.22)
+8	117950768	G	C	SNV	absent eligible query	1		
+8	119964052	G	C	SNV	query filtered	1		(1, 'LowQual', 2.0, 1.76)
+8	120429024	G	A	SNV	absent eligible query	1		
+8	142228809	T	C	SNV	absent eligible query	1		
+8	142228909	G	A	SNV	absent eligible query	1		
+8	142367335	T	C	SNV	absent eligible query	1		
+8	142367400	G	A	SNV	absent eligible query	1		
+8	143763547	C	A	SNV	absent eligible query	1		
+8	143781858	G	A	SNV	absent eligible query	1		
+8	143782044	A	G	SNV	absent eligible query	1		
+8	143808951	C	T	SNV	absent eligible query	1		
+8	143809193	C	T	SNV	absent eligible query	1		
+8	144358381	G	A	SNV	absent eligible query	2		
+8	144378868	A	G	SNV	absent eligible query	2		
+8	144511538	C	A	SNV	absent eligible query	1		
+8	144511995	A	G	SNV	absent eligible query	2		
+8	144649550	A	G	SNV	absent eligible query	2		
+8	144649601	A	G	SNV	absent eligible query	2		
+8	144649625	T	C	SNV	absent eligible query	2		
+8	144654594	G	T	SNV	absent eligible query	1		
+8	144654693	G	C	SNV	absent eligible query	1		
+8	144776109	A	G	SNV	absent eligible query	2		
+8	144789973	C	A	SNV	genotype mismatch	1	2	(2, 'PASS', 4.0, 6.02)
+8	144808747	G	A	SNV	absent eligible query	1		
+8	144809268	C	T	SNV	absent eligible query	1		
+8	144809804	G	A	SNV	absent eligible query	2		
+8	144810138	G	A	SNV	absent eligible query	1		
+8	144874554	T	C	SNV	absent eligible query	2		
+8	144885580	A	G	SNV	absent eligible query	2		
+8	144942903	T	C	SNV	absent eligible query	1		
+8	144990528	A	G	SNV	absent eligible query	2		
+8	144992361	T	C	SNV	absent eligible query	2		
+8	144996029	A	G	SNV	absent eligible query	2		
+8	144997656	C	T	SNV	absent eligible query	2		
+8	144997927	G	A	SNV	absent eligible query	2		
+8	144998169	C	T	SNV	absent eligible query	2		
+8	144998190	A	G	SNV	absent eligible query	2		
+8	144999417	C	T	SNV	absent eligible query	2		
+8	144999621	C	T	SNV	absent eligible query	2		
+8	144999642	A	C	SNV	absent eligible query	2		
+8	144999684	A	G	SNV	absent eligible query	2		
+8	145150101	T	G	SNV	absent eligible query	2		
+8	145158503	G	T	SNV	absent eligible query	2		
+8	145557497	A	C	SNV	absent eligible query	2		
+8	145641328	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 6.0, 12.04)
+8	145661320	G	A	SNV	absent eligible query	1		
+8	145661675	G	A	SNV	absent eligible query	1		
+8	145692385	C	T	SNV	absent eligible query	2		
+8	145742879	T	C	SNV	absent eligible query	1		
+8	145747920	T	G	SNV	absent eligible query	1		
+8	145752900	C	T	SNV	absent eligible query	1		
+8	145756170	G	A	SNV	absent eligible query	1		
+8	146033347	T	C	SNV	absent eligible query	2		
+9	214706	G	C	SNV	absent eligible query	1		
+9	214804	A	G	SNV	absent eligible query	1		
+9	214864	C	T	SNV	absent eligible query	1		
+9	215057	T	C	SNV	absent eligible query	1		
+9	841971	T	A	SNV	absent eligible query	1		
+9	977312	T	C	SNV	absent eligible query	1		
+9	4118111	G	T	SNV	absent eligible query	1		
+9	4118208	A	G	SNV	absent eligible query	2		
+9	4662394	A	G	SNV	absent eligible query	1		
+9	5832719	G	C	SNV	absent eligible query	1		
+9	5832728	G	C	SNV	absent eligible query	1		
+9	18697026	T	C	SNV	absent eligible query	2		
+9	25677698	A	C	SNV	absent eligible query	1		
+9	25677933	T	C	SNV	absent eligible query	1		
+9	25677953	T	C	SNV	absent eligible query	2		
+9	33264540	C	G	SNV	absent eligible query	2		
+9	34627940	C	T	SNV	genotype mismatch	1	2	(2, 'PASS', 4.0, 12.01)
+9	38068532	A	G	SNV	absent eligible query	2		
+9	71650752	A	G	SNV	absent eligible query	2		
+9	78506145	G	A	SNV	absent eligible query	1		
+9	79009106	A	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+9	80851350	G	C	SNV	absent eligible query	1		
+9	80912115	G	C	SNV	absent eligible query	2		
+9	94495608	T	C	SNV	query filtered	1		(1, 'LowQual', 11.0, 55.94)
+9	95095046	T	C	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 8.97)
+9	95947478	C	T	SNV	absent eligible query	1		
+9	98209594	G	A	SNV	absent eligible query	1		
+9	100617021	C	T	SNV	absent eligible query	1		
+9	102591042	A	G	SNV	absent eligible query	2		
+9	111881927	T	C	SNV	absent eligible query	1		
+9	111882167	G	C	SNV	absent eligible query	1		
+9	114393784	G	A	SNV	absent eligible query	1		
+9	115095743	T	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+9	119216876	T	G	SNV	query filtered	1		(1, 'LowQual', 1.0, 1.76)
+9	124855211	C	T	SNV	absent eligible query	1		
+9	124990964	G	C	SNV	absent eligible query	1		
+9	125512770	T	C	SNV	genotype mismatch	2	1	(1, 'PASS', 25.0, 86.36)
+9	125512788	G	A	SNV	genotype mismatch	2	1	(1, 'PASS', 37.0, 15.53)
+9	125512795	G	C	SNV	genotype mismatch	2	1	(1, 'PASS', 41.0, 16.85)
+9	126128211	T	C	SNV	absent eligible query	1		
+9	126128253	G	C	SNV	absent eligible query	1		
+9	126135558	C	T	SNV	absent eligible query	1		
+9	126135715	A	G	SNV	absent eligible query	2		
+9	127215344	A	G	SNV	absent eligible query	2		
+9	127215772	C	G	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+9	127215778	C	T	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+9	130565267	A	G	SNV	absent eligible query	2		
+9	130897651	C	A	SNV	absent eligible truth		1	(1, 'PASS', 184.0, 99.0)
+9	130897678	G	A	SNV	absent eligible truth		1	(1, 'PASS', 186.0, 99.0)
+9	130898118	T	A	SNV	absent eligible truth		1	(1, 'PASS', 180.0, 99.0)
+9	130898139	T	C	SNV	absent eligible truth		1	(1, 'PASS', 174.0, 99.0)
+9	130898179	A	G	SNV	absent eligible truth		1	(1, 'PASS', 162.0, 99.0)
+9	130900186	G	T	SNV	absent eligible truth		1	(1, 'PASS', 158.0, 99.0)
+9	130900191	C	A	SNV	absent eligible truth		1	(1, 'PASS', 157.0, 99.0)
+9	130900221	G	A	SNV	absent eligible truth		1	(1, 'PASS', 141.0, 99.0)
+9	130900436	A	G	SNV	absent eligible truth		1	(1, 'PASS', 105.0, 99.0)
+9	130900445	C	T	SNV	absent eligible truth		1	(1, 'PASS', 100.0, 99.0)
+9	130900453	G	C	SNV	absent eligible truth		1	(1, 'PASS', 99.0, 99.0)
+9	131085373	G	C	SNV	absent eligible query	2		
+9	131418828	A	C	SNV	absent eligible query	2		
+9	131580998	C	T	SNV	absent eligible query	2		
+9	133911598	A	G	SNV	absent eligible query	1		
+9	134183503	T	C	SNV	absent eligible query	1		
+9	134401335	C	T	SNV	absent eligible truth		2	(2, 'PASS', 119.0, 99.0)
+9	136599146	C	T	SNV	query filtered	1		(1, 'LowQual', 5.0, 58.37)
+9	138518015	C	G	SNV	absent eligible truth		1	(1, 'PASS', 113.0, 66.31)
+9	138590928	C	T	SNV	absent eligible query	2		
+9	138903545	G	A	SNV	absent eligible query	1		
+9	138903671	A	G	SNV	absent eligible query	2		
+9	139137626	C	T	SNV	absent eligible query	1		
+9	139222174	T	C	SNV	absent eligible query	2		
+9	139333403	C	A	SNV	absent eligible query	1		
+9	139400299	C	A	SNV	absent eligible query	1		
+9	139418260	A	G	SNV	absent eligible query	1		
+9	139617662	T	C	SNV	query filtered	2		(1, 'LowQual', 1.0, 1.76)
+9	139923265	A	G	SNV	absent eligible query	2		
+9	139925927	G	C	SNV	absent eligible query	1		
+9	139943429	G	A	SNV	absent eligible query	1		
+9	139972900	T	C	SNV	query filtered	2		(1, 'LowQual', 2.0, 1.76)
+9	140051238	A	G	SNV	absent eligible query	1		
+9	140051376	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 17.0, 27.07)
+9	140064315	C	A	SNV	absent eligible query	1		
+9	140079522	G	A	SNV	genotype mismatch	1	2	(2, 'PASS', 3.0, 6.02)
+9	140094605	C	A	SNV	absent eligible query	1		
+9	140120396	C	T	SNV	absent eligible query	2		
+9	140130606	A	T	SNV	absent eligible query	2		
+9	140147152	C	G	SNV	query filtered	1		(1, 'LowQual', 8.0, 59.1)
+9	140509075	A	C	SNV	absent eligible query	1		
+9	140917779	G	T	SNV	absent eligible query	1		
+1	6192940	TTC	T	indel	absent eligible truth		1	(1, 'PASS', 112.0, 99.0)
+1	26784056	TAA	T	indel	absent eligible truth		1	(1, 'PASS', 52.0, 99.0)
+1	29320169	C	CT	indel	absent eligible truth		1	(1, 'PASS', 37.0, 24.27)
+1	36643700	GAGA	G	indel	absent eligible query	1		
+1	47904668	T	TCCGCAC	indel	absent eligible query	2		
+1	54692854	A	AGG	indel	absent eligible query	1		
+1	74421728	AACACACACAC	A	indel	absent eligible truth		2	(2, 'PASS', 64.0, 39.1)
+1	109792735	A	ACGC	indel	absent eligible query	1		
+1	151263677	G	GACA	indel	absent eligible query	1		
+1	151677296	TGA	T	indel	absent eligible truth		1	(1, 'PASS', 34.0, 99.0)
+1	152681680	C	CAGCTCTGGGGGCTGCTGT	indel	genotype mismatch	2	1	(1, 'PASS', 59.0, 9.0)
+1	153233991	A	ACTCTGGCGGCGG	indel	absent eligible query	1		
+1	153896079	GA	G	indel	absent eligible truth		1	(1, 'PASS', 24.0, 95.25)
+1	177113389	AT	A	indel	absent eligible truth		1	(1, 'PASS', 72.0, 98.05)
+1	180695841	C	CCAGA	indel	absent eligible query	2		
+1	185137454	T	TAAATGATAGAC	indel	absent eligible query	1		
+1	185137464	T	TAA	indel	absent eligible query	1		
+1	186276523	AAGG	A	indel	absent eligible truth		1	(1, 'PASS', 37.0, 74.48)
+1	198498325	A	AAT	indel	absent eligible query	1		
+1	209605636	TAGCAGCAGCAGC	T	indel	absent eligible query	2		
+1	220771740	T	TTA	indel	absent eligible query	1		
+1	220789355	AT	A	indel	genotype mismatch	1	2	(2, 'PASS', 53.0, 81.02)
+1	223156406	CT	C	indel	absent eligible truth		1	(1, 'PASS', 138.0, 74.94)
+1	236714292	T	TA	indel	absent eligible truth		1	(1, 'PASS', 73.0, 43.29)
+1	236714292	T	TAA	indel	absent eligible query	2		
+1	237060945	CT	C	indel	absent eligible truth		1	(1, 'PASS', 112.0, 99.0)
+1	240255568	GGGC	G	indel	absent eligible query	1		
+10	5193748	GTTTT	G	indel	absent eligible truth		1	(1, 'PASS', 47.0, 7.87)
+10	25273311	G	GA	indel	absent eligible query	2		
+10	25273311	G	GAA	indel	absent eligible truth		2	(2, 'PASS', 97.0, 97.88)
+10	35314130	T	TA	indel	absent eligible truth		1	(1, 'PASS', 37.0, 69.92)
+10	105110740	A	AGGAGGC	indel	absent eligible query	1		
+11	207359	C	CGGCCACAGCCGCCTCAGACGT	indel	absent eligible query	2		
+11	2906196	ACCGCGACCGGAG	A	indel	absent eligible query	1		
+11	9113008	GGCA	G	indel	absent eligible query	1		
+11	10831943	T	TA	indel	genotype mismatch	2	1	(1, 'PASS', 54.0, 89.85)
+11	18127558	C	CCGG	indel	absent eligible query	1		
+11	32417023	CT	C	indel	absent eligible truth		1	(1, 'PASS', 107.0, 99.0)
+11	48346660	TTTGCTGATC	T	indel	absent eligible truth		1	(1, 'PASS', 151.0, 99.0)
+11	56128673	A	AT	indel	absent eligible query	1		
+11	64851453	CT	C	indel	absent eligible query	2		
+11	76751541	CT	C	indel	absent eligible query	2		
+11	76751584	CT	C	indel	absent eligible query	2		
+11	94800735	ACGGCGGAGCCGCAGCTACGGG	A	indel	absent eligible query	1		
+11	104879686	CT	C	indel	absent eligible truth		1	(1, 'PASS', 152.0, 99.0)
+11	111742145	CG	C	indel	absent eligible query	2		
+11	130298117	G	GGCA	indel	absent eligible query	1		
+12	6777069	TTGC	T	indel	absent eligible query	1		
+12	6938023	C	CG	indel	absent eligible query	2		
+12	7521563	TGA	T	indel	absent eligible truth		1	(1, 'PASS', 124.0, 99.0)
+12	14720554	GGCA	G	indel	absent eligible query	2		
+12	31130231	G	GCCGCCAC	indel	absent eligible query	1		
+12	44200087	AGCCAGCGGCCCCG	A	indel	absent eligible query	1		
+12	45771901	GT	G	indel	absent eligible truth		1	(1, 'PASS', 116.0, 99.0)
+12	48654041	CTTTTTTTTTT	C	indel	absent eligible truth		1	(1, 'PASS', 94.0, 99.0)
+12	49091972	G	GA	indel	genotype mismatch	2	1	(1, 'PASS', 22.0, 18.66)
+12	53069222	CACCTCCGGAGCCGTAGCTGCT	C	indel	absent eligible query	1		
+12	89919630	A	AC	indel	absent eligible query	1		
+12	103352171	C	CGCA	indel	absent eligible query	1		
+12	104373728	G	GA	indel	absent eligible truth		1	(1, 'PASS', 133.0, 99.0)
+12	106641489	GGGC	G	indel	absent eligible query	1		
+12	122064773	CCCGCCA	C	indel	absent eligible query	2		
+12	122359397	G	GGAGGAGGAGGAGAAA	indel	absent eligible query	1		
+12	122762763	G	GA	indel	absent eligible truth		1	(1, 'PASS', 74.0, 99.0)
+12	122762763	G	GAA	indel	absent eligible query	1		
+12	124887058	G	GGCT	indel	genotype mismatch	2	1	(1, 'PASS', 60.0, 93.3)
+12	125478381	C	CCTG	indel	absent eligible query	2		
+12	132313098	G	GGCTGCCGCT	indel	absent eligible query	2		
+13	21562482	C	CGGGGCG	indel	absent eligible query	2		
+13	32360691	T	TAA	indel	absent eligible truth		2	(2, 'PASS', 93.0, 99.0)
+13	72440658	TGCCGCC	T	indel	absent eligible query	2		
+13	79176323	G	GGCC	indel	absent eligible query	2		
+14	38679763	C	CGCTCTGAGCCCGGGCCACGCAGGG	indel	absent eligible query	1		
+14	39602849	CT	C	indel	absent eligible truth		1	(1, 'PASS', 101.0, 99.0)
+14	50943034	T	TA	indel	absent eligible truth		1	(1, 'PASS', 53.0, 90.53)
+14	53619480	T	TGCCGCC	indel	absent eligible query	1		
+14	63779846	G	GA	indel	absent eligible query	2		
+14	70496919	C	CTT	indel	absent eligible truth		1	(1, 'PASS', 36.0, 0.77)
+14	73957981	G	GC	indel	absent eligible query	2		
+14	74060511	T	TTCAA	indel	absent eligible truth		1	(1, 'PASS', 82.0, 99.0)
+14	74060512	AG	T	indel	absent eligible query	1		
+14	74060513	GCTTA	G	indel	absent eligible truth		1	(1, 'PASS', 85.0, 99.0)
+14	74060517	A	AG	indel	absent eligible query	1		
+14	92040589	TC	T	indel	absent eligible query	1		
+14	93154537	TGGC	T	indel	absent eligible query	1		
+14	95236204	G	GCGC	indel	absent eligible query	1		
+14	96178148	CAG	C	indel	absent eligible truth		1	(1, 'PASS', 85.0, 99.0)
+14	105634706	C	CCAG	indel	absent eligible query	1		
+14	105996049	TGCC	T	indel	absent eligible query	1		
+15	31776210	TGGC	T	indel	absent eligible query	2		
+15	32393486	C	CT	indel	absent eligible truth		1	(1, 'PASS', 50.0, 99.0)
+15	32393486	C	CTT	indel	absent eligible query	1		
+15	40066675	CA	C	indel	absent eligible truth		1	(1, 'PASS', 52.0, 92.05)
+15	40268998	G	GGACGAC	indel	absent eligible query	1		
+15	42632965	GT	G	indel	absent eligible truth		1	(1, 'PASS', 94.0, 94.48)
+15	45028919	C	CT	indel	genotype mismatch	2	1	(1, 'PASS', 140.0, 89.27)
+15	52640990	T	TA	indel	genotype mismatch	2	1	(1, 'PASS', 51.0, 7.2)
+15	65114501	A	AGG	indel	absent eligible truth		1	(1, 'PASS', 69.0, 99.0)
+15	69420813	C	CAATG	indel	absent eligible query	1		
+15	78913067	ACAG	A	indel	absent eligible query	2		
+15	93198678	TTGGAGC	T	indel	absent eligible query	2		
+15	99646107	A	AG	indel	absent eligible query	2		
+15	100252709	CCAGCAG	C	indel	genotype mismatch	2	1	(1, 'PASS', 37.0, 65.14)
+16	1823389	CG	C	indel	absent eligible query	1		
+16	2049882	G	GTCC	indel	absent eligible query	1		
+16	2059621	GC	G	indel	absent eligible query	2		
+16	2059736	CG	C	indel	absent eligible query	2		
+16	3119297	C	CG	indel	absent eligible truth		1	(1, 'PASS', 123.0, 99.0)
+16	10524656	GGAC	G	indel	genotype mismatch	2	1	(1, 'PASS', 37.0, 36.79)
+16	30687087	AAG	A	indel	absent eligible truth		1	(1, 'PASS', 55.0, 99.0)
+16	54977465	A	AT	indel	absent eligible query	2		
+16	69492973	A	AT	indel	genotype mismatch	2	1	(1, 'PASS', 47.0, 41.19)
+16	85814899	T	TAGTC	indel	absent eligible query	2		
+16	88620345	A	ACGCAGTGCAGAGCTGGGACGGACGCC	indel	absent eligible query	1		
+17	1582797	GA	G	indel	absent eligible truth		1	(1, 'PASS', 83.0, 97.29)
+17	2297571	G	GCA	indel	absent eligible query	1		
+17	4686463	A	ACGCCTACCTGGCT	indel	absent eligible query	1		
+17	6555546	C	CG	indel	absent eligible query	2		
+17	16256686	G	GCGGAGGCCC	indel	absent eligible query	2		
+17	19314917	CT	C	indel	query filtered	1		(1, 'LowQual', 32.0, 68.6)
+17	21156530	G	GC	indel	absent eligible query	2		
+17	26699367	G	GC	indel	absent eligible query	2		
+17	45234406	CA	C	indel	absent eligible truth		1	(1, 'PASS', 90.0, 99.0)
+17	46115072	C	CG	indel	absent eligible query	2		
+17	46115084	T	TGG	indel	absent eligible query	2		
+17	46115122	A	AG	indel	absent eligible query	2		
+17	48227384	G	GGC	indel	absent eligible query	2		
+17	48227403	G	GGC	indel	absent eligible query	2		
+17	56833457	G	GGAACCC	indel	absent eligible query	2		
+17	68869470	AT	A	indel	absent eligible truth		1	(1, 'PASS', 93.0, 99.0)
+17	72839130	A	AGCTCCGGGG	indel	absent eligible query	2		
+17	79614932	TTAAC	T	indel	absent eligible query	2		
+17	79995490	C	CTT	indel	absent eligible query	1		
+17	80755615	C	CT	indel	genotype mismatch	2	1	(1, 'PASS', 88.0, 2.73)
+18	3452222	CT	C	indel	absent eligible query	1		
+18	20716014	GGGCGCCGGC	G	indel	absent eligible query	1		
+18	43258919	C	CTT	indel	absent eligible truth		1	(1, 'PASS', 46.0, 75.16)
+18	51795957	GCGA	G	indel	absent eligible query	1		
+18	60190786	C	CCCG	indel	absent eligible query	2		
+18	77623691	G	GGGC	indel	absent eligible query	1		
+19	1009550	GGCCCCCGCGGAGGCCCCACCACACTCT	G	indel	absent eligible query	1		
+19	2340154	G	GC	indel	absent eligible query	2		
+19	4954679	G	GC	indel	absent eligible query	2		
+19	8398949	CTCGCTGTCGCCA	C	indel	absent eligible query	1		
+19	14070706	A	AGGTGGGCCCAGGGCGGGCAG	indel	absent eligible query	2		
+19	30303508	C	CGGACG	indel	absent eligible query	1		
+19	33167775	C	CG	indel	absent eligible query	1		
+19	36258937	AG	A	indel	absent eligible query	2		
+19	42074253	T	TA	indel	genotype mismatch	2	1	(1, 'PASS', 53.0, 99.0)
+19	48282077	C	CGCAGCGG	indel	absent eligible query	1		
+19	50693884	A	ATT	indel	absent eligible truth		1	(1, 'PASS', 78.0, 99.0)
+19	50693884	A	ATTT	indel	absent eligible query	1		
+19	51690227	T	TA	indel	absent eligible query	1		
+19	52227137	T	TAC	indel	absent eligible query	1		
+19	52227137	TAC	T	indel	absent eligible truth		1	(1, 'PASS', 63.0, 99.0)
+19	54242693	G	GCTGACCGTGGTAATA	indel	absent eligible query	2		
+19	55790886	A	AGCCGCCGCC	indel	absent eligible query	1		
+19	56671272	ACCCCGGCAG	A	indel	absent eligible query	1		
+2	31805880	A	AG	indel	absent eligible query	2		
+2	48982755	G	GGCTGCA	indel	absent eligible query	1		
+2	73460293	AGGGCC	A	indel	absent eligible query	2		
+2	73471193	GT	G	indel	absent eligible truth		1	(1, 'PASS', 114.0, 99.0)
+2	88926729	CCAG	C	indel	absent eligible query	2		
+2	98872662	C	CT	indel	absent eligible query	2		
+2	120069281	TA	T	indel	absent eligible truth		1	(1, 'PASS', 98.0, 73.0)
+2	128432620	TGGGTTGCCG	T	indel	absent eligible query	1		
+2	128526579	T	TTAAATAAA	indel	absent eligible query	1		
+2	158275111	T	TA	indel	genotype mismatch	2	1	(1, 'PASS', 70.0, 99.0)
+2	169103796	C	CGCCGGG	indel	absent eligible query	1		
+2	173600783	C	CG	indel	absent eligible query	2		
+2	176995145	T	TGCG	indel	absent eligible query	1		
+2	177975572	C	CAAA	indel	absent eligible query	2		
+2	183033020	GA	G	indel	absent eligible truth		1	(1, 'PASS', 100.0, 99.0)
+2	210386867	CT	C	indel	absent eligible truth		1	(1, 'PASS', 109.0, 92.54)
+2	210400282	C	CT	indel	absent eligible truth		1	(1, 'PASS', 84.0, 99.0)
+2	217498290	C	CGCCGCTGCT	indel	absent eligible query	2		
+2	219221982	G	GTC	indel	absent eligible truth		1	(1, 'PASS', 38.0, 37.03)
+2	231120255	CGG	C	indel	absent eligible truth		2	(2, 'PASS', 83.0, 16.92)
+2	234916771	AT	A	indel	absent eligible truth		1	(1, 'PASS', 121.0, 99.0)
+2	242686302	C	CA	indel	absent eligible truth		1	(1, 'PASS', 45.0, 99.0)
+20	278687	CCGG	C	indel	absent eligible query	2		
+20	337390	CCA	C	indel	absent eligible truth		1	(1, 'PASS', 154.0, 99.0)
+20	346442	CTT	C	indel	absent eligible query	1		
+20	25457049	GCTCCCA	G	indel	absent eligible query	2		
+20	32664864	C	CCAG	indel	absent eligible query	2		
+20	33529157	CA	C	indel	genotype mismatch	2	1	(1, 'PASS', 28.0, 2.74)
+20	42199704	GGTGT	G	indel	absent eligible query	1		
+20	42199704	GGTGTGT	G	indel	absent eligible truth		1	(1, 'PASS', 93.0, 99.0)
+20	44520237	CCTG	C	indel	absent eligible query	1		
+20	48146691	CA	C	indel	genotype mismatch	2	1	(1, 'PASS', 28.0, 24.85)
+20	50713992	AT	A	indel	absent eligible query	1		
+20	60640305	TGCCAGG	T	indel	absent eligible query	2		
+21	43298954	C	CG	indel	absent eligible query	2		
+21	45776080	G	GT	indel	absent eligible query	1		
+21	46912658	G	GCCCGCCACTGCCCT	indel	absent eligible query	1		
+21	47546390	T	TGGCCCGGCCCGGCCC	indel	absent eligible query	1		
+22	19702168	C	CTGCCCGCG	indel	absent eligible query	1		
+22	20160329	AAAATT	A	indel	absent eligible query	1		
+22	20779973	C	CG	indel	absent eligible query	2		
+22	20780024	G	GC	indel	absent eligible query	2		
+22	20780031	G	CC	indel	absent eligible query	2		
+22	22072417	CAA	C	indel	absent eligible query	1		
+22	28194933	T	TTGC	indel	absent eligible query	1		
+22	29707639	G	GC	indel	absent eligible query	2		
+22	37628053	A	AG	indel	absent eligible query	1		
+22	37964408	CCAGCGCCTGCTGCAAACCCCT	C	indel	absent eligible query	1		
+22	46658882	ACGAGCG	A	indel	absent eligible query	1		
+22	51042513	C	CG	indel	absent eligible query	2		
+3	42251577	CGGA	C	indel	absent eligible truth		1	(1, 'PASS', 42.0, 99.0)
+3	49395673	GGCC	G	indel	absent eligible query	2		
+3	50155887	TGA	T	indel	absent eligible truth		1	(1, 'PASS', 86.0, 99.0)
+3	50306752	G	GC	indel	absent eligible query	2		
+3	52027853	T	TCCTTGG	indel	absent eligible query	2		
+3	53099151	T	TTC	indel	absent eligible truth		1	(1, 'PASS', 88.0, 99.0)
+3	63849473	C	CGCG	indel	absent eligible query	1		
+3	100053684	C	CG	indel	absent eligible query	1		
+3	108179219	C	CA	indel	absent eligible truth		1	(1, 'PASS', 53.0, 99.0)
+3	112253193	C	CA	indel	genotype mismatch	2	1	(1, 'PASS', 93.0, 99.0)
+3	124774665	G	GCAT	indel	absent eligible query	2		
+3	140678384	TA	T	indel	absent eligible truth		1	(1, 'PASS', 57.0, 78.27)
+4	3465177	CGG	C	indel	absent eligible query	2		
+4	25366059	GT	G	indel	absent eligible truth		1	(1, 'PASS', 54.0, 99.0)
+4	25396001	TAAACTC	T	indel	absent eligible query	1		
+4	26737063	C	CT	indel	genotype mismatch	2	1	(1, 'PASS', 63.0, 19.67)
+4	57180576	C	CGGAGCGGAGGGAGCGGAG	indel	absent eligible query	1		
+4	75259921	A	AAAATAAAT	indel	absent eligible query	1		
+4	82013619	A	AAAGGAAGG	indel	absent eligible query	1		
+4	88536457	T	TAGTAGTGAC	indel	absent eligible truth		2	(2, 'PASS', 40.0, 67.19)
+4	110678979	T	TTTTAA	indel	absent eligible query	2		
+4	113178894	ATTTGT	A	indel	absent eligible query	1		
+4	114582933	TA	T	indel	absent eligible truth		1	(1, 'PASS', 117.0, 99.0)
+4	143011549	ATT	A	indel	absent eligible truth		2	(2, 'PASS', 58.0, 99.0)
+4	169612461	G	GT	indel	absent eligible truth		1	(1, 'PASS', 82.0, 99.0)
+4	170483049	T	TA	indel	absent eligible query	1		
+5	10397473	CT	C	indel	absent eligible truth		1	(1, 'PASS', 130.0, 93.87)
+5	14388797	GT	G	indel	absent eligible truth		1	(1, 'PASS', 82.0, 99.0)
+5	34818976	GT	G	indel	genotype mismatch	2	1	(1, 'PASS', 103.0, 10.19)
+5	54710072	GT	G	indel	absent eligible truth		1	(1, 'PASS', 71.0, 99.0)
+5	113698631	T	TGCC	indel	absent eligible query	2		
+5	118576096	CT	C	indel	absent eligible truth		1	(1, 'PASS', 95.0, 99.0)
+5	122425971	A	ACCTCCGCCT	indel	absent eligible query	1		
+5	132149322	G	GGCCGCCGCC	indel	absent eligible query	2		
+5	137507104	TA	T	indel	genotype mismatch	2	1	(1, 'PASS', 82.0, 73.34)
+5	170837513	CT	C	indel	absent eligible truth		1	(1, 'PASS', 136.0, 99.0)
+5	172421760	AT	A	indel	absent eligible truth		1	(1, 'PASS', 156.0, 99.0)
+6	1391085	G	GGGC	indel	absent eligible query	2		
+6	1611802	G	GGGC	indel	absent eligible query	1		
+6	1612017	A	ACGG	indel	absent eligible query	1		
+6	13800626	TAA	T	indel	absent eligible truth		1	(1, 'PASS', 73.0, 99.0)
+6	16327864	G	GTGC	indel	absent eligible query	1		
+6	17669262	G	GA	indel	genotype mismatch	2	1	(1, 'PASS', 61.0, 46.1)
+6	25835440	AG	A	indel	absent eligible query	1		
+6	35109032	CGCGGCCTG	C	indel	absent eligible query	1		
+6	36853786	A	AG	indel	absent eligible query	2		
+6	43970503	C	CGCG	indel	absent eligible query	1		
+6	84061864	GA	G	indel	absent eligible query	1		
+6	99283172	A	ACAG	indel	absent eligible query	1		
+6	100061624	C	CCCG	indel	absent eligible query	1		
+6	112777814	CTG	C	indel	absent eligible truth		1	(1, 'PASS', 138.0, 76.56)
+6	148664242	T	TGAGCCC	indel	absent eligible query	1		
+7	11101394	GT	G	indel	absent eligible truth		1	(1, 'PASS', 40.0, 80.05)
+7	20824940	AGCC	A	indel	absent eligible query	1		
+7	28997596	G	GC	indel	absent eligible query	2		
+7	54614698	C	CG	indel	absent eligible query	1		
+7	71977306	CCTCT	C	indel	absent eligible truth		1	(1, 'PASS', 48.0, 41.42)
+7	90894459	A	ACCG	indel	absent eligible query	1		
+7	91936975	A	AT	indel	absent eligible truth		1	(1, 'PASS', 41.0, 76.2)
+7	103629803	T	TGCCGCC	indel	absent eligible query	2		
+7	116556097	G	GT	indel	absent eligible truth		1	(1, 'PASS', 21.0, 99.0)
+7	123672456	CGCTGCT	C	indel	absent eligible query	1		
+7	127670324	T	TG	indel	absent eligible truth		1	(1, 'PASS', 123.0, 99.0)
+7	128550680	GC	G	indel	absent eligible query	2		
+7	131241029	G	GGGCGAC	indel	absent eligible query	1		
+7	135347308	T	TCGCCCTCCC	indel	absent eligible query	1		
+7	149515188	TA	T	indel	absent eligible query	1		
+7	150384193	C	CGT	indel	absent eligible truth		1	(1, 'PASS', 58.0, 24.11)
+7	150884266	CAG	C	indel	absent eligible truth		1	(1, 'PASS', 44.0, 77.99)
+7	151505676	GT	G	indel	genotype mismatch	1	2	(2, 'PASS', 68.0, 99.0)
+8	8234868	C	CGCCGCT	indel	absent eligible query	1		
+8	21966700	GC	G	indel	absent eligible query	2		
+8	21966707	CG	C	indel	absent eligible query	2		
+8	41166637	GGCT	G	indel	absent eligible query	2		
+8	41641575	CAA	C	indel	genotype mismatch	2	1	(1, 'PASS', 52.0, 7.35)
+8	90796369	T	TA	indel	absent eligible query	2		
+8	120220775	CG	C	indel	absent eligible query	2		
+8	144511953	ATGG	A	indel	absent eligible query	2		
+8	144649541	G	GC	indel	absent eligible query	1		
+8	145106938	GCC	G	indel	absent eligible query	2		
+8	145617534	TGGGGGTGCAAGGTGA	T	indel	absent eligible query	1		
+8	145773341	TCTG	T	indel	absent eligible query	1		
+9	32973709	CA	C	indel	absent eligible query	2		
+9	36359734	A	AT	indel	absent eligible query	2		
+9	36359909	C	CT	indel	absent eligible query	2		
+9	94987114	C	CAAAAAAT	indel	absent eligible query	1		
+9	95110675	CT	C	indel	absent eligible truth		1	(1, 'PASS', 90.0, 92.23)
+9	95237024	CTCA	C	indel	absent eligible truth		1	(1, 'PASS', 91.0, 99.0)
+9	117554504	TACACACACAC	T	indel	absent eligible query	1		
+9	118164375	CT	C	indel	absent eligible truth		1	(1, 'PASS', 132.0, 99.0)
+9	122952618	CATTTGTG	C	indel	genotype mismatch	2	1	(1, 'PASS', 45.0, 99.0)
+9	123476542	ACGGCGG	A	indel	absent eligible query	1		
+9	124855330	G	GTGGCCT	indel	absent eligible query	1		
+9	131245175	CT	C	indel	absent eligible query	2		
+9	132630664	TGAC	T	indel	absent eligible query	2		
+9	133556992	T	TCGC	indel	absent eligible query	1		
+9	135283670	CT	C	indel	absent eligible truth		1	(1, 'PASS', 83.0, 99.0)
+9	139581758	C	CCAG	indel	absent eligible query	1		

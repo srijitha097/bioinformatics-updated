@@ -1,0 +1,125 @@
+assertion_id	molecular_profile	disease	assertion_type	source_tier	direction	significance	therapies	evidence_ids	source_url
+2	ERBB2 Amplification	HER2 Positive Breast Cancer	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Trastuzumab	528,1122,529	https://civicdb.org/links/assertions/2
+3	v::ALK Fusion	Lung Non-small Cell Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Crizotinib	1193,1190,1196,1189,1245,1207,262,1691,1577,1419,1201,1200,1187,1198,4858,1199,1197,1356	https://civicdb.org/links/assertions/3
+5	EGFR L858R	Lung Non-small Cell Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Erlotinib	4285,4290,3811,4291,229,2994,885,4265	https://civicdb.org/links/assertions/5
+6	EGFR L858R	Lung Non-small Cell Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Afatinib	982,883,2997,879,2629,968	https://civicdb.org/links/assertions/6
+7	BRAF V600E	Melanoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Trametinib,Dabrafenib	6938,6178,3758,6940	https://civicdb.org/links/assertions/7
+8	v::NTRK1 Fusion	Solid Tumor	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Larotrectinib	2955,978,6567,6569,1019,2953	https://civicdb.org/links/assertions/8
+9	ACVR1 G328V	Diffuse Midline Glioma, H3 K27-altered	Diagnostic	Tier II - Level C	Supports	Positive		4846,6955	https://civicdb.org/links/assertions/9
+10	BRAF V600E	Melanoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Vemurafenib,Cobimetinib	6966,6044,1421	https://civicdb.org/links/assertions/10
+11	BRAF V600K	Melanoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Vemurafenib,Cobimetinib	6044,6965,6966	https://civicdb.org/links/assertions/11
+13	BRAF V600K	Melanoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Trametinib,Dabrafenib	6941,4181,6179,6939	https://civicdb.org/links/assertions/13
+20	BRAF V600E	Colorectal Cancer	Prognostic	Tier I - Level A	Supports	Poor Outcome		1552,7159,103,7156,7157,7158	https://civicdb.org/links/assertions/20
+21	HEY1::NCOA2 Fusion	Mesenchymal Chondrosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		7124,7008,7017,7125	https://civicdb.org/links/assertions/21
+24	DNAJB1::PRKACA Fusion	Fibrolamellar Carcinoma	Diagnostic	Tier I - Level A	Supports	Positive		405,1643,754,532	https://civicdb.org/links/assertions/24
+33	FLT3 D835	Acute Myeloid Leukemia	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Gilteritinib	8106,7283,8351,8108,7728	https://civicdb.org/links/assertions/33
+34	v::ALK Fusion	Lung Non-small Cell Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Alectinib	1272,1282,7284,8657,1273,1279	https://civicdb.org/links/assertions/34
+38	FLT3 ITD	Acute Myeloid Leukemia	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Gilteritinib	7728,8923,8924,7283	https://civicdb.org/links/assertions/38
+39	ETV6::NTRK3 Fusion	B-lymphoblastic Leukemia/lymphoma	Predictive	Tier II - Level C	Supports	Sensitivity/Response	Larotrectinib	6930,7993,8917,8930	https://civicdb.org/links/assertions/39
+43	SNX2::ABL1 Fusion	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Diagnostic	Tier II - Level C	Supports	Positive		7744,7694,7241,7254,9178,9177	https://civicdb.org/links/assertions/43
+51	KANK1::NTRK2 Fusion	Solid Tumor	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Larotrectinib	10360,10392,10361	https://civicdb.org/links/assertions/51
+52	EML4::NTRK3 Fusion	Solid Tumor	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Entrectinib	2949,10635,11099,11125,10636	https://civicdb.org/links/assertions/52
+56	ETV6::NTRK3 Fusion	Congenital Fibrosarcoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Larotrectinib	6473,7418,6099,10717	https://civicdb.org/links/assertions/56
+58	EML4::NTRK3 Fusion	Congenital Fibrosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		11517,10419	https://civicdb.org/links/assertions/58
+59	ETV6::NTRK3 Fusion	Congenital Fibrosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		11276,11277	https://civicdb.org/links/assertions/59
+61	ETV6::NTRK3 Fusion	Congenital Mesoblastic Nephroma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Larotrectinib	10841,6568,10840	https://civicdb.org/links/assertions/61
+71	ETV6::NTRK3 Fusion	Congenital Mesoblastic Nephroma	Diagnostic	Tier I - Level A	Supports	Positive		11279,10841,11280	https://civicdb.org/links/assertions/71
+74	ETV6::NTRK3 Fusion	Breast Secretory Carcinoma	Diagnostic	Tier I - Level A	Supports	Positive		11344,11345,11343	https://civicdb.org/links/assertions/74
+76	EWSR1::WT1 Fusion	Desmoplastic Small Round Cell Tumor	Diagnostic	Tier I - Level A	Supports	Positive		11406,11405,11407	https://civicdb.org/links/assertions/76
+79	CIC::DUX4 Fusion	CIC-rearranged Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		11595,10112,9012,11594	https://civicdb.org/links/assertions/79
+80	BCOR ITD	Kidney Clear Cell Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		10801,10802,11423,11424	https://civicdb.org/links/assertions/80
+85	KIT D816V	Systemic Mastocytosis	Predictive	Tier I - Level A	Supports	Resistance	Imatinib	12913,11160,2451,7465,12917,8360,12411,11369,12915	https://civicdb.org/links/assertions/85
+87	ZFTA::v Fusion	Supratentorial Ependymoma, ZFTA Fusion–positive	Diagnostic	Tier I - Level A	Supports	Positive		11429,8628,8627,11432,11428,11448,11430	https://civicdb.org/links/assertions/87
+91	PAX5 P80R	B-lymphoblastic Leukemia/lymphoma With PAX5 P80R	Diagnostic	Tier I - Level A	Supports	Positive		11519,7290,7291	https://civicdb.org/links/assertions/91
+93	FOXR2 Rearrangement	CNS Neuroblastoma With FOXR2 Activation	Diagnostic	Tier I - Level A	Supports	Positive		12521,11528,11527	https://civicdb.org/links/assertions/93
+95	BCOR ITD	Central Nervous System Tumor With BCOR Internal Tandem Duplication	Diagnostic	Tier I - Level A	Supports	Positive		10800,10887,11581,10804	https://civicdb.org/links/assertions/95
+97	EWSR1::FLI1 Fusion	Ewing Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		1754,1752,478,1753,10337	https://civicdb.org/links/assertions/97
+98	EWSR1::ERG Fusion	Ewing Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		475,10338,11603	https://civicdb.org/links/assertions/98
+99	LMNA::NTRK1 Fusion	Lipofibromatosis-like Neural Tumor	Diagnostic	Tier I - Level A	Supports	Positive		11650,6391,11576,7293,11577	https://civicdb.org/links/assertions/99
+100	LMNA::NTRK1 Fusion	Cancer	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Entrectinib	11578,11124,2948,2960,8900,10095,11354	https://civicdb.org/links/assertions/100
+102	TPM3::NTRK1 Fusion	Solid Tumor	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Larotrectinib	6567,11692,6101,8042,7419,11703	https://civicdb.org/links/assertions/102
+105	EGFR L858R	Lung Non-small Cell Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Gefitinib	1665,2621,229,2634,276,3811,11241	https://civicdb.org/links/assertions/105
+106	ASPSCR1::TFE3 Fusion	Alveolar Soft Part Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		11531,11530,9978	https://civicdb.org/links/assertions/106
+107	v::TFE3 Fusion	Renal Cell Carcinoma With MiT Translocations	Diagnostic	Tier I - Level A	Supports	Positive		11701,11532,10150,11683,11533	https://civicdb.org/links/assertions/107
+108	v::TFEB Fusion	Renal Cell Carcinoma With MiT Translocations	Diagnostic	Tier I - Level A	Supports	Positive		11535,11539,11534	https://civicdb.org/links/assertions/108
+109	YAP1::TFE3 Fusion	Malignant Epithelioid Hemangioendothelioma	Diagnostic	Tier I - Level A	Supports	Positive		11536,11537,11538,11682	https://civicdb.org/links/assertions/109
+110	TCF3::PBX1 Fusion	B-lymphoblastic Leukemia/lymphoma With TCF3-PBX1	Diagnostic	Tier I - Level A	Supports	Positive		11717,11719,11771,11772	https://civicdb.org/links/assertions/110
+111	TPR::NTRK1 Fusion	Solid Tumor	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Larotrectinib	11748,11747,11744,11706,6567,11746	https://civicdb.org/links/assertions/111
+113	MYB Rearrangement	Angiocentric Glioma	Diagnostic	Tier I - Level A	Supports	Positive		11774,11773,11769,11775	https://civicdb.org/links/assertions/113
+114	MYB Rearrangement	Diffuse Astrocytoma, MYB- Or MYBL1-altered	Diagnostic	Tier I - Level A	Supports	Positive		11776,11777,11778,11790	https://civicdb.org/links/assertions/114
+115	MYBL1 Rearrangement	Diffuse Astrocytoma, MYB- Or MYBL1-altered	Diagnostic	Tier I - Level A	Supports	Positive		11780,11781,11779	https://civicdb.org/links/assertions/115
+116	YWHAE::NUTM2A Fusion OR YWHAE::NUTM2B Fusion OR YWHAE::NUTM2E Fusion	Kidney Clear Cell Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		11784,11783,11782	https://civicdb.org/links/assertions/116
+118	RUNX1::RUNX1T1 Fusion	Acute Myeloid Leukemia With T(8;21); (q22; Q22.1)	Diagnostic	Tier I - Level A	Supports	Positive		11880,11882,11879,11878	https://civicdb.org/links/assertions/118
+119	YAP1::v Fusion	Supratentorial Ependymoma, YAP1 Fusion–positive	Diagnostic	Tier I - Level A	Supports	Positive		11890,11888,11889	https://civicdb.org/links/assertions/119
+121	BCOR::CCNB3 Fusion	Sarcoma With BCOR Genetic Alterations	Diagnostic	Tier I - Level A	Supports	Positive		10111,9011,11590,12568	https://civicdb.org/links/assertions/121
+122	BCOR::CCNB3 Fusion	Kidney Clear Cell Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		12004,12005,12003	https://civicdb.org/links/assertions/122
+125	WWTR1::CAMTA1 Fusion	Malignant Epithelioid Hemangioendothelioma	Diagnostic	Tier I - Level A	Supports	Positive		1805,12019,12017	https://civicdb.org/links/assertions/125
+126	v::NUTM1 Fusion	NUT Midline Carcinoma	Diagnostic	Tier I - Level A	Supports	Positive		12009,12050,12049,12051	https://civicdb.org/links/assertions/126
+127	SQSTM1::NTRK1 Fusion	Solid Tumor	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Larotrectinib	8865,11574,11575,6567	https://civicdb.org/links/assertions/127
+128	EWSR1::CREB3L1 Fusion	Sclerosing Epithelioid Fibrosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		12057,12059,12058	https://civicdb.org/links/assertions/128
+129	FUS::CREB3L2 Fusion	Low-grade Fibromyxoid Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		12062,12061,12060	https://civicdb.org/links/assertions/129
+130	EGFR T790M	Lung Non-small Cell Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Osimertinib	11598,1867,11599,963,965,1592,12946,967,966	https://civicdb.org/links/assertions/130
+131	BCR::NTRK2 Fusion	Solid Tumor	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Entrectinib	12071,11222,12035,12053	https://civicdb.org/links/assertions/131
+132	MN1 Rearrangement	Astroblastoma, MN1-altered	Diagnostic	Tier I - Level A	Supports	Positive		8510,12079,12078,12077	https://civicdb.org/links/assertions/132
+135	CBFA2T3::GLIS2 Fusion	Acute Myeloid Leukemia With CBFA2T3::GLIS2 Fusion	Diagnostic	Tier I - Level A	Supports	Positive		11885,11887,11886,11884	https://civicdb.org/links/assertions/135
+136	MNX1::ETV6 Fusion	Acute Myeloid Leukemia With MNX1::ETV6 Fusion	Diagnostic	Tier I - Level A	Supports	Positive		12092,12093,12091	https://civicdb.org/links/assertions/136
+137	BCR::ABL1 Fusion	B-lymphoblastic Leukemia/lymphoma With BCR-ABL1	Diagnostic	Tier I - Level A	Supports	Positive		12089,12088,12087,12090	https://civicdb.org/links/assertions/137
+138	DEK::NUP214 Fusion	Acute Myeloid Leukemia With T(6;9) (p23;q34.1)	Diagnostic	Tier I - Level A	Supports	Positive		12123,12125,12127	https://civicdb.org/links/assertions/138
+139	NPM1::MLF1 Fusion	Acute Myeloid Leukemia With NPM1::MLF1 Fusion	Diagnostic	Tier I - Level A	Supports	Positive		12129,12130,12128	https://civicdb.org/links/assertions/139
+141	TCF3::HLF Fusion	B-lymphoblastic Leukemia/lymphoma With TCF3::HLF Fusion	Diagnostic	Tier I - Level A	Supports	Positive		12169,12170,12171	https://civicdb.org/links/assertions/141
+144	MEF2D::v Fusion	B-lymphoblastic Leukemia With MEF2D Rearrangement	Diagnostic	Tier I - Level A	Supports	Positive		12176,12178,12199	https://civicdb.org/links/assertions/144
+146	CEBPA Mutation	Acute Myeloid Leukemia With CEBPA Mutation	Diagnostic	Tier I - Level A	Supports	Positive		12173,12174,12200	https://civicdb.org/links/assertions/146
+149	KAT6A::CREBBP Fusion	AML With KAT6A::CREBBP Fusion	Diagnostic	Tier I - Level A	Supports	Positive		12153,12154,12155	https://civicdb.org/links/assertions/149
+150	v::NUTM1 Fusion	B-lymphoblastic Leukemia With NUTM1 Rearrangement	Diagnostic	Tier I - Level A	Supports	Positive		12237,12238,12239	https://civicdb.org/links/assertions/150
+151	IGH::IL3 Fusion	B-lymphoblastic Leukemia/lymphoma With IGH::IL3	Diagnostic	Tier I - Level A	Supports	Positive		12244,12245,12243	https://civicdb.org/links/assertions/151
+153	IGH::DUX4 Fusion	B-lymphoblastic Leukemia/lymphoma With DUX4 Rearrangements	Diagnostic	Tier I - Level A	Supports	Positive		12250,12251,12249,12248	https://civicdb.org/links/assertions/153
+154	v::IRF4 Fusion	Large B-cell Lymphoma With IRF4 Rearrangement	Diagnostic	Tier I - Level A	Supports	Positive		12255,12253,12254	https://civicdb.org/links/assertions/154
+155	RBM15::MRTFA Fusion	Acute Myeloid Leukemia With T(1;22)(p13;q13)	Diagnostic	Tier I - Level A	Supports	Positive		12262,12261,12260	https://civicdb.org/links/assertions/155
+156	v::JAK2 Fusion	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Diagnostic	Tier I - Level A	Supports	Positive		6964,12287,12256	https://civicdb.org/links/assertions/156
+157	PML::RARA Fusion	Acute Promyelocytic Leukemia With PML-RARA	Diagnostic	Tier I - Level A	Supports	Positive		12289,12333,12334,12292,12288	https://civicdb.org/links/assertions/157
+158	FUS::ERG Fusion	Acute Myeloid Leukaemia With FUS::ERG Fusion	Diagnostic	Tier I - Level A	Supports	Positive		12321,12322,12323	https://civicdb.org/links/assertions/158
+159	v::NR4A3 Fusion	Acinic Cell Carcinoma	Diagnostic	Tier I - Level A	Supports	Positive		12336,12337,12816,12030,12828	https://civicdb.org/links/assertions/159
+160	v::TFCP2 Fusion	Spindle Cell Rhabdomyosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		12326,12325,12335	https://civicdb.org/links/assertions/160
+161	SMARCB1 LOSS OF NUCLEAR PROTEIN EXPRESSION	Cribriform Neuroepithelial Tumor	Diagnostic	Tier I - Level A	Supports	Positive		12327,12332,12328	https://civicdb.org/links/assertions/161
+163	ETV6::RUNX1 Fusion	B-lymphoblastic Leukemia/lymphoma With ETV6-RUNX1	Diagnostic	Tier I - Level A	Supports	Positive		12293,12375,12374	https://civicdb.org/links/assertions/163
+164	NUP98::v Fusion	Acute Myeloid Leukemia With NUP98 Rearrangement	Diagnostic	Tier I - Level A	Supports	Positive		12378,12377,12379,12380	https://civicdb.org/links/assertions/164
+166	IGH::MYC Fusion	B-lymphoblastic Leukemia With MYC Rearrangement	Diagnostic	Tier I - Level A	Supports	Positive		12383,12382,12381	https://civicdb.org/links/assertions/166
+167	EPOR rearrangements	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Diagnostic	Tier I - Level A	Supports	Positive		12393,12394,12395,12397,12396	https://civicdb.org/links/assertions/167
+168	MECOM rearrangement	Acute Myeloid Leukemia With MECOM Rearrangement	Diagnostic	Tier I - Level A	Supports	Positive		12401,12400,12399	https://civicdb.org/links/assertions/168
+169	C19MC Alterations	Embryonal Tumor With Multilayered Rosettes	Diagnostic	Tier I - Level A	Supports	Positive		12389,12391,12390	https://civicdb.org/links/assertions/169
+170	KMT2A::v Fusion	Acute Myeloid Leukemia With MLL Rearrangement	Diagnostic	Tier I - Level A	Supports	Positive		12414,12415,1029,12413	https://civicdb.org/links/assertions/170
+171	COL1A1::PDGFB Fusion	Dermatofibrosarcoma Protuberans	Diagnostic	Tier I - Level A	Supports	Positive		11729,9787,12418,12417,12416	https://civicdb.org/links/assertions/171
+179	FUS::DDIT3 Fusion	Myxoid Liposarcoma	Diagnostic	Tier I - Level A	Supports	Positive		12431,1785,12430	https://civicdb.org/links/assertions/179
+180	AR AR-V7	Prostate Cancer	Predictive	Tier I - Level A	Supports	Resistance	Enzalutamide,Abiraterone	9555,12464,12463,9576,9553,863,9547	https://civicdb.org/links/assertions/180
+181	v::ZNF384 Fusion	B-lymphoblastic Leukaemia/lymphoma With Other Defined Genetic Alterations	Diagnostic	Tier I - Level A	Supports	Positive		12466,12442,12440	https://civicdb.org/links/assertions/181
+182	KMT2A::v Fusion	B-lymphoblastic Leukaemia/lymphoma With KMT2A Rearrangement	Diagnostic	Tier I - Level A	Supports	Positive		12474,12475,12473	https://civicdb.org/links/assertions/182
+185	NPM1 MUTATION	Acute Myeloid Leukemia With Mutated NPM1	Diagnostic	Tier I - Level A	Supports	Positive		12495,12494,108	https://civicdb.org/links/assertions/185
+186	CBFB::MYH11 Fusion	Acute Myeloid Leukemia With Inv(16)(p13.1q22) Or T(16;16)(p13.1;q22)	Diagnostic	Tier I - Level A	Supports	Positive		11792,11793,11791	https://civicdb.org/links/assertions/186
+187	SRF::v Fusion	Myofibroma And Myopericytoma	Diagnostic	Tier I - Level A	Supports	Positive		12520,12517,12518,12519	https://civicdb.org/links/assertions/187
+188	BCR::ABL1 Fusion	Chronic Myeloid Leukemia	Diagnostic	Tier I - Level A	Supports	Positive		12526,220,12589	https://civicdb.org/links/assertions/188
+189	IGH::CRLF2 Fusion	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Diagnostic	Tier I - Level A	Supports	Positive		11621,8233,11613,11622	https://civicdb.org/links/assertions/189
+190	PAX3::FOXO1 Fusion	Alveolar Rhabdomyosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		11684,11687,7009	https://civicdb.org/links/assertions/190
+191	EWSR1::NFATC2 Fusion	Round Cell Sarcoma With EWSR1-non-ETS Fusion	Diagnostic	Tier I - Level A	Supports	Positive		11604,12591,12590	https://civicdb.org/links/assertions/191
+192	PAX7::FOXO1 Fusion	Alveolar Rhabdomyosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		7010,11685,11686	https://civicdb.org/links/assertions/192
+193	MYOD1 L122R	Spindle Cell Rhabdomyosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		11582,8193,11585,11588	https://civicdb.org/links/assertions/193
+194	SS18::SSX1 Fusion	Synovial Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		1069,1065,12122,1070,1063	https://civicdb.org/links/assertions/194
+197	FUS::NFATC2 Fusion	Round Cell Sarcoma With EWSR1-non-ETS Fusion	Diagnostic	Tier I - Level A	Supports	Positive		12693,11605,12692	https://civicdb.org/links/assertions/197
+200	RET M918T	Medullary Thyroid Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Selpercatinib	12708,12056,11876,12711,12157,12598,11867,8851	https://civicdb.org/links/assertions/200
+201	RET E632_L633del	Medullary Thyroid Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Selpercatinib	12715,12712,12714,11875,12716,12056,12157	https://civicdb.org/links/assertions/201
+203	FGFR1 Amplification	Breast Cancer	Prognostic	Tier II - Level C	Supports	Poor Outcome		12497,12486,12487,12532	https://civicdb.org/links/assertions/203
+205	v::NCOA2 Fusion	Spindle Cell Rhabdomyosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		12727,12699,11566,12731	https://civicdb.org/links/assertions/205
+206	H3-3A G35W	Bone Giant Cell Tumor	Diagnostic	Tier I - Level A	Supports	Positive		12749,12750,6469	https://civicdb.org/links/assertions/206
+207	MALAT1::GLI1 Fusion	Gastroblastoma	Diagnostic	Tier I - Level A	Supports	Positive		12754,12080,12755,12753	https://civicdb.org/links/assertions/207
+208	EWSR1::PATZ1 Fusion	Round Cell Sarcoma With EWSR1-non-ETS Fusion	Diagnostic	Tier I - Level A	Supports	Positive		12740,12735,12738	https://civicdb.org/links/assertions/208
+211	RET P628_L633del	Medullary Thyroid Carcinoma	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Selpercatinib	12056,12157	https://civicdb.org/links/assertions/211
+212	v::FOSB Fusion	Pseudomyogenic Hemangioendothelioma	Diagnostic	Tier I - Level A	Supports	Positive		12779,12752,11785	https://civicdb.org/links/assertions/212
+213	v::TYK2 Fusion	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Diagnostic	Tier I - Level A	Supports	Positive		12803,12810	https://civicdb.org/links/assertions/213
+214	v::LYN Fusion	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Diagnostic	Tier I - Level A	Supports	Positive		12809,12801,12802	https://civicdb.org/links/assertions/214
+217	EWSR1::TFCP2 Fusion	Spindle Cell Rhabdomyosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		12827,12826,12825	https://civicdb.org/links/assertions/217
+219	EWSR1::ATF1 Fusion	Clear Cell Sarcoma	Diagnostic	Tier I - Level A	Supports	Positive		12829,8265,12830	https://civicdb.org/links/assertions/219
+222	FOS Rearrangement	Osteoblastoma	Diagnostic	Tier I - Level A	Supports	Positive		11596,11597,11786,11787	https://civicdb.org/links/assertions/222
+223	EWSR1::CREB1 Fusion	Angiomatoid Fibrous Histiocytoma	Diagnostic	Tier I - Level A	Supports	Positive		12852,12853,12855	https://civicdb.org/links/assertions/223
+227	PAX5::v Fusion	B-lymphoblastic Leukemia With PAX5alt	Diagnostic	Tier I - Level A	Supports	Positive		12869,12868,12867,12838	https://civicdb.org/links/assertions/227
+228	VGLL2::v Fusion	Spindle Cell Rhabdomyosarcoma	Diagnostic	Tier I - Level A	Supports	Positive		11565,11568,12870,12871	https://civicdb.org/links/assertions/228
+234	IDH1 R132L	Acute Myeloid Leukemia	Predictive	Tier I - Level A	Supports	Sensitivity/Response	Ivosidenib	12901,12899,12903	https://civicdb.org/links/assertions/234
+243	EWSR1::v Fusion	Myoepithelial Tumors Of Soft Tissue	Diagnostic	Tier I - Level A	Supports	Positive		12926,12927,12931,12930,12929	https://civicdb.org/links/assertions/243
