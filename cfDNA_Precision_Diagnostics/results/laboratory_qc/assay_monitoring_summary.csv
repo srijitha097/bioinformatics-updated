@@ -1,0 +1,5 @@
+assay,category,severity,events
+Aneuploidy,NO_CALL,INFO,12
+Single-gene,BENCHMARK_QC,WARN,7
+Single-gene,LOW_FETAL_FRACTION,WARN,43
+Single-gene,NO_CALL,INFO,662

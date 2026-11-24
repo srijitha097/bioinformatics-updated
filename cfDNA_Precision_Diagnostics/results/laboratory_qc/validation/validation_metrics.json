@@ -1,0 +1,9 @@
+{
+  "failure_scenarios": 9,
+  "detected_failures": 9,
+  "missed_failures": 0,
+  "failure_detection_rate": 1.0,
+  "normal_samples": 206,
+  "false_alert_samples": 0,
+  "original_results_modified": false
+}

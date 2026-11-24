@@ -1,0 +1,8 @@
+{
+  "assays": 2,
+  "samples": 215,
+  "total_reads": 23000332,
+  "qc_passed": 215,
+  "qc_failed": 0,
+  "total_alerts": 0
+}

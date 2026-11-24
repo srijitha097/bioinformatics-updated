@@ -1,0 +1,10 @@
+{
+  "samples": 80,
+  "window_records": 14400,
+  "chromosome_records": 480,
+  "expected_fragments": 4800000,
+  "recovered_fragments": 4799992,
+  "mean_recovery_pct": 99.99983333333333,
+  "exact_window_count_matches": 14392,
+  "window_count_mae": 0.0005555555555555556
+}

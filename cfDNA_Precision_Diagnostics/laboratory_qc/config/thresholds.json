@@ -1,0 +1,11 @@
+{
+  "minimum_mapping_pct": 95,
+  "minimum_pairing_pct": 95,
+  "minimum_high_mapq_pct": 95,
+  "minimum_mean_mapq": 30,
+  "minimum_mean_fragment_length": 140,
+  "maximum_mean_fragment_length": 190,
+  "minimum_family_count_ratio": 0.75,
+  "maximum_vaf_error": 0.02,
+  "minimum_fetal_fraction": 0.04
+}

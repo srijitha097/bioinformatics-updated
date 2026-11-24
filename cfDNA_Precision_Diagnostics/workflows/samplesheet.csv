@@ -1,0 +1,4 @@
+sample,r1,r2
+sg_ff02_n10000_g0_r1,ngs_pipeline/data/single_gene/sg_ff02_n10000_g0_r1_R1.fastq.gz,ngs_pipeline/data/single_gene/sg_ff02_n10000_g0_r1_R2.fastq.gz
+sg_ff02_n10000_g0_r2,ngs_pipeline/data/single_gene/sg_ff02_n10000_g0_r2_R1.fastq.gz,ngs_pipeline/data/single_gene/sg_ff02_n10000_g0_r2_R2.fastq.gz
+sg_ff02_n10000_g0_r3,ngs_pipeline/data/single_gene/sg_ff02_n10000_g0_r3_R1.fastq.gz,ngs_pipeline/data/single_gene/sg_ff02_n10000_g0_r3_R2.fastq.gz

@@ -1,0 +1,71 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.pyc
+results/molecular/example_reads.csv.gz
+
+# Downloaded genomic datasets
+ngs_pipeline/data/
+
+# Sequencing files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+*.crai
+*.vcf.gz
+*.tbi
+
+# Reference indexes
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+*.fai
+
+# Nextflow temporary files
+work/
+work_docker/
+work_ci/
+.nextflow/
+.nextflow.log*
+.nextflow.history
+
+# CI files
+.github/workflows/ci.yml
+workflows/ci/
+results/ci/
+
+# Intermediate outputs
+results/**/alignment/
+results/**/fastqc/
+results/**/*.zip
+results/**/*.log
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.env
+
+# macOS files
+.DS_Store
+
+# Generated MultiQC supporting data
+**/multiqc_data/
+**/llms-full.txt
+**/llms.txt
+
+# Duplicate execution reports
+results/nextflow/reports/initial_run/
+
+# Temporary logs
+*.log
+*.tmp

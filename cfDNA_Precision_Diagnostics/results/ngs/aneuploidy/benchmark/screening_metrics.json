@@ -1,0 +1,26 @@
+{
+  "z_threshold": 3.0,
+  "minimum_simulated_ff": 0.04,
+  "raw": {
+    "evaluation_samples": 60,
+    "called_samples": 48,
+    "no_calls": 12,
+    "no_call_rate": 0.19999999999999996,
+    "correct_calls": 24,
+    "accuracy_all": 0.4,
+    "accuracy_called": 0.5,
+    "exact_trisomy_sensitivity_called": 0.3333333333333333,
+    "specificity_called": 1.0
+  },
+  "gc_corrected": {
+    "evaluation_samples": 60,
+    "called_samples": 48,
+    "no_calls": 12,
+    "no_call_rate": 0.19999999999999996,
+    "correct_calls": 32,
+    "accuracy_all": 0.5333333333333333,
+    "accuracy_called": 0.6666666666666666,
+    "exact_trisomy_sensitivity_called": 0.5555555555555556,
+    "specificity_called": 1.0
+  }
+}

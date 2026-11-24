@@ -1,0 +1,37 @@
+{
+  "posterior_threshold": 0.95,
+  "minimum_consensus_depth": 100,
+  "total_evaluations": 1080,
+  "carrier_known": {
+    "evaluations": 540,
+    "called": 204,
+    "correct": 204,
+    "incorrect": 0,
+    "no_calls": 336,
+    "accuracy_all": 0.37777777777777777,
+    "accuracy_called": 1.0,
+    "no_call_rate": 0.6222222222222222,
+    "affected_samples": 180,
+    "true_positives": 69,
+    "false_positives": 0,
+    "affected_detection_rate": 0.38333333333333336,
+    "false_positive_rate_all": 0.0,
+    "specificity_called": 1.0
+  },
+  "paternal_unknown": {
+    "evaluations": 540,
+    "called": 214,
+    "correct": 203,
+    "incorrect": 11,
+    "no_calls": 326,
+    "accuracy_all": 0.37592592592592594,
+    "accuracy_called": 0.9485981308411215,
+    "no_call_rate": 0.6037037037037036,
+    "affected_samples": 180,
+    "true_positives": 54,
+    "false_positives": 0,
+    "affected_detection_rate": 0.3,
+    "false_positive_rate_all": 0.0,
+    "specificity_called": 1.0
+  }
+}

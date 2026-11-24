@@ -1,0 +1,13 @@
+{
+  "samples": 80,
+  "total_primary_reads": 9600000,
+  "total_mapped_reads": 9600000,
+  "total_proper_fragments": 4800000,
+  "mean_mapping_pct": 100.0,
+  "mean_properly_paired_pct": 100.0,
+  "mean_high_mapq_pct": 99.99989583333334,
+  "mean_mapq": 59.99334052083333,
+  "mean_fragment_length": 165.47750625,
+  "qc_passed": 80,
+  "qc_failed": 0
+}

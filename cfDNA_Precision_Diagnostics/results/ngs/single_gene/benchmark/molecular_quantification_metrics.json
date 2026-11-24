@@ -1,0 +1,18 @@
+{
+  "sequencing_samples": 135,
+  "gene_experiments": 540,
+  "original_molecules": 2250000,
+  "raw_allele_observations": 6695683,
+  "uncorrected_umi_families": 2401434,
+  "corrected_umi_families": 2281859,
+  "merged_umi_families": 119575,
+  "rejected_small_families": 365639,
+  "rejected_ambiguous_families": 2926,
+  "accepted_ref_alt_families": 1913294,
+  "mean_family_count_ratio_pct": 85.09814814814814,
+  "raw_vaf_mae": 0.004709817547179772,
+  "consensus_vaf_mae": 0.00422123225357192,
+  "vaf_error_reduction_pct": 10.373762650326357,
+  "min_family_size": 2,
+  "consensus_threshold": 0.75
+}

@@ -1,0 +1,10 @@
+.git
+.nextflow*
+work/
+work_docker/
+work_ci/
+results/
+ngs_pipeline/data/
+**/__pycache__/
+.pytest_cache/
+.DS_Store

@@ -1,0 +1,10 @@
+sample,assay,metric,observed_value,threshold,severity
+QC_TEST_LOW_MAPPING,Aneuploidy,mapping_pct,85.0,95,FAIL
+QC_TEST_LOW_PAIRING,Aneuploidy,properly_paired_pct,80.0,95,FAIL
+QC_TEST_LOW_HIGH_MAPQ,Aneuploidy,high_mapq_pct,75.0,95,FAIL
+QC_TEST_LOW_MEAN_MAPQ,Aneuploidy,mean_mapq,20.0,30,FAIL
+QC_TEST_SHORT_FRAGMENTS,Aneuploidy,mean_fragment_length,110.0,140,FAIL
+QC_TEST_LONG_FRAGMENTS,Aneuploidy,mean_fragment_length,220.0,190,FAIL
+QC_TEST_READ_COUNT_MISMATCH,Aneuploidy,primary_read_count,100,120000,FAIL
+QC_TEST_UPSTREAM_FAILURE,Aneuploidy,upstream_qc_status,FAIL,PASS,FAIL
+QC_TEST_MISSING_MAPPING,Aneuploidy,mapping_pct,,95,FAIL

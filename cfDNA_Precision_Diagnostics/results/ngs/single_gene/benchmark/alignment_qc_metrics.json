@@ -1,0 +1,14 @@
+{
+  "samples": 135,
+  "expected_reads": 13400332,
+  "total_primary_reads": 13400332,
+  "total_mapped_reads": 13400332,
+  "total_proper_read_pairs": 6700166,
+  "mean_mapping_pct": 100.0,
+  "mean_properly_paired_pct": 100.0,
+  "mean_high_mapq_pct": 100.0,
+  "mean_mapq": 60.0,
+  "mean_fragment_length": 165.47249853997187,
+  "qc_passed": 135,
+  "qc_failed": 0
+}

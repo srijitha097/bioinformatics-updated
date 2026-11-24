@@ -1,0 +1,8 @@
+{
+  "samples_compared": 3,
+  "numeric_metric_comparisons": 12,
+  "numeric_exact_matches": 12,
+  "numeric_agreement_pct": 100.0,
+  "alignment_signatures_compared": 3,
+  "matching_alignment_signatures": 3
+}

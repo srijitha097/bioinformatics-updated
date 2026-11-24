@@ -1,0 +1,5 @@
+truth,NO_CALL_LOW_FF,euploid,trisomy13,trisomy18,trisomy21
+euploid,3,12,0,0,0
+trisomy13,3,5,7,0,0
+trisomy18,3,5,0,7,0
+trisomy21,3,6,0,0,6

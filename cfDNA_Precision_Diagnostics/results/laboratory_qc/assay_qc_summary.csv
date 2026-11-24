@@ -1,0 +1,3 @@
+assay,samples,total_reads,mean_mapping_pct,mean_pairing_pct,mean_mapq,mean_fragment_length,qc_passed,qc_failed
+Aneuploidy,80,9600000,100.0,100.0,59.99334052083333,165.47750624999998,80,0
+Single-gene,135,13400332,100.0,100.0,60.0,165.47249853997187,135,0

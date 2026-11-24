@@ -1,0 +1,12 @@
+{
+  "molecular_experiments": 540,
+  "single_gene_samples": 135,
+  "genotype_evaluations": 1080,
+  "aneuploidy_evaluations": 60,
+  "monitoring_events": 724,
+  "technical_failures": 0,
+  "warnings": 50,
+  "informational_events": 674,
+  "single_gene_no_calls": 662,
+  "aneuploidy_no_calls": 12
+}

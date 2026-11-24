@@ -1,0 +1,12 @@
+{
+  "samples": 6,
+  "evaluation_samples": 5,
+  "annotated_markers": 30,
+  "calibrated_error_rate": 0.00030012004801920766,
+  "total_allele_observations": 89952,
+  "mean_absolute_error_percentage_points": 0.1104589263672647,
+  "rmse_percentage_points": 0.12617802638386683,
+  "target_ff_ci_coverage": 1.0,
+  "qc_passed_samples": 6,
+  "ff_threshold_passed": 3
+}
